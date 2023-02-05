@@ -1,1517 +1,1785 @@
 ,Name,Cuisine Style,Rating Glovo,Number of Reviews
-0,VICIO,['Burgers'],94%,500+
-1,KFC,"['American', 'Chicken']",95%,43
-2,Healthy Poke,"['Healthy', 'Poke']",97%,500+
+0,KFC,"['American', 'Chicken']",91%,168
+1,VICIO,['Burgers'],94%,500+
+2,Healthy Poke,"['Healthy', 'Poke']",95%,500+
 3,Gonzalez & Co,"['American', 'Latin American']",97%,500+
-4,Café & Desayuno,['Breakfast'],95%,500+
-5,Señor Burrito,['Mexican'],96%,500+
-6,Burger King,"['American', 'Burgers']",91%,500+
+4,McDonald's®,"['American', 'Burgers']",90%,500+
+5,Restaurante Kinza,['Mediterranean'],91%,500+
+6,Burger King,"['American', 'Burgers']",96%,500+
 7,KOiKOI sushi,"['Asian', 'Japanese']",91%,500+
-8,Surya,['Indian'],97%,500+
-9,Pizza Bona,"['Italian', 'Pizza']",94%,54
-10,La Güerita Mexicana,['Mexican'],80%,65
-11,Tío Papelón,['Latin American'],87%,500+
-12,Poke House,"['Healthy', 'Poke']",95%,500+
-13,Fish & Chips,"['International', 'Mediterranean']",98%,246
-14,La Gran Familia Mediterránea by Dani García,"['Burgers', 'Mediterranean']",92%,299
-15,Bar Siscu (Comida Asiática),['Asian'],95%,241
-16,Tiflis Restaurant,['International'],90%,398
-17,Pollo Campero,['Chicken'],94%,500+
-18,Bao's,['Japanese'],95%,500+
-19,La Clote,['Pizza'],80%,500+
-20,Luigi Ristorante,"['Italian', 'Pizza']",95%,30
-21,Xiringuito Escribà,['Mediterranean'],89%,64
-22,Hummus Barcelona,['Healthy'],89%,144
-23,McDonald's®,"['American', 'Burgers']",92%,84
-24,Doner Kebab Show,['Arabic'],97%,213
-25,Patapollo,['Chicken'],94%,310
-26,Confi Kebab - Kebab De Confianza,['Chicken'],94%,76
-27,Foc i Oli,['Burgers'],96%,191
-28,Boa Bao,"['Asian', 'Thai']",91%,500+
-29,"Frankfurt’s Original “C.C. Finestrelles""","['American', 'Burgers']",94%,451
-30,Restaurante Green's Aribau,['Mediterranean'],90%,100
-31,Honest Greens,['Healthy'],95%,43
-32,Los Pollos Llull,['Chicken'],96%,455
-33,Made in Italy,"['Italian', 'Pizza']",90%,500+
-34,SHN Doner Turco,['Arabic'],88%,316
-35,Buen Bocado,"['Kebab', 'Mediterranean']",89%,67
-36,A L'ast,['Chicken'],91%,500+
-37,La Rostisseria del Barri,['Chicken'],97%,199
-38,Chalito,"['Latin American', 'Milanese']",95%,400
-39,Cada Día Pizza,['Pizza'],99%,53
-40,Grande Pollo A L'Ast,"['Chicken', 'International']",New,145
-41,Rostisseria Kikiriki,['Chicken'],97%,201
-42,Piolindo Canyadó El De Siempre,"['Chicken', 'Homemade food']",93%,500+
-43,XXL Pita House,"['Arabic', 'Chicken']",95%,127
-44,Meridian Pollo A L'Ast,"['Chicken', 'Mediterranean']",New,362
-45,Chalito,"['Latin American', 'Milanese']",95%,500+
-46,Piolindo Canyadó El De Siempre,"['Chicken', 'Homemade food']",96%,362
-47,Buen Bocado,"['Kebab', 'Mediterranean']",New,333
-48,Libanés Vegano,"['International', 'Vegan']",New,318
-49,Leña Al Pollo By Can Pollastre,"['Chicken', 'Homemade food']",92%,254
-50,Ideal,['Spanish'],New,319
-51,Grande Pollo A L'Ast,"['Chicken', 'International']",New,500+
-52,Cada Día Pizza,['Pizza'],New,500+
-53,Acai&Me Plaza De La LLana,['Healthy'],99%,500+
-54,La Carioca,"['Burgers', 'Latin American']",95%,500+
-55,Restaurante Casa Pepe,"['Mediterranean', 'Seafood']",96%,500+
-56,Yoüme Sushi,"['Asian', 'Japanese']",96%,500+
-57,Rostissería Los Pollos,"['Chicken', 'Homemade food']",92%,500+
-58,Green & Berry,"['Healthy', 'Vegan']",95%,500+
-59,Pollos Rikos,"['Chicken', 'Peruvian']",94%,500+
-60,Frenchy  Tacos,['Arabic'],96%,500+
-61,Out of China,['Asian'],97%,406
-62,Poke Sí,"['Poke', 'Vegan']",90%,270
-63,Pai Mei,['Asian'],98%,500+
-64,A Pluma,['Chicken'],93%,123
-65,Can Pizza,"['Italian', 'Pizza']",93%,500+
-66,Takumi Ramen & Yakisoba,['Japanese'],94%,386
-67,Oakberry Açaí Bowls,"['Breakfast', 'Healthy']",98%,500+
-68,Bacoa,['Burgers'],90%,500+
-69,La Tagliatella,['Italian'],90%,500+
-70,Secrets By Farga,"['Healthy', 'Mediterranean']",95%,500+
-71,El Clot,"['Mediterranean', 'Seafood']",96%,500+
-72,BarcelonaMilano,['Mediterranean'],98%,500+
-73,Deleito,['Burgers'],92%,500+
-74,Restaurante Chino Pekín XXI,"['Asian', 'Seafood']",94%,500+
-75,Palacio de China,['Asian'],95%,500+
-76,Bar Delirium Tapas Y Bocadillos,"['Local food', 'Mediterranean']",98%,500+
-77,Parking Pizza,['Pizza'],96%,500+
-78,4 Pokes,['Poke'],95%,350
-79,Wok Verdi,['Japanese'],96%,326
-80,Goiko,"['American', 'Burgers']",92%,406
-81,Faborit,['Healthy'],97%,500+
-82,Shan Hai City,['Asian'],94%,500+
-83,La Bendecida,"['Latin American', 'Venezolana']",96%,500+
-84,Tlaxcal,['Mexican'],96%,500+
-85,Dulzura Mía,"['Breakfast', 'Sweets']",97%,500+
-86,Mayura,"['Asian', 'Indian']",95%,430
-87,Grosso Napoletano,"['Italian', 'Pizza']",94%,500+
-88,"Good Shit, Vegan Kebabs.","['Arabic', 'Sandwich']",98%,500+
-89,Sannin,['Arabic'],95%,500+
-90,Spice BCN,['International'],95%,431
-91,Crep Nova,"['Italian', 'Pizza']",93%,500+
-92,Central Café,['Healthy'],97%,500+
-93,Messié Sin Gluten,"['Gluten free', 'Italian']",96%,500+
-94,Restaurante Taberna del Cura,['Mediterranean'],95%,500+
-95,Bristol Café,['Mediterranean'],96%,141
-96,PIZZAMARKET,['Pizza'],95%,456
-97,Pollo a la leña-CAN POLLASTRE,"['Chicken', 'Homemade food']",95%,500+
-98,Poke Show,"['Poke', 'Sushi']",95%,500+
-99,Costillas De Cordero,['Mediterranean'],New,500+
-100,Le Romane,['Italian'],92%,500+
-101,Zaatar & Co.,"['Arabic', 'International']",95%,500+
-102,Aladdin,"['Arabic', 'International']",93%,203
-103,La Mammy Chuli's,"['Chicken', 'International']",96%,188
-104,The Dirty Vegans,"['Vegan', 'Vegetarian']",98%,500+
-105,Grosso Napoletano Senza Glutine,"['Gluten free', 'Pizza']",95%,500+
-106,Asian Noodles & Sushi,"['Asian', 'Japanese']",97%,236
-107,Restaurante Mi Rincón,"['Latin American', 'Mediterranean']",97%,131
-108,Gallinos Rostiseria,['Chicken'],96%,243
-109,Costa Pacífico,['Mexican'],97%,500+
-110,Hijoopo,['Asian'],New,500+
-111,NAP,['Pizza'],96%,500+
-112,Restaurante Chino Gran Lujo,['Asian'],95%,500+
-113,Sandwich Club Barcelona,['Sandwich'],96%,500+
-114,UDON,['Japanese'],94%,250
-115,Cítrico,"['International', 'Mediterranean']",New,500+
-116,Can Pizza,['Pizza'],97%,500+
-117,La Güerita Mexicana,['Mexican'],94%,126
-118,Sushi Day,"['Japanese', 'Sushi']",95%,500+
-119,Taco Duram,"['Arabic', 'Chicken']",New,500+
-120,Wynwood Café,['Healthy'],97%,332
-121,KIKIRIKI,"['Chicken', 'Mediterranean']",95%,107
-122,La Taquería,['Mexican'],96%,500+
-123,Anauco,['Burgers'],96%,487
-124,Keik,['Burgers'],97%,500+
-125,Bar Restaurante La Dehesa,['Mediterranean'],89%,260
-126,Five Guys,"['American', 'Burgers']",91%,500+
-127,Little India,['Indian'],92%,500+
-128,Restaurante vinyar,"['Asian', 'Homemade food']",96%,431
-129,Oishii Ramen Street,['Asian'],97%,500+
-130,La Pachuca,['Mexican'],97%,229
-131,Flax & Kale Gluten Free,"['Gluten free', 'Healthy']",93%,265
-132,Doña Jacinta,"['Latin American', 'Venezolana']",92%,265
-133,Sabor De India,['Indian'],98%,279
-134,Fish & Chips - Sin Gluten,"['Gluten free', 'Healthy']",96%,344
-135,La Cantina by La Mechada Express,['Latin American'],94%,453
-136,Poke Moana,"['Healthy', 'Poke']",95%,150
-137,Sushi Show,"['Healthy', 'Sushi']",90%,90
-138,Macchina Pasta Bar,['Italian'],96%,500+
-139,Alo Beirut,"['Arabic', 'Healthy']",92%,466
-140,Urban Poke,"['Healthy', 'Poke']",94%,273
-141,DelaCrem,['Ice cream'],100%,46
-142,Santamasa,['Mediterranean'],96%,181
-143,Tequeños del Sur,['Latin American'],97%,94
-144,Mian,['Asian'],98%,154
-145,La Central Burger,"['American', 'Burgers']",94%,407
-146,La Vietnamita,"['Asian', 'Healthy']",93%,279
-147,XXL KEBAB,"['Arabic', 'Kebab']",97%,450
-148,Panchito Amigó,['Mexican'],91%,327
-149,Del Poble Pizzeria,['Pizza'],96%,500+
-150,El Racó Pizzería Mediterránea,['Mediterranean'],94%,158
-151,Bento & Go,['Japanese'],98%,63
-152,La Malandrina,['Latin American'],93%,241
-153,Kasarap Filipino Kitchen,['Asian'],98%,198
-154,Il Mulino Pizza Bakery,['Pizza'],95%,354
-155,Wok Asia Amb Gracia,['Japanese'],93%,500+
-156,La Hamaca,['Sandwich'],87%,44
-157,Gandhi,"['Asian', 'Indian']",96%,500+
-158,4 Makis,['Japanese'],97%,500+
-159,Piel De Gallina,"['American', 'Chicken']",96%,421
-160,Restaurante Chino Futu,['Asian'],97%,403
-161,Taco Alto,['Mexican'],92%,330
-162,Rostisseria,['Chicken'],90%,63
-163,Pollo Leña & Can Eusebio,['Chicken'],93%,401
-164,Pollos Y Croquetas,['Mediterranean'],95%,50
-165,Hideout Burger,"['American', 'Burgers']",90%,500+
-166,Lalola,['Pizza'],94%,433
-167,El Modernista,['Mediterranean'],91%,62
-168,Suki Ramen,"['Asian', 'Japanese']",94%,432
-169,American Bite,"['American', 'Chicken']",93%,27
-170,Rostisseria Ca L’Arnes,"['Chicken', 'Paella']",96%,500+
-171,Sushi Shop,"['Japanese', 'Poke']",93%,500+
-172,Bella Venezia,['Pizza'],98%,207
-173,Chickoa,['Chicken'],92%,319
-174,Pai Mei,['Asian'],97%,500+
-175,Gandhi Indien Food,"['Indian', 'International']",97%,340
-176,Fu Lin,"['Asian', 'Japanese']",91%,500+
-177,Mon Viet,['Asian'],95%,500+
-178,Subway,"['American', 'Sandwich']",94%,500+
-179,Chila,['Asian'],99%,198
-180,Chickoa,['Chicken'],92%,319
-181,Pai Mei,['Asian'],97%,500+
-182,Gandhi Indien Food,"['Indian', 'International']",97%,340
-183,Fu Lin,"['Asian', 'Japanese']",91%,500+
-184,Mon Viet,['Asian'],95%,500+
-185,Subway,"['American', 'Sandwich']",94%,500+
-186,Chila,['Asian'],99%,198
-187,TGB - The Good Burger,"['American', 'Burgers']",94%,500+
-188,Ramen Shifu,"['Asian', 'International']",92%,500+
-189,Chök,"['Snacks', 'Sweets']",95%,110
-190,Chök Gluten Free,"['Gluten free', 'Sweets']",New,500+
-191,Kebabish,"['Arabic', 'International']",96%,500+
-192,Xurreria Jessy,"['Churros', 'Sweets']",96%,292
-193,Bona Sort Sushi,"['Japanese', 'Poke']",98%,176
-194,2254 Tapas,['Italian'],85%,97
-195,El Limonero Peruano,"['Latin American', 'Peruvian']",88%,500+
-196,Bendito Pecado,"['Latin American', 'Venezolana']",95%,475
-197,Bellillo,"['Italian', 'Pizza']",96%,500+
-198,La Caravana,"['Arabic', 'Pizza']",96%,253
-199,A L'Ast Pollo Asado,"['American', 'Chicken']",93%,151
-200,Machete Burritos,['Mexican'],94%,259
-201,Deleit Sushi,"['Asian', 'Japanese']",97%,500+
-202,Parking Pita,"['Arabic', 'Sandwich']",93%,500+
-203,Manolo Bakes,"['Breakfast', 'Sweets']",97%,421
-204,Maruko,['Japanese'],97%,500+
-205,TEIKIT Sushi,"['Asian', 'Japanese']",96%,480
-206,My Fucking Poke,"['Healthy', 'Poke']",94%,242
-207,Roti - Indian Vegetarian Kitchen,"['Vegan', 'Vegetarian']",94%,500+
-208,Sushi Way,"['Japanese', 'Sushi']",96%,476
-209,M2 Gluten Free - Sin Gluten,"['Gluten free', 'Healthy']",94%,500+
-210,Sushiyaki,"['Asian', 'Japanese']",97%,228
-211,Pappa e Pizza,"['Italian', 'Pizza']",92%,57
-212,Bar Restaurante Ámsterdam,['Burgers'],94%,352
-213,Hai Tian,['Asian'],94%,209
-214,Bowy,"['Healthy', 'Vegetarian']",98%,500+
-215,Sports Bar Italian Food,"['Italian', 'Pizza']",94%,500+
-216,GoXO,['International'],92%,135
-217,Grill Restaurant,['Mediterranean'],97%,198
-218,Koryo,['Asian'],98%,135
-219,Pasteles BakerBand,"['Breakfast', 'Sweets']",94%,67
-220,Crumbles,"['Sweets', 'Vegan']",93%,120
-221,Santo Porcello,['Italian'],96%,241
-222,ROYAL INDIAN by Taj,"['Indian', 'International']",95%,81
-223,Yamada Ya BCN,['Japanese'],95%,307
-224,Robin Foodie Comida Saludable,"['Healthy', 'Vegetarian']",95%,264
-225,Restaurante Shanghai,['Asian'],91%,91
-226,Cresta Colorada,['Mexican'],95%,283
-227,Cuina Chen,['Asian'],99%,500+
-228,Sweet Gocho,"['Breakfast', 'Ice cream']",94%,167
-229,Flax & Kale @Home,['Healthy'],94%,500+
-230,Fast Kibuka,"['Asian', 'Japanese']",97%,45
-231,Gozo,"['Burgers', 'Healthy']",95%,500+
-232,Casa Fong,['Asian'],92%,500+
-233,Pots & Cakes,"['Snacks', 'Sweets']",99%,128
-234,Arabia Café,"['Arabic', 'Mediterranean']",98%,314
-235,Taco Bell,['Mexican'],83%,500+
-236,OH BO,['Healthy'],98%,102
-237,Frankfurt's Barceloneta,['Burgers'],94%,73
-238,The Sunday Brunch.,"['Brunch', 'Sandwich']",98%,228
-239,Gelatería Da Gallo,"['Ice cream', 'Sweets']",96%,160
-240,Gandhi Veg India,"['International', 'Vegetarian']",95%,98
-241,Kus Kus,['Mediterranean'],100%,65
-242,Yummy Fried Chicken,"['American', 'Chicken']",98%,187
-243,New York Burger,['Burgers'],89%,500+
-244,Tapas 24,"['Brunch', 'Mediterranean']",97%,210
-245,Restaurante Corea Qing Wa Tai,['Asian'],95%,225
-246,Japan Home,['Japanese'],94%,17
-247,Chiku Yo Tei,['Japanese'],90%,56
-248,Dürüm Kebab Gracia,"['Arabic', 'Kebab']",95%,500+
-249,Arepish,['Latin American'],93%,500+
-250,Empanadas Malvón,"['International', 'Latin American']",93%,404
-251,Almacén de Empanadas,['Latin American'],100%,277
-252,Tandoori Nights,['Indian'],98%,128
-253,Grasshopper Ramen Bar,['Asian'],83%,321
-254,Brunch Gluten Free,"['Brunch', 'Gluten free']",91%,78
-255,Hammock Juice Station,['Healthy'],92%,204
-256,Rojo by Tragaluz,"['Japanese', 'Pizza']",93%,500+
-257,American Pancakes by Melat,['Breakfast'],92%,60
-258,Colombia Pan y Sabor - Aragón,['Latin American'],97%,177
-259,Desoriente / Asian Vegan Sushi,"['Asian', 'Sushi']",94%,131
-260,El Pollastre Anglès,"['Chicken', 'Paella']",96%,201
-261,Ostras Louis,['Fishmongers'],95%,53
-262,Fu Xing,"['Asian', 'Chinese']",94%,500+
-263,Vapiano,"['Italian', 'Pizza']",94%,386
-264,Wok Show,"['Asian', 'Japanese']",89%,415
-265,Casa Moritz Barcelona,['Mediterranean'],98%,75
-266,Tino | esto no es una pizza,"['Italian', 'Pizza']",98%,500+
-267,Burritos,['Mexican'],92%,341
-268,Restaurante Avocado BCN,['Mediterranean'],94%,64
-269,Fat Barbies,['Burgers'],88%,377
-270,Gandhi Express,['Indian'],97%,300
-271,Asian Freak,['Asian'],95%,372
-272,La Pala Pizza Bar,['Pizza'],91%,92
-273,Central Brunch,"['Brunch', 'Sandwich']",97%,39
-274,Chocolatería Valor,['Sweets'],94%,123
-275,Casa Moritz Barcelona,['Mediterranean'],98%,75
-276,Tino | esto no es una pizza,"['Italian', 'Pizza']",98%,500+
-277,Burritos,['Mexican'],92%,341
-278,Restaurante Avocado BCN,['Mediterranean'],94%,64
-279,Fat Barbies,['Burgers'],88%,377
-280,Gandhi Express,['Indian'],97%,300
-281,Asian Freak,['Asian'],95%,372
-282,La Pala Pizza Bar,['Pizza'],91%,92
-283,Central Brunch,"['Brunch', 'Sandwich']",97%,39
-284,Chocolatería Valor,['Sweets'],94%,123
-285,Asian Ways,['Asian'],96%,402
-286,Delhi Sweets And India Restaurant,['Indian'],92%,136
-287,Port Bay,"['Breakfast', 'Snacks']",100%,30
-288,Mimmar,"['Mediterranean', 'Vegetarian']",98%,139
-289,Squadra Pizza Lab,['Pizza'],95%,500+
-290,Lady Dumpling,"['Asian', 'Japanese']",94%,500+
-291,Bam Bam Doner Kebab,"['Arabic', 'Chicken']",94%,264
-292,Little Caesars Pizza,['Pizza'],93%,335
-293,Ishumo,['Japanese'],98%,111
-294,Doner Kebab El Maño,['Arabic'],89%,500+
-295,La Picnic,['Asian'],97%,17
-296,Chebu,['Asian'],94%,142
-297,Single Fin Poke Joint,"['Healthy', 'Poke']",93%,433
-298,Indian Diputació,['Indian'],90%,138
-299,Big Boom Burger,"['American', 'Burgers']",94%,470
-300,Indian Top Curry 2,['Japanese'],91%,39
-301,Olivetto,"['Italian', 'Pizza']",98%,154
-302,Restaurante Xewu II,['Asian'],97%,38
-303,Charro Premium Burgers,"['American', 'Burgers']",98%,201
-304,Restaurante Barnabier,"['Burgers', 'Mediterranean']",94%,30
-305,Ceviches La Peruana,"['Latin American', 'Peruvian']",94%,169
-306,Malditos los Tacos,['Mexican'],93%,236
-307,Umēshu Sushi,"['Asian', 'Japanese']",95%,500+
-308,Tío Bigotes,['Latin American'],97%,163
-309,Chivuo's,['Burgers'],90%,440
-310,Fit Bar,['Healthy'],98%,136
-311,La Pita Bonita,"['Arabic', 'International']",93%,184
-312,Wok Street,['Asian'],93%,324
-313,Oi'Ma,"['Italian', 'Sandwich']",96%,277
-314,365 Obrador,"['Breakfast', 'Brunch']",92%,233
-315,Fàbrica Moritz Barcelona,"['Burgers', 'Mediterranean']",98%,111
-316,Istambul Kebab,"['Arabic', 'Kebab']",93%,51
-317,Zaika India Restaurant,['Indian'],92%,81
-318,La Mama Acasa,['International'],97%,143
-319,La Desayunería,"['American', 'Breakfast']",94%,359
-320,Frankfurt El Perro de Cine,"['American', 'Gluten free']",92%,500+
-321,La Burguesa,['Burgers'],93%,195
-322,Pastelería Hofmann,"['Breakfast', 'Gourmet']",97%,375
-323,Kioto,"['Asian', 'Japanese']",95%,406
-324,Pollo Home,['Chicken'],93%,217
-325,Sushi Nori,"['Japanese', 'Sushi']",95%,500+
-326,Empanadish,"['Latin American', 'Venezolana']",96%,500+
-327,Bonaburger,['Burgers'],93%,383
-328,Fenicia,['Mediterranean'],97%,260
-329,Ugarit,['International'],93%,213
-330,Estambul Restaurant,['Arabic'],96%,61
-331,El Pachuco,['Mexican'],94%,434
-332,Healthy Nation,"['Healthy', 'Mediterranean']",93%,350
-333,La Chirigota Brazil Food,"['International', 'Mediterranean']",83%,10
-334,Pizzeria La Gavina,['Pizza'],96%,219
-335,Más Que Sushi,"['Japanese', 'Sushi']",97%,244
-336,Timesburg,['Burgers'],90%,500+
-337,Franckfurt Baetulo,['Burgers'],92%,308
-338,Bite the Health,"['Healthy', 'Poke']",75%,13
-339,Pollo Rico,['Chicken'],91%,100
-340,Acqua & Farina,"['Italian', 'Pizza']",95%,150
-341,Taverna Italiana,['Pizza'],96%,48
-342,Allinone Pastas,['Italian'],87%,304
-343,Pizza Circus,['Pizza'],97%,500+
-344,La Viena Blanca,['Mediterranean'],99%,49
-345,Konkai Sushi,"['Japanese', 'Poke']",96%,62
-346,OMG,"['Healthy', 'Mediterranean']",96%,500+
-347,Restaurant La Boquería,"['Mediterranean', 'Paella']",89%,101
-348,Burgertime Gourmet,['Burgers'],98%,98
-349,Restaurante Kapadokya,['Arabic'],89%,71
-350,Hungry Eyes,['Indian'],95%,185
-351,Frankfurt Montgat,['Sandwich'],95%,39
-352,Kanin Ko Rice In A Box,['Asian'],91%,31
-353,Pizza Rico,['Pizza'],98%,39
-354,Kangnam,['Asian'],97%,83
-355,Xurreria Sagrada Família,"['Breakfast', 'Churros']",92%,500+
-356,Mustafa’s Döner & Grill,['Arabic'],93%,500+
-357,Rekons Empanadas,"['Mediterranean', 'Vegan']",98%,276
-358,Bar Restaurante Cachut,['Mediterranean'],60%,10
-359,Empanada Club Hostafrancs,['Latin American'],93%,218
-360,Pura Brasa,"['Chicken', 'Grill']",94%,131
-361,Tango Grill,['Latin American'],94%,283
-362,Gallo Santo,"['Mexican', 'Vegetarian']",91%,22
-363,Umamy Noodles,['Asian'],92%,336
-364,Restaurante Pizzería Kebab Tchey,['Arabic'],94%,168
-365,Super Vegan,"['Vegan', 'Vegetarian']",96%,168
-366,El Club de La Pasta,['Pizza'],91%,31
-367,Antalya Kebab y Pizza,"['Arabic', 'Kebab']",95%,234
-368,Wok To Box,['Asian'],96%,384
-369,Mr Tanaka Asian Burger,['Burgers'],95%,128
-370,Carabela Café,['Mexican'],94%,111
-371,Dionisos,"['Greek', 'International']",92%,283
-372,All day Wok,['Asian'],94%,313
-373,Tierra Burrito,['Mexican'],97%,500+
-374,Indian Herbs,['Indian'],95%,237
-375,Sr Ceviche,['Latin American'],95%,51
-376,Lilo Brunch,"['Brunch', 'Healthy']",96%,73
-377,Zeeshan Kebabish Halal Restaurant,"['Indian', 'Kebab']",91%,180
-378,Dirty Joe's empowered by Heura,"['Burgers', 'Vegetarian']",97%,381
-379,My Gyros Pita & Pizza - Greek House,['Pizza'],93%,292
-380,Taj Mahal,"['Arabic', 'Indian']",92%,165
-381,Super Picnic,['American'],96%,114
-382,Healthy Pleasure,"['Healthy', 'Vegetarian']",95%,81
-383,Miko Poke & Sushi,"['Japanese', 'Poke']",94%,122
-384,That's Amore,['Pizza'],95%,230
-385,Dunkin',"['Breakfast', 'Brunch']",94%,52
-386,El Señorío de Perú,"['Latin American', 'Peruvian']",98%,160
-387,Birrieria Dos Coyotes,['Mexican'],83%,124
-388,Barbaro Costillas Y Alitas,"['American', 'International']",87%,178
-389,Arrossería,"['Mediterranean', 'Paella']",86%,136
-390,A Vocados,['Pizza'],96%,192
-391,Kakigori,"['Japanese', 'Sweets']",92%,60
-392,Bodega Genin,['Mediterranean'],97%,28
-393,Bar El Velódromo,['Mediterranean'],99%,118
-394,El Raco de Maladeta,"['Asian', 'Japanese']",93%,439
-395,Toyako,"['Asian', 'Healthy']",97%,195
-396,Casa Fernández,"['Burgers', 'Pizza']",99%,96
-397,Pollo Al'Ast,"['Arabic', 'Chicken']",95%,48
-398,Ribs,['American'],91%,183
-399,Brutal Hotdogs,"['American', 'Burgers']",90%,34
-400,Nikkis Kitchen,['Burgers'],94%,129
-401,The Fresh Poke,"['Healthy', 'Poke']",91%,274
-402,Brasería El Imperio,"['Latin American', 'Mediterranean']",92%,76
-403,Pokawa,"['Poke', 'Vegan']",90%,198
-404,Taller De Tapas Rambla,['Mediterranean'],94%,57
-405,Pinoy Chao Fan,['Asian'],89%,45
-406,Blät Muntaners,"['Bakery', 'Sandwich']",93%,123
-407,Saray Restaurante Barcelona,"['Arabic', 'Indian']",94%,44
-408,Curry Masala,"['Indian', 'International']",98%,48
-409,Empanadas Las Muns,"['Latin American', 'Vegetarian']",97%,87
-410,Can Pollo Leña Especialistas,['Chicken'],90%,138
-411,Rostissería La Española,['Mediterranean'],80%,55
-412,Cinesa,['Snacks'],83%,64
-413,Dumplings,['Japanese'],96%,327
-414,La Turka Kebab,"['Arabic', 'Pizza']",97%,265
-415,T4 Bubble Tea,['Snacks'],95%,203
-416,Restaurante Ola,['Japanese'],95%,37
-417,Pappa e Pizza,"['Italian', 'Pizza']",96%,120
-418,Hamburguesería rústica Tío Joe,['Burgers'],98%,111
-419,Hamburguesería rústica Tío Joe,['Burgers'],98%,111
-420,Mosquito,['Asian'],94%,91
-421,Lebanese Parade,"['Arabic', 'Vegetarian']",87%,119
-422,Fenicia Vegetariana,['Healthy'],96%,41
-423,Yamada Ya BCN,['Japanese'],96%,182
-424,Asador del Mar,"['marisco', 'Mediterranean']",88%,130
-425,Saona,['Mediterranean'],89%,24
-426,La Cuina Rosticería,['Chicken'],97%,59
-427,Vegan Junk Food Bar,"['Burgers', 'Vegan']",97%,203
-428,My Burgers,['Burgers'],97%,152
-429,Brisa Sin Prisa,['Mediterranean'],97%,148
-430,Poke Munch,"['Healthy', 'Poke']",96%,121
-431,Frankfurt’s Sant Andreu,"['American', 'Burgers']",96%,500+
-432,Citizen Café,"['Breakfast', 'International']",86%,156
-433,Belyaburguer,['Burgers'],87%,89
-434,The Chicken & Chips Co,['Chicken'],97%,135
-435,Pasta Gaudí,['Italian'],99%,39
-436,Waffle Barcelona,['Breakfast'],93%,342
-437,Doner Kebab Fresh Food,['Arabic'],93%,48
-438,Pizza París,"['Italian', 'Pizza']",94%,393
-439,"Pokaï , Your tasty POKE BOWL",['Poke'],96%,48
-440,The Greek Street,['Greek'],87%,500+
-441,Lateral,['Mediterranean'],89%,139
-442,Kebab Y Pizza,"['Arabic', 'Pizza']",99%,37
-443,Sushifresh,"['Asian', 'Japanese']",93%,197
-444,The Lobster Roll Barcelona,['American'],91%,95
-445,Pizzería Ninones,['Italian'],89%,64
-446,BRO Room,"['Burgers', 'Vegetarian']",93%,209
-447,Quiero más,['Mediterranean'],92%,10
-448,Telepizza,['Pizza'],95%,319
-449,Livingstone,"['American', 'Burgers']",96%,384
-450,TakoTako,['Mexican'],90%,70
-451,Baden Baden,"['Burgers', 'Sandwich']",95%,119
-452,Choroni Restaurante,"['Latin American', 'Venezolana']",94%,366
-453,Durum De Barcelona,"['Arabic', 'Kebab']",91%,17
-454,Restaurante Donde Siempre,"['Burgers', 'Latin American']",92%,93
-455,India Go,['Indian'],93%,126
-456,Enrique Tomás,"['Gourmet', 'Mediterranean']",97%,99
-457,Pizerría Da Nanni,['Pizza'],93%,289
-458,Frankfurt de Verdi,['Burgers'],96%,500+
-459,VIPS,"['American', 'Burgers']",92%,388
-460,Freshperts,"['Asian', 'Japanese']",92%,164
-461,Restaurant Tamara,['Mediterranean'],96%,74
-462,Green & Berry Corner,['Healthy'],95%,53
-463,Grill Doner,['Arabic'],93%,206
-464,Chilango's,['Mexican'],93%,149
-465,Envols-Poké Bowls,"['Healthy', 'Poke']",93%,121
-466,Capitol de Vietnam,"['Asian', 'International']",97%,275
-467,Hi Wok,['Japanese'],91%,492
-468,Trópico,"['Healthy', 'Latin American']",98%,91
-469,DoriDori,['Breakfast'],94%,81
-470,Empanar Empanadas,"['Gourmet', 'Latin American']",96%,372
-471,Bobo Doner Kebab,"['Arabic', 'Kebab']",94%,288
-472,Cachapish,['Latin American'],89%,490
-473,deWeggie's,"['Burgers', 'Pizza']",95%,71
-474,Pupuseria Pica Pica,"['International', 'Latin American']",96%,104
-475,Elche Restaurant,['Mediterranean'],91%,20
-476,Bar Taxi,['Mediterranean'],96%,81
-477,Casa Díaz BCN,['Latin American'],91%,36
-478,Turco Real,['Arabic'],97%,64
-479,Cuina de Festa,['Mediterranean'],97%,45
-480,Bopiz,"['Italian', 'Pizza']",93%,500+
-481,Rebecca Diabola,"['Italian', 'Pizza']",97%,264
-482,Halal Burger,['Burgers'],92%,36
-483,Baozi Bar,['Japanese'],94%,74
-484,Lys,"['Asian', 'International']",94%,113
-485,Master Chef Sant Adrià de Besós,"['Asian', 'International']",92%,147
-486,Boko Thai,['Thai'],86%,127
-487,Restaurante Vegetalia,['Healthy'],98%,39
-488,Kebab Inn,['Arabic'],90%,227
-489,Rey De Ali Baba Kebab,"['Arabic', 'International']",89%,122
-490,Bar Paco,"['Mediterranean', 'Pizza']",93%,31
-491,Ciudad Flor,['Asian'],94%,227
-492,Star India,['Indian'],90%,224
-493,Tapa de China,['Asian'],86%,132
-494,La tropa,['Burgers'],99%,58
-495,Pans & Company,['Mediterranean'],95%,298
-496,Rainbowls,['Japanese'],92%,204
-497,Machete,['Mexican'],95%,78
-498,A33 Pizzería,"['Italian', 'Pizza']",94%,138
-499,Rosteria Pollo,"['Arabic', 'Chicken']",97%,40
-500,La piazzetta gran via,['Pizza'],94%,160
-501,Fiser Sushi,"['Japanese', 'Sushi']",95%,78
-502,Cheriff Restaurant,['Mediterranean'],87%,14
-503,Vegesana,"['Healthy', 'Vegetarian']",97%,154
-504,Sabor Mexicano,['Mexican'],97%,225
-505,Asa Sushibar,"['Asian', 'Japanese']",97%,38
-506,Frankie Gallo Cha Cha Cha,"['Italian', 'Pizza']",93%,341
-507,Restaurante Nami,['Asian'],88%,78
-508,Pastas 197,"['International', 'Italian']",86%,260
-509,Pizza To Rico,['Pizza'],94%,75
-510,Pizza Margarita,"['International', 'Italian']",92%,89
-511,PÖTSTOT-Vegano sin gluten,"['Gluten free', 'Gourmet']",85%,114
-512,Pitta Hot Döner,['Arabic'],95%,89
-513,Poke Fish and Greens,"['Healthy', 'Poke']",81%,39
-514,Istanbul,['Arabic'],88%,63
-515,Gandhi Executive Food,"['Chicken', 'Indian']",96%,301
-516,Pasta Market Express,"['Italian', 'Pizza']",86%,34
-517,Grill Istanbul,"['Arabic', 'Pizza']",97%,115
-518,Bungr,"['American', 'Burgers']",93%,500+
-519,Honkaku II,['Japanese'],100%,13
-520,Bar Granja 2018,['Asian'],97%,163
-521,Baba Kebab,"['Arabic', 'Kebab']",95%,198
-522,Man O Salva Restaurante,"['Arabic', 'Pizza']",98%,31
-523,Pizza Zona Franca,['Pizza'],99%,63
-524,Frankfurt’s Industria,['Sandwich'],94%,229
-525,King de Horta,"['Arabic', 'Pizza']",96%,179
-526,Smoky Ribs,"['American', 'Grill']",87%,67
-527,Tulsi Vegan Restaurante,"['Gourmet', 'Vegan']",97%,121
-528,El Rey Del Pollo Leña Alast,['Chicken'],93%,147
-529,Pasta Santaló,['Italian'],84%,64
-530,Pollo A L'ast & Kebab,"['Burgers', 'Chicken']",98%,28
-531,The Dog is Hot,['American'],92%,230
-532,Usmaniagrill,['Indian'],89%,50
-533,Pizzería Valencia,['Pizza'],94%,111
-534,Champanillo,"['Burgers', 'Mediterranean']",88%,245
-535,Liukoushui Hotpot Fideo,"['Asian', 'International']",94%,66
-536,New Merka Pizza,['Italian'],94%,26
-537,Raisu La Maquinista,['Asian'],97%,500+
-538,Porta La Pasta,"['Italian', 'Mediterranean']",95%,321
-539,Gelateria Italiana de la plaça Revolució,"['Ice cream', 'Italian']",100%,55
-540,Bubble Bar,"['Latin American', 'Mediterranean']",87%,36
-541,Thai & Green,['Asian'],92%,309
-542,New Himali,"['Asian', 'Indian']",83%,32
-543,Ninja Wings,"['American', 'Chicken']",97%,94
-544,La Brasa Roja,['Chicken'],94%,150
-545,Van Van Chicken Bar,['Chicken'],87%,215
-546,El Racó,['Italian'],97%,111
-547,Yakumanka,['Latin American'],87%,62
-548,L'Àvia et cuida,['Mediterranean'],95%,38
-549,Bilbao Berria,['Mediterranean'],83%,32
-550,Restaurante El Nilo Barcelona,['Arabic'],96%,28
-551,Pita Corner,"['Arabic', 'Pizza']",89%,86
-552,Navas Doner Pizza,"['Arabic', 'International']",94%,44
-553,Bendita Trumfa,"['Burgers', 'Sandwich']",94%,500+
-554,Bar Restaurante La Familia,['Mediterranean'],86%,75
-555,Pak Tandoori Restaurante,['Indian'],96%,203
-556,Raconet,"['International', 'Sandwich']",92%,45
-557,Bismillah Burguer,"['Arabic', 'Burgers']",85%,23
-558,Kings Doner Kebab Pizzería,"['Arabic', 'International']",96%,143
-559,Sunrise Doner Kebab,"['Arabic', 'Kebab']",86%,77
-560,Paisano Bistró,['Italian'],94%,252
-561,Realfooding To Go,"['Healthy', 'Mediterranean']",90%,347
-562,Papadam Indian Authentic Restaurant,['Indian'],94%,228
-563,Papadam Indian Authentic Restaurant,['Indian'],94%,228
-564,K' Delicia,['Latin American'],96%,500+
-565,¡Ándale Burrito!,['Mexican'],94%,143
-566,Lahore Restaurant Authentic Pakistani Halal And Indian,['Indian'],85%,40
-567,Celebre,"['Breakfast', 'Ice cream']",95%,151
-568,Temaki Ya Sushi,"['Japanese', 'Sushi']",92%,23
-569,Panino Silvestre,['Pizza'],97%,181
-570,Yiduo,['Japanese'],97%,13
-571,HFC Halal Fried Chicken,['Chicken'],87%,179
-572,Gelateria Italiana Deliziosa,"['Ice cream', 'Italian']",93%,38
-573,Pizza Stop,"['Italian', 'Pizza']",88%,289
-574,Pizza Roger De Flor,['Pizza'],94%,169
-575,Creperia George's,['Sweets'],89%,85
-576,Takiyo Sushi,"['Asian', 'Japanese']",95%,169
-577,Singh done kebab,['International'],91%,69
-578,Restaurante Iguazú,['Latin American'],91%,72
-579,Elements Healthy Food,"['Healthy', 'Vegetarian']",90%,83
-580,Pizza Capri,['Pizza'],90%,384
-581,Empanada Club Badal,"['Latin American', 'Pizza']",94%,93
-582,Motomaki & Sushi,"['Japanese', 'Sushi']",94%,500+
-583,Churrería Romero,"['Churros', 'Snacks']",91%,202
-584,Wok Station,"['Asian', 'Thai']",95%,435
-585,Hanaikada Sushi,"['Japanese', 'Sushi']",98%,96
-586,MadreLievito Street Food,['Pizza'],91%,56
-587,Napoles,"['Mediterranean', 'Paella']",96%,80
-588,Dionisos Green,"['Greek', 'Mediterranean']",99%,19
-589,El Buen Gusto Castelao 140,"['Grill', 'Latin American']",81%,100
-590,Pizza Italiano,['Pizza'],95%,38
-591,Rooster & Bubbles,['Chicken'],96%,210
-592,Thai Munch,"['Asian', 'Thai']",92%,97
-593,Wok Dao,['Japanese'],98%,61
-594,HOSOmaki,['Asian'],92%,88
-595,Soco,"['Burgers', 'Pizza']",99%,64
-596,Pizza Local,"['Italian', 'Pizza']",98%,389
-597,Pizza Virona,"['Italian', 'Pizza']",82%,124
-598,Ikibana,['Japanese'],92%,193
-599,The Chicago Pizza Pie,['Pizza'],95%,68
-600,Gusto Pizzeria,"['Italian', 'Pizza']",98%,186
-601,Amorino,['Ice cream'],91%,98
-602,PM Sushi & Gyozas,"['Japanese', 'Sushi']",99%,65
-603,Indian Ocean,['Indian'],85%,53
-604,Pollo Bonitos,"['Arabic', 'Chicken']",94%,26
-605,Healthy Pleasure,"['Healthy', 'Mediterranean']",97%,312
-606,Estambul Kebab,['Arabic'],92%,177
-607,Miss Sushi,"['Japanese', 'Sushi']",91%,104
-608,Ciutat Nova,['Asian'],85%,69
-609,Flying Burrito,"['Latin American', 'Mexican']",84%,75
-610,Vegano - Vegetariano Perejil,"['Healthy', 'Vegan']",100%,34
-611,Bang Bang Burritos,['Mexican'],88%,353
-612,El Vato Loco,"['Pizza', 'Vegan']",94%,207
-613,Empanada Club Clot,"['Mediterranean', 'Pizza']",98%,120
-614,Youku Sushi,"['Japanese', 'Sushi']",93%,470
-615,Dolsotbap Casanova,['Asian'],New,204
-616,Only Sushi,"['Asian', 'Japanese']",97%,47
-617,Bisma Kebabish,['Arabic'],93%,219
-618,Changqing Restaurante China,['Asian'],93%,23
-619,Spaitalia,['Italian'],84%,36
-620,Euro Doner Pizzeria Alcudia,['Arabic'],100%,38
-621,Kokomi Restaurante Japonés,['Japanese'],95%,25
-622,Sushi H83,"['Asian', 'Japanese']",88%,26
-623,Nihon sakari,['Japanese'],86%,199
-624,Gallo Nero,['Italian'],92%,163
-625,Cataluña Döner Kebab,['Arabic'],87%,22
-626,Tacos Tacos,['Mexican'],89%,329
-627,Frankfurt Sants,['Mediterranean'],95%,346
-628,VRUTAL - Vegan Burgers & Bowls,"['Burgers', 'Healthy']",99%,20
-629,Makamaka,['Burgers'],98%,237
-630,My Sushi,"['Asian', 'Japanese']",92%,27
-631,Restaurante Ciurana,['Mediterranean'],92%,121
-632,Kebab House,"['Arabic', 'Chicken']",94%,178
-633,Starbucks,"['Snacks', 'Sweets']",69%,32
-634,Taco Alto Vegan,"['Mexican', 'Vegan']",92%,105
-635,Damasquina,['Arabic'],87%,46
-636,Petit Ciurana,['Mediterranean'],93%,119
-637,Negro by Tragaluz,['Mediterranean'],96%,200
-638,Darco's Café,['Burgers'],97%,74
-639,Hao Sushi,"['Asian', 'Japanese']",97%,143
-640,D. Fénix Sushi,"['Japanese', 'Sushi']",92%,96
-641,Estrella de Istanbul,['Arabic'],92%,65
-642,The Burger Maker Halal,"['Breakfast', 'Burgers']",92%,155
-643,Gonzalez & Co Veggie & Vegan,"['American', 'Mexican']",95%,234
-644,Village Restaurant I Doner Kebab,['Arabic'],94%,55
-645,Oassis Lovely Pizza,['Pizza'],90%,32
-646,La Gloria Vegana,"['Vegan', 'Vegetarian']",96%,195
-647,Empanada Club Gracia,"['Latin American', 'Pizza']",98%,112
-648,Sushi Bar Bofan,"['Japanese', 'Seafood']",95%,83
-649,Pasta X Pasta,['Italian'],80%,383
-650,Deep Detroit Style Pizza,['Pizza'],95%,185
-651,Murivecchi,"['Italian', 'Pizza']",94%,57
-652,Rico Kebab 2,"['Arabic', 'Pizza']",89%,194
-653,Cataluña Döner Kebab Sant Josep,"['Arabic', 'Homemade food']",94%,10
-654,Duram House,['Arabic'],100%,199
-655,Bagel Brothers,['Sandwich'],94%,72
-656,Berto's Milanesa,"['International', 'Latin American']",76%,39
-657,Picarn,"['American', 'Arabic']",86%,141
-658,Al Karma,['Arabic'],95%,83
-659,Ristorante Margherita,['Italian'],96%,111
-660,El Rey Del kebab,['Arabic'],91%,162
-661,Guacamole's Cornella Tex-mex,['Mexican'],93%,100
-662,Sushi Ouchi,"['Asian', 'Sushi']",85%,18
-663,Italian Pizza,['Pizza'],96%,38
-664,Delivery Nation,"['American', 'Healthy']",92%,89
-665,Sushi King,"['Asian', 'Sushi']",96%,89
-666,Healthy Burrito,"['Healthy', 'Mexican']",92%,425
-667,Hachiko Sushi,"['Japanese', 'Sushi']",94%,365
-668,Grill Corner Gran Via 2,['Mediterranean'],88%,54
-669,Indian Top Curry,['Indian'],80%,53
-670,Fenix Bar Tapas,['Mediterranean'],92%,16
-671,Trattoria Di Guzman,"['International', 'Italian']",86%,126
-672,La Turuleca,"['Latin American', 'Peruvian']",91%,499
-673,Sultan Kebabish,['Arabic'],94%,205
-674,A Tu Bola,['International'],99%,65
-675,Latin Poke,"['Latin American', 'Poke']",92%,67
-676,Canton Food,"['Asian', 'Chinese']",89%,316
-677,Chocolat Box Gelato - Helado,['Ice cream'],90%,103
-678,Firdaus's Fried Chicken,"['Burgers', 'Chicken']",85%,82
-679,A Fuego! Costillas Y Alitas,"['American', 'Grill']",87%,93
-680,Restaurante Libán,"['Arabic', 'Burgers']",95%,98
-681,Babol Burger,['Burgers'],92%,40
-682,Fluffies,"['Brunch', 'Snacks']",New,86
-683,Pizzeria Creu,"['Indian', 'Italian']",96%,78
-684,Pizzería Sants,['Pizza'],95%,48
-685,Sushi Time,"['Japanese', 'Sushi']",84%,13
-686,Tapas San Miguel,"['Asian', 'Burgers']",99%,52
-687,Contratapa,['Mediterranean'],100%,30
-688,Fujimaya,['Japanese'],94%,38
-689,Yaadgaar Doner Kebab Pizzería,"['Arabic', 'Pizza']",95%,55
-690,Maragall Doner Kebab,['Pizza'],93%,343
-691,La Tremenda,"['American', 'Burgers']",90%,32
-692,La Sabrosura,['Mediterranean'],93%,55
-693,Empanada Club Gran De Gracia,['Latin American'],95%,126
-694,Tequeñish,['Latin American'],94%,94
-695,Zentral Bikinería,['Sandwich'],89%,172
-696,Ándele,['Mexican'],91%,281
-697,Sushilab,"['Japanese', 'Sushi']",97%,90
-698,Pizza Esplugues,['Pizza'],95%,91
-699,Jian-Zhe Asiático,['Asian'],90%,199
-700,Areca Bakery,"['Breakfast', 'Snacks']",96%,163
-701,La Buena Pizza,['Pizza'],90%,78
-702,Greek Aribau,['Mediterranean'],81%,68
-703,Bonprofit Peruano,"['International', 'Peruvian']",97%,48
-704,Granja Ca La Tere,['Asian'],92%,51
-705,Red Ant Noodle Bar,"['Asian', 'Japanese']",77%,101
-706,Pizzería Carlos,['Pizza'],92%,264
-707,Mini Pizzas De Barcelona,['Pizza'],87%,51
-708,Restaurante La Penela,"['Gourmet', 'Mediterranean']",95%,212
-709,Bar Miramar,"['Mediterranean', 'Paella']",95%,114
-710,Suma Manq'a,['Latin American'],93%,135
-711,Mamá Alicia Pollo A L'ast,['Chicken'],81%,102
-712,Komai Sushi Bar & Restaurant,"['Asian', 'Japanese']",95%,41
-713,Roots & Rolls 100% Vegan,"['Healthy', 'Vegan']",90%,63
-714,Internacional Restaurante Bar,"['Latin American', 'Mexican']",94%,113
-715,Shawarmax,"['Arabic', 'Pizza']",94%,49
-716,Frankfurt’s Original “C.C. Frankfutrs Splau”,"['American', 'Burgers']",96%,302
-717,Yoshitake,['Japanese'],94%,226
-718,Alcalde Doner Kebab Pizzeria,"['Arabic', 'Pizza']",97%,60
-719,Tambayan Asian Street Food,['Asian'],93%,56
-720,Garito24,"['Burgers', 'Sandwich']",96%,266
-721,Tantarantana,['Mediterranean'],71%,35
-722,Pecata,"['American', 'Burgers']",95%,162
-723,Doner Pizza’s Kebabs,['Arabic'],96%,62
-724,Can Cuxart,['Mediterranean'],91%,166
-725,Bendito Pecado Latin Food,"['Latin American', 'Venezolana']",96%,301
-726,Kois  Restaurante Japonés,['Asian'],92%,159
-727,Cholito Lindo,"['Breakfast', 'Peruvian']",92%,151
-728,Ciao Bella,"['Italian', 'Pizza']",85%,83
-729,Marina Bay,"['Mediterranean', 'Paella']",89%,27
-730,Jalapeños,['Mexican'],97%,193
-731,Pim Pam Burger,['American'],99%,144
-732,Restaurante Japonés Yiduo2,['Japanese'],90%,20
-733,The Real Burrito,"['American', 'Mexican']",91%,425
-734,Pokes Pro,['Poke'],98%,14
-735,Veggie Cravings,"['Healthy', 'Vegetarian']",78%,56
-736,Restaurante Blanquita,['Latin American'],92%,262
-737,El Sabor Pizzería,['Pizza'],98%,44
-738,Adana Grill House,['Pizza'],89%,22
-739,Sabor Remei Kebabish,['Arabic'],95%,29
-740,Montesquiu,['Mediterranean'],98%,107
-741,Épico Grill,['Burgers'],91%,231
-742,Shalimar braseria,['International'],94%,37
-743,Pita House,"['Arabic', 'Pizza']",92%,119
-744,Bo De Boqueria,"['Butchery', 'Fishmongers']",73%,18
-745,My Lebanon,['Arabic'],97%,27
-746,Ruixian Sushi,"['Healthy', 'Japanese']",98%,185
-747,Moon Kebab,"['Arabic', 'Kebab']",95%,46
-748,Yoüme Poke,"['Healthy', 'Poke']",87%,84
-749,Salad Bowl Bcn,"['Healthy', 'International']",93%,102
-750,Foodies Nation,"['American', 'Chicken']",97%,75
-751,"El Capricho Kebab, Pizza Y Pollo A L'Ast","['American', 'Arabic']",91%,142
-752,Happy Burger,['Burgers'],89%,97
-753,Happy Burger,['Burgers'],89%,97
-754,Papi Tea,"['Breakfast', 'Sweets']",95%,85
-755,Sapor d'Italia,"['Italian', 'Pizza']",90%,154
-756,Pizzería Cornellà,['Pizza'],91%,27
-757,Efsane Istanbul Paralelo,['International'],85%,64
-758,Padthaiwok,['Asian'],89%,132
-759,Vegan Burger - Green Food,"['Breakfast', 'Sandwich']",100%,12
-760,Raja Doner Kebab Pizzería,['Arabic'],95%,15
-761,Tasty Wings,"['American', 'Chicken']",89%,78
-762,A L'AST! Pollo Asado,"['American', 'Chicken']",83%,68
-763,Dr. Beer & Mr. Fried,['Burgers'],99%,41
-764,Amanecer,['Asian'],95%,129
-765,Awais Grill,['Indian'],100%,11
-766,Koh i Noor India,['Mediterranean'],94%,41
-767,Fat Cat,['Mediterranean'],92%,19
-768,Pizza Italiano,"['Italian', 'Pizza']",95%,31
-769,Burger Heroes,['Burgers'],99%,52
-770,El Parc Bar Restaurant,"['Mediterranean', 'Paella']",79%,31
-771,TuCachapa.com,"['Bakery', 'Latin American']",91%,317
-772,Pasta Barcelona,['Italian'],76%,101
-773,Brasería Les Panolles,['Mediterranean'],96%,326
-774,Red Pizza,['Pizza'],92%,67
-775,Criollo - Empanadas Argentinas Caseras,"['Homemade food', 'Mediterranean']",94%,125
-776,Gelati Dino,['Ice cream'],97%,44
-777,"RESTAURANTE ""LIMA LIMON""",['American'],92%,51
-778,Veggy Hot,"['Burgers', 'Vegetarian']",94%,67
-779,Pita House Catalunya,['Arabic'],80%,25
-780,Casa Carmen,['Mediterranean'],96%,134
-781,Vegan Amarre 69,"['Burgers', 'Snacks']",95%,68
-782,Restaurant Ruta 66,"['Burgers', 'Mexican']",88%,150
-783,Bellako,['Arabic'],96%,453
-784,EAT Curry,"['Indian', 'International']",74%,60
-785,The Real Milanesa,['American'],91%,284
-786,Pollo Al'Ast Halal,['Chicken'],98%,25
-787,The Real Food Co.,"['American', 'International']",85%,349
-788,Miss Poke,"['Healthy', 'Poke']",92%,111
-789,Pizza Mad,"['Italian', 'Pizza']",85%,98
-790,Bar Los Gallegos,['Mediterranean'],98%,73
-791,Parisien Retaurante,"['Burgers', 'Pizza']",84%,45
-792,Kebab De La Rambla,"['Arabic', 'Pizza']",91%,66
-793,Magic napoli,['Pizza'],91%,50
-794,Kebab Alcalde,"['Burgers', 'Kebab']",94%,209
-795,Il Posto,['Mediterranean'],88%,28
-796,"Tortitas, Bagels & Zumos","['Breakfast', 'Snacks']",89%,125
-797,Gujrat Grill,"['Arabic', 'Burgers']",90%,44
-798,North India & South India,['Indian'],90%,31
-799,Folk Empanadas,"['Latin American', 'Mediterranean']",96%,25
-800,La Chula,"['Mexican', 'Seafood']",92%,119
-801,Meme Burger,['Burgers'],88%,87
-802,Dim Sum Munch,['Asian'],97%,10
-803,Pasta Stop,['Italian'],80%,85
-804,La Sagrada,"['Burgers', 'Mediterranean']",97%,50
-805,India Gate,['Indian'],84%,131
-806,Juicy Avenue,"['American', 'Brunch']",93%,500+
-807,Fusión Cebiche,"['International', 'Latin American']",87%,42
-808,Mac n Cheese Factory,"['Italian', 'Mediterranean']",89%,116
-809,Lekker Café,['International'],78%,21
-810,Healthy Sandwich,"['Brunch', 'Sandwich']",92%,266
-811,Al Karma 2,"['Arabic', 'Vegetarian']",86%,89
-812,Cafe Pans by Pans&Company,['Mediterranean'],95%,172
-813,Lunch and Catering,"['Arabic', 'Pizza']",98%,18
-814,Ami Shawarma,"['Arabic', 'Pizza']",72%,16
-815,Late Night Pizza & Pastas,['Pizza'],86%,48
-816,Pim Pam Kebab y Pizzería,"['Arabic', 'Pizza']",86%,253
-817,La milanesa bcn,"['Chicken', 'Italian']",96%,281
-818,A Bocados,['Burgers'],94%,121
-819,Rey De Ali Baba,"['Arabic', 'Pizza']",98%,49
-820,Collblanc Kebab,"['Arabic', 'Pizza']",99%,25
-821,Indian Barcelona,['Indian'],84%,11
-822,100 Montaditos Tapas,"['Mediterranean', 'Sandwich']",93%,161
-823,Euro Doner Pizzería,['Arabic'],96%,91
-824,Restaurante El Cairo Tut,['Arabic'],85%,46
-825,Goichi Ramen House Barcelona,['Chicken'],78%,89
-826,Empanadas Macanudas,['Latin American'],98%,87
-827,La Pizza Del Sakura - Halal,['Pizza'],88%,16
-828,Catalunya Pita House Carrer De Amadeu Vives,"['Arabic', 'Pizza']",99%,38
-829,Bar Aitor,['American'],95%,87
-830,L’artigiano,['Ice cream'],81%,10
-831,Cervecería Conde Drácula,['Mediterranean'],87%,95
-832,Pizzeria Virona Bordeta,"['Italian', 'Kebab']",92%,57
-833,Sushiko,"['Asian', 'Sushi']",87%,106
-834,Cervecería SSS,['Mediterranean'],92%,51
-835,Jef Coffee & Pizza,['Pizza'],92%,73
-836,Catalunya Pita House,['Chicken'],95%,26
-837,Tapas Bona Sort,['Mediterranean'],74%,11
-838,Adil Tandoori,"['Chicken', 'Indian']",82%,34
-839,Pizzería Napoli Centrale,"['Italian', 'Pizza']",95%,333
-840,Pasta Style,['Italian'],88%,85
-841,Ovante,"['American', 'Burgers']",95%,172
-842,Staffshow,"['Breakfast', 'Sandwich']",79%,28
-843,Gelateria Carambola,['Ice cream'],75%,10
-844,Milanesa Haus,"['Latin American', 'Milanese']",89%,260
-845,Grill Corner Sarrià,['Mediterranean'],88%,46
-846,Pizza Puig,['Pizza'],92%,78
-847,La Gárgola de Notre Dame,['American'],97%,21
-848,Foster's Hollywood,"['American', 'Burgers']",92%,277
-849,La Gárgola de Notre Dame,['American'],97%,21
-850,Foster's Hollywood,"['American', 'Burgers']",92%,277
-851,LomoAlto & LomoBajo,['Burgers'],93%,241
-852,Frankfurt Levante Las Planas,['Sandwich'],87%,50
-853,Restaurante El Manaba,['Latin American'],94%,204
-854,BCN Pita House,"['Greek', 'International']",97%,31
-855,Bar Arias,"['Brunch', 'Mediterranean']",97%,140
-856,Pizza Italiana,"['Italian', 'Pizza']",92%,60
-857,Búfala Doner Kebab,['Arabic'],93%,45
-858,Restaurante Kinza,['Mediterranean'],96%,149
-859,Aquí Va El Kebab,['Arabic'],99%,59
-860,Sopa De Ramen,['Japanese'],88%,141
-861,Líder Kebab Istanbul,"['Arabic', 'Pizza']",94%,79
-862,Frankfurt’s Fabra I Puig,"['American', 'Burgers']",97%,388
-863,Rey Del Bocata Sant Joan Despí,['Sandwich'],98%,110
-864,100 Montaditos,"['Mediterranean', 'Sandwich']",93%,187
-865,Fritto Pollo Crispy,"['American', 'Chicken']",74%,33
-866,Burrikos,['Mexican'],88%,115
-867,Metropolitan Gourmet Burgers,['Burgers'],86%,175
-868,Pomodoro,['Italian'],94%,185
-869,Restaurante Latino El Reencuentro,"['International', 'Latin American']",85%,53
-870,Bam Bun,"['Healthy', 'Vegetarian']",83%,24
-871,Lush Food,"['Asian', 'Japanese']",88%,37
-872,La Mexicana De Tacos,['Mexican'],93%,52
-873,Bella's,"['Italian', 'Pizza']",94%,121
-874,Machado Doner Kebab & Pizzeria,"['Arabic', 'Pizza']",99%,124
-875,Tasty Oasis,['Pizza'],92%,23
-876,El Sazón de Lili,"['American', 'Burgers']",97%,140
-877,Sagradas Tapas,['Mediterranean'],95%,312
-878,El Bon Gust,"['Chicken', 'Latin American']",84%,30
-879,Sazón Venezolano,"['Latin American', 'Venezolana']",79%,18
-880,Oassis Natural Cooking,"['Burgers', 'Pizza']",85%,88
-881,Restaurante Indio Chilli,['Indian'],79%,28
-882,Pasta Italian,"['International', 'Italian']",60%,47
-883,Mercado 100 Montaditos y La Sureña,['Sandwich'],88%,94
-884,Indian Curry House,['Indian'],94%,352
-885,Pizzería Río Janeiro,['Pizza'],97%,27
-886,Froots & Roots,"['Healthy', 'Vegetarian']",95%,334
-887,Tapas Verdi,['Burgers'],89%,150
-888,Teng Sushi,"['Asian', 'Japanese']",93%,27
-889,Hong Kong,['Asian'],91%,320
-890,Asian Restaurant,['Indian'],69%,35
-891,Indian & Tandoori,['Indian'],86%,17
-892,El Rincón De Eric,['Asian'],97%,55
-893,Cuchara Brava,['International'],89%,34
-894,Aruku,['Asian'],98%,141
-895,Enjoy A L'Ast,"['American', 'Chicken']",81%,24
-896,Aloha Poké,"['Healthy', 'Poke']",97%,489
-897,Coco House,['Snacks'],98%,23
-898,Konkai Wok & Sushi,"['Japanese', 'Sushi']",90%,38
-899,Catalana Kebab,['International'],95%,12
-900,Rostisseria Piopio Pizza Kebab,"['Arabic', 'Chicken']",97%,21
-901,Frankfurt Paralelo,['Sandwich'],86%,95
-902,Oasis Gastrobar,"['Burgers', 'Mediterranean']",91%,99
-903,BARCILO,"['Italian', 'Pizza']",85%,35
-904,Ándele,['Mediterranean'],94%,17
-905,Restaurante Brasería Micher,['Mediterranean'],65%,17
-906,Kiniro Sushi,"['Japanese', 'Sushi']",95%,179
-907,La Pequenia Pizzería,['Pizza'],90%,85
-908,The Real Greek Pitas,"['American', 'Greek']",94%,314
-909,Bowl Munch,['Healthy'],80%,56
-910,La Empanada Nacional,['Latin American'],95%,27
-911,Sushi Bar Ding,"['Japanese', 'Sushi']",92%,132
-912,La Piadina,"['Italian', 'Vegan']",90%,109
-913,La Porció,"['Pizza', 'Vegan']",99%,28
-914,Spaghetti Chef,"['International', 'Italian']",86%,176
-915,Kebab Johnny,"['Kebab', 'Mediterranean']",87%,39
-916,Sushi Salón,"['Japanese', 'Sushi']",92%,220
-917,Restaurante Kinza,['International'],95%,127
-918,La Caleta,['Latin American'],86%,56
-919,My Burg,['Burgers'],96%,139
-920,Express Pizza Kebab,['Pizza'],98%,67
-921,Bendito Tako,['Mexican'],91%,129
-922,Pizza Marina,['Pizza'],96%,14
-923,Rey De Istanbul Sagrada Familia,"['Arabic', 'International']",84%,90
-924,Hard Rock Cafe,['Burgers'],95%,241
-925,Komeridiana,"['Latin American', 'Peruvian']",90%,90
-926,GR Burgers,['Burgers'],97%,436
-927,Doner & Durum,['Arabic'],90%,58
-928,Chicago Pizza,['Pizza'],90%,34
-929,Pizzería Fluvia,['Pizza'],91%,197
-930,Data Restaurante,['Arabic'],93%,158
-931,Saith Kebab Pizzeria,['Arabic'],95%,49
-932,Pizza Bella,"['Italian', 'Pizza']",100%,174
-933,Marinella Pizzería,"['Italian', 'Pizza']",82%,16
-934,Boba Labo,['Breakfast'],78%,162
-935,Burger World BCN Halal,['Burgers'],97%,105
-936,Rostisseria Eli,['Mediterranean'],90%,41
-937,The Real Burger,"['American', 'Burgers']",88%,312
-938,Estrella Kebab Y Pizzería,"['Arabic', 'Kebab']",89%,107
-939,Autentiks,['American'],92%,121
-940,Changqing Sushi,"['Asian', 'Japanese']",96%,55
-941,Taco Munch,['Mexican'],79%,29
-942,La Fermata,['Pizza'],97%,214
-943,The Real Kebab,"['American', 'Arabic']",91%,285
-944,Mr Steamer,['Japanese'],91%,21
-945,Birria Burrito,['Mexican'],82%,61
-946,Cadi Kebab Restaurant,"['Arabic', 'Pizza']",90%,34
-947,Bombay Spicy Indian Restaurant,['Indian'],90%,124
-948,Iqra Doner Kebab,"['Arabic', 'Burgers']",91%,65
-949,Real Duram,"['Arabic', 'International']",100%,19
-950,Ice Cream Shop,['Ice cream'],100%,12
-951,Koreans Do It Better,['Asian'],97%,166
-952,AA Pizzería Artesana,['Pizza'],92%,32
-953,65 Slow Cooking,"['American', 'Healthy']",88%,91
-954,Frankfurt La Farga,['Mediterranean'],94%,68
-955,La Piazzenza,"['Italian', 'Pizza']",95%,430
-956,Dulce Adriana,"['Breakfast', 'Ice cream']",92%,77
-957,Tacos 16,['Mexican'],83%,60
-958,Sushi 197,"['Asian', 'Sushi']",92%,32
-959,Frankfurt Chumi,"['Burgers', 'Mediterranean']",97%,290
-960,Teque Munch,['Latin American'],95%,46
-961,Esglesia Major Pizzería Döner Kebab,"['Arabic', 'Pizza']",100%,21
-962,Doner Festival Pizzería,['Arabic'],92%,159
-963,Pizza Hot,['Pizza'],83%,48
-964,Hanna Sushi,"['Asian', 'Japanese']",97%,500+
-965,Casa Del Pollo A L'Ast,['Chicken'],70%,88
-966,Inayat Grill,['Arabic'],93%,92
-967,Bella & Buona,"['Italian', 'Pizza']",90%,204
-968,Natsu Sushi,"['Japanese', 'Sushi']",88%,62
-969,Durum XXL Kebab,['Arabic'],88%,31
-970,El Turco Bar Doner Kebab Pizzería,"['Arabic', 'Burgers']",90%,130
-971,INDIAN PALACE,['Indian'],88%,138
-972,Sweet Teo,"['Bakery', 'Sweets']",93%,81
-973,Mongolian Grill Genghis,"['Asian', 'Grill']",98%,38
-974,Hop Viet,"['Asian', 'Vegan']",86%,108
-975,Pita Inn 1,['Arabic'],99%,31
-976,El Tío Pío,['Chicken'],95%,57
-977,Carpi Pizza,['Pizza'],92%,18
-978,Allinone Pizzas,"['Mediterranean', 'Pizza']",84%,34
-979,Kansas Fried Chicken,"['American', 'Chicken']",76%,38
-980,Golra,"['Arabic', 'Paella']",84%,29
-981,Umi Sushi,"['Asian', 'Japanese']",95%,36
-982,Big Burgers,['Burgers'],90%,46
-983,Kurz & Gut,['Mediterranean'],91%,62
-984,XXL Durum Kebab,['Arabic'],93%,152
-985,India Veg House,['Mediterranean'],91%,48
-986,Bar Restaurante Morenita,"['American', 'Latin American']",90%,125
-987,Duram Rico,"['Arabic', 'Burgers']",95%,49
-988,Versalles,['Mediterranean'],96%,71
-989,Simple Bowls,"['Healthy', 'Vegetarian']",89%,76
-990,El Racó Maremagnum,['Mediterranean'],93%,41
-991,Punto y Coma,['Burgers'],88%,176
-992,New York Cafe,"['Burgers', 'Pizza']",95%,67
-993,Jungle Pizza,['Pizza'],97%,12
-994,Iza Coffee & Brunch,['Breakfast'],92%,57
-995,Pizza World,"['Arabic', 'Pizza']",94%,19
-996,Royal Nepal,"['Asian', 'Indian']",95%,145
-997,XXL Doner Kebab,"['Arabic', 'Pizza']",91%,323
-998,Catalunya Pita House,['Arabic'],84%,19
-999,Feliz Pollo Last,"['Chicken', 'Kebab']",85%,198
-1000,Pizza Gozo,"['Italian', 'Pizza']",90%,141
-1001,Dirty Burgers,['Burgers'],92%,90
-1002,Infusiónfood,"['Burgers', 'International']",86%,14
-1003,Pokes World,['Asian'],96%,83
-1004,Arashi,"['Asian', 'International']",98%,164
-1005,Rostisseria Marisol,['Chicken'],81%,33
-1006,Rico Kebab,['Arabic'],--,10
-1007,La Antigua Heladería,"['Ice cream', 'Sweets']",86%,49
-1008,Tapa Tapa,['Mediterranean'],95%,31
-1009,Chicken Lovers,"['American', 'Chicken']",78%,166
-1010,Rey Kebab Pizzería Esplugues,"['Arabic', 'International']",89%,131
-1011,Bella Istanbul,['Mediterranean'],83%,11
-1012,Gluck Barcelona,"['Burgers', 'Pizza']",98%,61
-1013,Ravi Chargha House,"['Indian', 'Pizza']",93%,100
-1014,Nomomoto Ramen,['Japanese'],96%,173
-1015,Domino's Pizza,['Pizza'],92%,112
-1016,I Want Burritos,['Mexican'],77%,10
-1017,Tapes Barcelona,['Mediterranean'],78%,10
-1018,Super Rico Kebab Pizzeria,['Arabic'],77%,10
-1019,Córdoba Restaurante,['Indian'],81%,69
-1020,Gusto Económico,['Asian'],80%,34
-1021,Cuckoo Pollo Crispy,"['American', 'Chicken']",80%,41
-1022,Narciso,"['Italian', 'Sandwich']",95%,20
-1023,Kebab De Doner,"['Arabic', 'Pizza']",83%,31
-1024,Zakhang Wok & Pad Thai,['Asian'],82%,128
-1025,La Vega Grill,"['American', 'Burgers']",93%,23
-1026,Istanbul Grill,"['Arabic', 'International']",72%,93
-1027,Rey De La India,['Indian'],87%,36
-1028,La Clote Burger,['Burgers'],83%,58
-1029,Wok Chow Mein,['Asian'],91%,22
-1030,Pappa E Burger,['Burgers'],94%,21
-1031,Pizza Y Empanadas Foc Blau,"['Latin American', 'Pizza']",97%,145
-1032,Hot Pollo,['Chicken'],80%,57
-1033,Fattoush,['International'],84%,30
-1034,Bar Paradis,['Asian'],76%,141
-1035,Los Panas,['Burgers'],99%,39
-1036,Pita Inn 2,['Arabic'],93%,12
-1037,India & India,['Indian'],76%,21
-1038,Pita Inn,"['Arabic', 'International']",88%,110
-1039,Oasis Doner Kebab,['Arabic'],90%,154
-1040,Pizza Town,['Pizza'],78%,326
-1041,Empanadas La Panada,['Latin American'],93%,116
-1042,Villa Caprice,"['Mediterranean', 'Pizza']",99%,37
-1043,King Catalunya Kebab Pizzería Pollatra,"['Arabic', 'International']",95%,115
-1044,Hey Mexico,"['American', 'Mexican']",84%,74
-1045,Indian Town,['Indian'],90%,123
-1046,Pizzería Carlos,"['Italian', 'Pizza']",94%,256
-1047,Tortitas & Cakes,"['Snacks', 'Sweets']",98%,143
-1048,Ivaan 9 Tapas & Pizza,"['Mediterranean', 'Pizza']",92%,29
-1049,Sabor 5 Doner Kebab y Pizzería,"['Arabic', 'Pizza']",88%,43
-1050,Mancora,['International'],88%,29
-1051,Wok Palace,['Asian'],70%,38
-1052,Happy Rock,"['Burgers', 'Mediterranean']",86%,12
-1053,Fresh Food,"['Arabic', 'Pizza']",96%,35
-1054,Sushi Munch,"['Asian', 'Japanese']",98%,24
-1055,Kebab & Pizza,"['Arabic', 'Pizza']",79%,20
-1056,Burritos Chula Vista,"['American', 'Mexican']",89%,28
-1057,La Rotisserie Camarasa,['Chicken'],91%,18
-1058,Brasería Ibérica Campo de Tiro Montigalà,['Mediterranean'],94%,152
-1059,Pizza Vila Italiana,['Pizza'],90%,159
-1060,Wino,['Asian'],97%,216
-1061,Pizzas 197,"['International', 'Italian']",95%,81
-1062,Milano Pizza & Pasta Passeig De Maragall,['Pizza'],87%,61
-1063,La Milanesísima,"['American', 'Latin American']",88%,100
-1064,The Real Peri Peri Chicken,['Chicken'],89%,184
-1065,Pollo House Avinguda De Rio De Janeiro,['Chicken'],86%,65
-1066,Hm El Carmel Doner Kebarb Y Pizzería,"['Burgers', 'International']",83%,40
-1067,Catalana grill,['Arabic'],85%,41
-1068,Gust Doner,"['Indian', 'Pizza']",95%,57
-1069,Milanga Burger,"['Burgers', 'Latin American']",90%,87
-1070,Pizza Rico,['Pizza'],74%,27
-1071,Sabor Latino Yolanda,"['Chicken', 'Mexican']",--,116
-1072,Kebab Rico Tío Chema,"['Arabic', 'Pizza']",93%,66
-1073,Pizzería Auténtica Italiana,['Pizza'],85%,106
-1074,Sushi Solar,"['Japanese', 'Sushi']",93%,62
-1075,Bar Restaurante Carlos III,['Asian'],79%,210
-1076,MadreLievito Pizzerie,"['Italian', 'Pizza']",87%,65
-1077,Ninja Wings,"['American', 'Chicken']",89%,49
-1078,Frankyfurt,"['American', 'Burgers']",91%,38
-1079,"Carnosos, Tacos y Burritos","['American', 'Mexican']",93%,34
-1080,Bar Cafetería Meila,['Sandwich'],79%,20
-1081,Momo Avinyó,['Mediterranean'],99%,315
-1082,Un Bocado,['Japanese'],95%,28
-1083,International Burger,['Burgers'],93%,177
-1084,Spartan,['International'],90%,93
-1085,Amigo Kebab Pizzería,['Arabic'],89%,45
-1086,Rey De Ali Baba Cornella,['Arabic'],82%,38
-1087,Istanbul Parrilla,['Arabic'],95%,77
-1088,Pizzería Girona Bar Y Kebab,['Arabic'],97%,69
-1089,Calzone Pizza,"['International', 'Italian']",--,134
-1090,Anormal,"['Latin American', 'Seafood']",84%,25
-1091,Gusto Sano,"['Italian', 'Pizza']",97%,308
-1092,Daler Doner Kebab,"['Arabic', 'Kebab']",83%,101
-1093,FARGA,"['Bakery', 'Sweets']",--,112
-1094,Think Healthy,"['Healthy', 'Mediterranean']",90%,35
-1095,Kebab Turc,"['Arabic', 'Pizza']",92%,10
-1096,Riad Sakura arabe - Halal,"['Arabic', 'Pizza']",93%,25
-1097,Duram Y Pizza,"['Arabic', 'International']",82%,54
-1098,SB Pizzería Kebab,"['Kebab', 'Pizza']",81%,21
-1099,Coco House,"['Breakfast', 'Snacks']",78%,15
-1100,La Burger Vegetal,['Burgers'],100%,18
-1101,Just Kebab & Drinks Sants,['Mediterranean'],81%,55
-1102,Cartagena Doner Kebab,"['International', 'Kebab']",98%,252
-1103,El As De Pollos,['Chicken'],87%,26
-1104,Juice Dudes,"['Healthy', 'Sandwich']",94%,187
-1105,Kebab de Badalona,"['Arabic', 'Pizza']",81%,70
-1106,The Real Hot Dog,"['American', 'Burgers']",88%,18
-1107,For Sushi Lovers,"['Japanese', 'Sushi']",94%,20
-1108,Indian BBQ,['Indian'],88%,53
-1109,Bar Restaurante Iberia,['Arabic'],99%,93
-1110,Rajah,"['Asian', 'Indian']",86%,17
-1111,Mango & Caoba Cocina Vegana,"['Healthy', 'Vegan']",92%,109
-1112,Burritomanía,['Mexican'],77%,151
-1113,Pak Pita Kebab,"['Arabic', 'Chicken']",96%,147
-1114,Fish & Xips - Döner & Kebab Sants,['Arabic'],97%,75
-1115,Amigo Doner,['Indian'],--,33
-1116,Gate Way Pizzería,['Pizza'],84%,37
-1117,Pizzería Roston,"['International', 'Italian']",New,62
-1118,Rostisseria Clari,['Mediterranean'],86%,300
-1119,Al Noor Doner Kebab Pizzería,"['Arabic', 'International']",77%,42
-1120,El Rey Del Wok,['Japanese'],81%,44
-1121,La Placeta Del Gust,"['Asian', 'Mediterranean']",98%,99
-1122,Braseria La Amistad,['International'],--,20
-1123,Creppy,['Pizza'],88%,22
-1124,Fast Time Burger Halal,"['Burgers', 'Pizza']",69%,138
-1125,Kebab Sant Andreu,"['Arabic', 'Pizza']",--,94
-1126,Grandys Empanadas,"['Latin American', 'Pizza']",96%,142
-1127,Gallo Macarra,"['Latin American', 'Mediterranean']",94%,269
-1128,El Rey del Arroz,['Latin American'],81%,208
-1129,Out Fry - Korean Fried Chicken By Taster,"['Asian', 'Chicken']",96%,208
-1130,Sushi Passion,"['Asian', 'Sushi']",86%,78
-1131,Kebab Bbq,"['Arabic', 'International']",83%,10
-1132,"Burrito, Hamburguesa Y Bocatas","['Burgers', 'Snacks']",75%,10
-1133,Pizza Maria Claret,"['Arabic', 'Indian']",93%,182
-1134,Granja Bar Extremeño,['Mediterranean'],77%,12
-1135,Ready Pollo a l´ast,"['Mediterranean', 'Sandwich']",78%,87
-1136,La Teke,"['Latin American', 'Venezolana']",85%,34
-1137,Juan Doner Kebab,"['Arabic', 'Kebab']",89%,110
-1138,Bambú Sushi Bar,"['Asian', 'Japanese']",95%,51
-1139,La Granja De Gracia,"['Mediterranean', 'Sandwich']",87%,69
-1140,Croq & Roll,['Mediterranean'],90%,22
-1141,Munkies Burger,['Burgers'],--,34
-1142,Tandoori Estacio,['Indian'],84%,69
-1143,Catalunya Pita House Carrer De Les Camèlies,['Arabic'],90%,110
-1144,Hotdoks,"['American', 'Burgers']",96%,13
-1145,Cangre Smash Burger,['Burgers'],New,243
-1146,Estrilla Kebab,"['Arabic', 'Pizza']",--,71
-1147,Indian Kitchen,['Indian'],74%,99
-1148,Pizza Mamamia,['Pizza'],94%,93
-1149,Dos Parceros Medellín Street Food,['Burgers'],92%,18
-1150,Tandoori Barcelona,['Indian'],86%,36
-1151,El Sabor De Kebab,"['Arabic', 'Pizza']",--,127
-1152,El Maracucho Grill House,"['Burgers', 'Grill']",84%,42
-1153,La Heladería,['Ice cream'],91%,54
-1154,Hamburguesería Calabria,['Burgers'],--,27
-1155,AnaLaBrasa By Casa Carmen,['Mediterranean'],70%,13
-1156,JUNK,"['American', 'Burgers']",New,49
-1157,Roots Vegan Food,"['Healthy', 'Vegan']",87%,97
-1158,Vegan Food,"['Healthy', 'Vegan']",--,50
-1159,Restaurante Sol Naciente 2,['Burgers'],90%,39
-1160,La Garriga,"['Gourmet', 'Sandwich']",91%,51
-1161,Mix Fast Food,"['Burgers', 'Pizza']",87%,70
-1162,Espak2 Mecdonner,['Arabic'],78%,156
-1163,Born Canelón,['Mediterranean'],87%,77
-1164,Bar Salvadoreño 503,['Mediterranean'],95%,84
-1165,Rajashtan,['Arabic'],79%,14
-1166,Frankfurt Y Bocatas,['Sandwich'],70%,11
-1167,Best Hamburgueseria & Pizzeria,"['American', 'Burgers']",89%,107
-1168,Pizza Torre,['Pizza'],84%,22
-1169,Pizzeria Da Nanni,['Pizza'],91%,58
-1170,Ariba Doner Kebab&Restaurant,"['Indian', 'International']",82%,43
-1171,Palace Pizza,"['American', 'Pizza']",88%,62
-1172,Heladería París,['American'],88%,33
-1173,Central Placeres Argentinos,"['Latin American', 'Pizza']",88%,21
-1174,Al Rahmat Restaurant,"['Arabic', 'Indian']",60%,17
-1175,Pollo Fresco,['Pizza'],--,83
-1176,King Doner Kebab Restaurant,"['Arabic', 'Pizza']",84%,170
-1177,Roost Chicken,['Chicken'],84%,63
-1178,Istanbul Kebap,['Mediterranean'],88%,33
-1179,Classic Indian,['Indian'],81%,11
-1180,Pizza Home,['Pizza'],73%,35
-1181,Hi Cream,"['Breakfast', 'Ice cream']",99%,49
-1182,Pasa Palo Express,"['Latin American', 'Venezolana']",85%,10
-1183,Joni Pizzería,['Pizza'],--,70
-1184,Pollos Royal,['Chicken'],83%,12
-1185,Usmania Restaurante,['Indian'],--,74
-1186,Cantina Machito,['Mexican'],92%,171
-1187,Bar Restaurant 606,['Japanese'],95%,14
-1188,Apni Haveli,['Indian'],New,118
-1189,Pita House Progreso,['Pizza'],--,23
-1190,Rostisseria Maribel,['Chicken'],90%,23
-1191,Ramen Kumamon,['Japanese'],94%,157
-1192,Durum De Kebab,['Arabic'],80%,25
-1193,Green Room,['Burgers'],98%,49
-1194,Let's Walk For The Wok,['Asian'],90%,93
-1195,Yoshikawa,"['Asian', 'Japanese']",90%,56
-1196,Armoniia,"['Burgers', 'Gourmet']",96%,61
-1197,Rajasthan The Traditional Taste Of India,['Arabic'],87%,44
-1198,Tumi,"['International', 'Latin American']",79%,43
-1199,California Chicken by Carl's Jr,"['American', 'Burgers']",91%,13
-1200,Cada Día Kebab,"['Arabic', 'Burgers']",New,49
-1201,Pizza Halal,['Pizza'],86%,55
-1202,Brunch Arepa,"['Latin American', 'Venezolana']",94%,242
-1203,Brookling Wings,['American'],70%,114
-1204,Cumpanama,"['Mediterranean', 'Pizza']",--,40
-1205,Port De Gorg Kebabish Restaurant,"['Arabic', 'Pizza']",86%,18
-1206,Bar Taperia Paula's,['Burgers'],--,41
-1207,Master Burger House,['Burgers'],67%,43
-1208,Juicy Poke Bowls and Poke Burritos,"['Healthy', 'Poke']",89%,186
-1209,Antalya Kebab - Les Corts,['Pizza'],--,458
-1210,El Auténtico Piolindo,['Chicken'],93%,16
-1211,Indian Vegeterian,['Vegetarian'],94%,92
-1212,La Choza,"['Brunch', 'Burgers']",94%,10
-1213,Pikeos 111,['Latin American'],82%,46
-1214,Love Tacos,['Mexican'],53%,18
-1215,Pizza al Box,"['Italian', 'Pizza']",70%,16
-1216,Sabor De Poblenou,"['International', 'Pizza']",78%,36
-1217,Curry House,"['Indian', 'International']",63%,35
-1218,Hamburguesería,"['Burgers', 'Chicken']",--,43
-1219,Vegan Cakes,"['Healthy', 'Sweets']",86%,25
-1220,Carpi Italiano,"['International', 'Pizza']",--,156
-1221,Little Italia,['Pizza'],73%,27
-1222,La Festa Pasta,['Italian'],68%,50
-1223,Tasty Poke Bar,"['Healthy', 'Poke']",89%,89
-1224,Sushi 2x1 Barcelona,"['Asian', 'Sushi']",--,10
-1225,Merry Restaurante,['Arabic'],66%,11
-1226,Nosh Grill,['Mediterranean'],--,84
-1227,Sabor Istanbul,"['Arabic', 'Pizza']",90%,13
-1228,Casa Hamburguesa,['Burgers'],96%,10
-1229,Frankfurt Niu By Burger Niu,['Burgers'],39%,42
-1230,Restaurante Divan,"['International', 'Pizza']",--,10
-1231,Corte & Brasa,"['International', 'Latin American']",47%,17
-1232,Meal&1 Healthy Food,"['Healthy', 'Mediterranean']",97%,57
-1233,Damn Good Burgers,['American'],--,10
-1234,Curry Style,['Indian'],52%,45
-1235,Durum 2x1 Barcelona,['Arabic'],73%,21
-1236,La Salchi,['Latin American'],62%,68
-1237,Bakeriet,['Pizza'],New,256
-1238,L´Amfora,['Mediterranean'],67%,61
-1239,Sabor Latino,['Latin American'],74%,10
-1240,Alalok,['Chicken'],--,58
-1241,Sandwich & Salad,"['Burgers', 'Sandwich']",93%,17
-1242,Pizzería 7 Bello,"['Italian', 'Pizza']",79%,42
-1243,Aromatic India,"['Indian', 'International']",79%,76
-1244,TakeAway Kebab,"['Arabic', 'Pizza']",--,124
-1245,El Capricho De Sant Andreu,['Mediterranean'],--,36
-1246,Virona 4,"['Italian', 'Pizza']",82%,61
-1247,Rhosa De Alejandria,['Latin American'],92%,24
-1248,Tandoori Master,['Indian'],76%,10
-1249,Corner Foods,"['Arabic', 'International']",93%,78
-1250,Pollo Natural,['Chicken'],New,11
-1251,PikantPol,"['American', 'Burgers']",67%,10
-1252,Comida Hindú,['Indian'],81%,34
-1253,Habib´s Village,"['Arabic', 'Indian']",84%,10
-1254,Love Mojitos Fresh,['Snacks'],81%,12
-1255,Laregustosa - Casa de empanadas,['Latin American'],92%,26
-1256,El Kebanza,['Arabic'],--,10
-1257,Tapa In,['Mediterranean'],--,24
-1258,Rainbow,"['Indian', 'International']",26%,13
-1259,Kebab La Dona,['Arabic'],54%,40
-1260,La Barbacoa De Gracia,['Mediterranean'],89%,102
-1261,Nobi Sushi,"['Asian', 'Japanese']",--,118
-1262,Trattoria 229,"['Arabic', 'Burgers']",--,15
-1263,Tortilla Doner,"['Arabic', 'Burgers']",--,15
-1264,Tariq Kebab,['Arabic'],73%,10
-1265,Ramen & Bowls,['Asian'],88%,12
-1266,Tete Doner,"['Arabic', 'Burgers']",--,72
-1267,California Rolls & Sushi,"['Asian', 'Sushi']",76%,45
-1268,Italian Master,['Pizza'],80%,67
-1269,Margarita's,['Pizza'],--,43
-1270,Bocatería Halal,['Sandwich'],--,12
-1271,Pizzeria,['Pizza'],--,11
-1272,Las Milongas,['Sandwich'],92%,129
-1273,Pizza's Frescas,['Pizza'],--,10
-1274,Herber 's,"['Burgers', 'Pizza']",93%,17
-1275,Tasty Doner,"['Arabic', 'Pizza']",--,70
-1276,Euro Doner,"['International', 'Pizza']",57%,64
-1277,Aroma Di Sicilia,"['Italian', 'Pizza']",63%,137
-1278,Toichi Sushi Bar,"['Asian', 'Sushi']",76%,178
-1279,CDE Bar Restaurante,"['Latin American', 'Mediterranean']",--,21
-1280,Patrón,['Mediterranean'],89%,11
-1281,Pollo Al’Ast Brato,"['International', 'Italian']",--,94
-1282,Super Naan,"['Healthy', 'Indian']",93%,210
-1283,Sushi & Rolls,"['Japanese', 'Sushi']",91%,104
-1284,New Ajwaa Restaurante,['Mediterranean'],--,10
-1285,La Paradita,['Sandwich'],92%,10
-1286,Sushi Late Night,"['Asian', 'Japanese']",45%,78
-1287,Nosh Kebab,"['Arabic', 'Burgers']",74%,10
-1288,South Indian,['Indian'],--,40
-1289,Cada Día Pollo A L'AST,['Chicken'],New,74
-1290,Fr Chicken Box,"['Burgers', 'Chicken']",--,86
-1291,Pizza Pozzuoli,"['International', 'Italian']",--,11
-1292,La Casa Gallega,['Mediterranean'],90%,10
-1293,Italium Pizzas & Pastas,"['Italian', 'Pizza']",62%,45
-1294,Restaurante Santilari,"['Mediterranean', 'Sandwich']",42%,24
-1295,Smudy Juice Bar,['Snacks'],95%,63
-1296,Crispy Chicken,"['American', 'Burgers']",86%,87
-1297,Patacón Pizao,['Latin American'],39%,29
-1298,Taste of India,['Indian'],81%,29
-1299,Fish & Chips Club Sants,['Burgers'],--,22
-1300,La Cocina De Gabriel,['Latin American'],86%,61
-1301,Muy Riko Pollo,['Chicken'],62%,11
-1302,Pizzería Sants,['Pizza'],61%,10
-1303,Gochos,"['Burgers', 'Sandwich']",78%,171
-1304,Valldaura Grill & Restaurant,"['Arabic', 'International']",--,16
-1305,Ginos,"['Italian', 'Pizza']",84%,39
-1306,Spicy Burger,['Burgers'],--,86
-1307,Tandoori Veg,['Indian'],64%,241
-1308,NÜA Smart Restaurant,"['Breakfast', 'Poke']",--,13
-1309,Kebab Roll Barcelona,['Arabic'],67%,95
-1310,Punjab,"['Arabic', 'Indian']",--,11
-1311,Turquía Döner Kebab,"['Arabic', 'Pizza']",90%,40
-1312,Croqueta Passion,['International'],New,21
-1313,Hangzhou,['Asian'],94%,33
-1314,Chezzy Pizza,['Pizza'],67%,22
-1315,Giuliani's,['Pizza'],New,23
-1316,Juicy Avenue Vegan,"['Healthy', 'Vegan']",96%,10
-1317,Burritos Norteños MXRR,['Mexican'],--,63
-1318,Asador De Aranda,['Mediterranean'],84%,17
-1319,Wok & More,['Asian'],83%,46
-1320,Bar Flor De Café,"['Burgers', 'Sandwich']",--,28
-1321,Pizzaland,['Pizza'],46%,37
-1322,Pollo Criollo,"['Chicken', 'Latin American']",68%,28
-1323,Tasty Doner Kebab,"['Arabic', 'International']",98%,36
-1324,Micro & Go,['Supermarket'],91%,57
-1325,Super Rico 2 Doner Kebab Pizzería,['Pizza'],83%,82
-1326,Sushi Japanese,"['Asian', 'Japanese']",77%,29
-1327,Platos Cominados,"['Arabic', 'International']",--,84
-1328,Panadería Tropicana,['Latin American'],81%,15
-1329,Entre Tapes Manso,"['Burgers', 'Mediterranean']",90%,61
-1330,El Mundo,"['Italian', 'Mediterranean']",87%,85
-1331,Sushi Life,"['Asian', 'Japanese']",51%,17
-1332,La Hamburguesa Burger Niu,"['American', 'Burgers']",74%,10
-1333,Santa Mila'S,['Latin American'],New,70
-1334,La Taska Doner,"['Arabic', 'Pizza']",--,37
-1335,Pasta Town,['Italian'],59%,87
-1336,Tapas 2022,['American'],78%,115
-1337,Prieto Empanadas BCN,['Latin American'],84%,51
-1338,La Fábrica del Taco,['Mexican'],88%,22
-1339,Uk Burger House,['Burgers'],56%,26
-1340,M J’Pizza,['Pizza'],72%,69
-1341,Ota Sushi,"['International', 'Japanese']",--,71
-1342,Roma Pasta,"['Italian', 'Mediterranean']",80%,14
-1343,Trattoria Les Lletres,"['Italian', 'Pizza']",--,60
-1344,La Vinoteca,"['Gourmet', 'Supermarket']",97%,91
-1345,Mogollon's,['Pizza'],100%,18
-1346,Sabor De Turkish Kebab,"['Arabic', 'Pizza']",61%,59
-1347,Pizzería Manso,"['Burgers', 'International']",89%,12
-1348,Italina Pizza,"['Chicken', 'Pizza']",--,36
-1349,Fresh Pollo,"['American', 'Mediterranean']",73%,284
-1350,Dixy Kebab,"['Arabic', 'Burgers']",--,41
-1351,Sushi Occidental,"['Asian', 'Sushi']",--,117
-1352,Tommy Mel´s By LGFM,"['Burgers', 'Mediterranean']",--,10
-1353,Rasturant Dues Portes,['Mediterranean'],74%,10
-1354,Papa Joye Pizzería,"['Burgers', 'Pizza']",--,10
-1355,Almita,['Mediterranean'],98%,29
-1356,Vía Julia,['Arabic'],--,188
-1357,Les Finestres De Llúria,['Mediterranean'],--,10
-1358,Pizzas Cataluña,['Pizza'],80%,32
-1359,Sweet Dreams,"['Ice cream', 'Sweets']",94%,28
-1360,"Drinks, Pizza & Pasta","['Italian', 'Mediterranean']",72%,17
-1361,Delicamon,['Mediterranean'],--,32
-1362,La Cantonada Kusina Comida Asiaticas,"['Asian', 'Japanese']",New,13
-1363,Aloha Vegan Poké,"['Poke', 'Vegan']",99%,34
-1364,La Casa De La Milanesa,['Milanese'],--,10
-1365,Llar De Tapas Casolana,['Mediterranean'],89%,49
-1366,Santa Larica,"['American', 'International']",99%,68
-1367,La Pala Boqueria,['Pizza'],98%,35
-1368,Gust De Italia,"['Italian', 'Pizza']",73%,12
-1369,I Love Pizza & Pasta,"['Italian', 'Pizza']",75%,10
-1370,Ben & Jerry's y Magnum,['Ice cream'],--,158
-1371,Pita House Kebab Pizzería,"['Arabic', 'Italian']",93%,18
-1372,The Real Lobster Bun,"['American', 'Burgers']",--,10
-1373,Pak Restaurant Cuina India y Cuina turca y  Pizzeria,['Arabic'],45%,10
-1374,Jungle Burger,['Burgers'],--,11
-1375,Hanaki,['Japanese'],--,10
-1376,Made In Turco,"['Mediterranean', 'Pizza']",70%,21
-1377,XXL Duram House,"['Arabic', 'Chicken']",New,58
-1378,SP Doner Kebab Pizzería,"['Arabic', 'International']",--,19
-1379,Chakrumi,['Latin American'],--,39
-1380,Menjar Turc Kebab,"['Arabic', 'Burgers']",76%,10
-1381,El Teu Kebak,"['Arabic', 'International']",--,16
-1382,Pizzería Catalunya,"['Chicken', 'Pizza']",--,13
-1383,Italiano Pizza,['Pizza'],--,58
-1384,Best Pizza Shop,['International'],--,10
-1385,Bella Pizza,"['Italian', 'Mediterranean']",New,19
-1386,Turkis Kebab,"['Arabic', 'Burgers']",88%,49
-1387,Lunch Juicy Restaurant,"['International', 'Pizza']",--,10
-1388,Antojos,['Sweets'],93%,27
-1389,Pizzeríakebabfactory 2,"['American', 'Burgers']",67%,74
-1390,Argentina Dreams,['Latin American'],76%,28
-1391,Prezzemolo,['Pizza'],96%,12
-1392,Pizzaland,['Pizza'],85%,16
-1393,Aziz Doner Kebab Pizzería,['Pizza'],76%,14
-1394,Galicia Calidade O´Bouzos,['Mediterranean'],76%,10
-1395,Gurmet Besos,['Asian'],56%,10
-1396,Frankfurt Donee,"['Arabic', 'Pizza']",--,25
-1397,Turk Pizza,['Pizza'],--,20
-1398,Don Totti's,['Chicken'],100%,24
-1399,Milanesa Veggy,['American'],74%,107
-1400,Rock Star Sushi,"['Asian', 'Japanese']",97%,40
-1401,Colmena,"['Burgers', 'Mediterranean']",82%,10
-1402,Indian Continental,['International'],--,123
-1403,Classic Sushi,['Japanese'],41%,35
-1404,Burger Café,"['Burgers', 'Mediterranean']",--,67
-1405,Boxes & Gelatos by Sweet Teo,"['Breakfast', 'Churros']",90%,125
-1406,Sher -E- Punjab,['Indian'],--,11
-1407,D'eli,"['Breakfast', 'Italian']",--,10
-1408,American Experience,"['Burgers', 'Pizza']",--,24
-1409,El Sazon De Isabel La Farga,['Mediterranean'],91%,34
-1410,Pita House 2,['Pizza'],92%,10
-1411,Monster Cookies,['Sweets'],81%,23
-1412,Pizzeria Bar Basilico,['Pizza'],--,56
-1413,Pizzeria Ilodi,"['Italian', 'Pizza']",--,10
-1414,Pizza Nicola,"['Italian', 'Pizza']",66%,15
-1415,Pizzería Progreso,['Pizza'],--,63
-1416,Bar Sporting,"['Mediterranean', 'Sandwich']",New,10
-1417,La Colosal,['Mediterranean'],72%,74
-1418,Hussain Hamburguesería Y Pizzería,"['Arabic', 'Pizza']",--,19
-1419,Obama English Pub,"['American', 'Burgers']",--,39
-1420,Super Spicy XXL Kebab,['Kebab'],New,25
-1421,Tapas23,['Mediterranean'],100%,43
-1422,Smart Pokes,['Poke'],--,38
-1423,Fish & Chips Point - Collblanc,"['Burgers', 'Mediterranean']",--,22
-1424,Sushi Club,"['Japanese', 'Sushi']",63%,32
-1425,Kebab Shop,"['Arabic', 'Pizza']",60%,21
-1426,Poke Club,['Poke'],83%,18
-1427,La Clote Veggie,"['Italian', 'Pizza']",97%,500+
-1428,Empanadas By La Pizza Del Born,['Mediterranean'],75%,25
-1429,Tapes Jardi Gastrobar,['Burgers'],--,14
-1430,Les Dues Sicilies Gastro Bar,"['International', 'Italian']",84%,65
-1431,Punta & Sabor,['Mediterranean'],93%,76
-1432,Cordova Resteurente,"['Indian', 'Thai']",82%,23
-1433,El Rincón Jaragua,['Latin American'],98%,29
-1434,Radici,"['Italian', 'Pizza']",98%,31
-1435,Restaurant Maccabi,['Mediterranean'],--,50
-1436,La Bendita,['Mediterranean'],100%,162
-1437,Marhaba Doner Kebab,['Arabic'],44%,35
-1438,Pink Buda Burger,['Burgers'],95%,47
-1439,Immersió,['Mediterranean'],New,27
-1440,Donde Siempre BCN,"['International', 'Venezolana']",--,37
-1441,Mehman Khana,['Indian'],87%,20
-1442,Wok Fusion,['Japanese'],84%,68
-1443,Old Bastard Beer & Food,['Burgers'],91%,38
-1444,Fishpac,"['Asian', 'Japanese']",99%,182
-1445,"Yanda, Arroces Y Paellas","['Local food', 'Mediterranean']",95%,10
-1446,La Norteñita,"['International', 'Latin American']",96%,16
-1447,Restaurante Sabor Hondureño,['Latin American'],88%,16
-1448,La Pizza del Born,['Pizza'],95%,53
-1449,Casa Bangla,['Indian'],88%,20
-1450,Restaurante Milagros,['Mediterranean'],87%,31
-1451,Mayelo Restaurante Peruano,"['Latin American', 'Peruvian']",90%,17
-1452,Sr. Baked Potato,['American'],97%,32
-1453,Pizza Raval,['Pizza'],88%,15
-1454,Bon Pizza,['Pizza'],94%,10
-1455,La Modena,['Pizza'],98%,25
-1456,Restaurante Bollywood,"['Arabic', 'Indian']",75%,29
-1457,Señor Piña,"['Healthy', 'Poke']",90%,26
-1458,Gilda by Belgious,['International'],90%,14
-1459,Pizzería Il Fuoco,"['Italian', 'Pizza']",--,60
-1460,Arepa Munch,"['International', 'Latin American']",81%,27
-1461,Supra Barcelona,"['International', 'Pizza']",90%,27
-1462,Pizzería Pinsa Romana,['Pizza'],85%,36
-1463,Pizzería Barcelona,['Pizza'],90%,14
-1464,Vegetal Veg,"['Vegan', 'Vegetarian']",97%,31
-1465,Pal Mundo Restaurante,['Latin American'],83%,10
-1466,Lajarta,"['Arabic', 'Indian']",71%,15
-1467,El Raco Nou,['Mediterranean'],--,17
-1468,Tapa Tapa Arenas,['Mediterranean'],80%,126
-1469,Pizzería La Vila,"['Italian', 'Pizza']",70%,42
-1470,Sushi & Sushi,['Asian'],62%,59
-1471,Surf House Barcelona,['Burgers'],91%,10
-1472,Burger Point,['Burgers'],90%,10
-1473,Quebap & Kebabish,['Arabic'],97%,11
-1474,Fast Food Progreso,"['Burgers', 'Chicken']",69%,13
-1475,Los Sicilianos,['Pizza'],90%,20
-1476,Kebab A La Turca,['Arabic'],89%,134
-1477,Curry Box,['Indian'],81%,23
-1478,Pizza Davi,['Pizza'],73%,38
-1479,Kebab Express,['Arabic'],77%,20
-1480,Wok y Poke,"['Asian', 'Japanese']",86%,10
-1481,La Casa Kebab Turco,['Arabic'],81%,13
-1482,"Quiches, Ensaladas, Brownies","['Mediterranean', 'Sweets']",69%,11
-1483,Restaurante La Luna,"['International', 'Pizza']",83%,65
-1484,Veggie Pizzeria,"['Italian', 'Pizza']",76%,41
-1485,Wok & Sushi,"['Asian', 'Japanese']",78%,37
-1486,Sushi Asiática,"['Asian', 'Sushi']",67%,27
-1487,The Butlers,"['Burgers', 'Gourmet']",87%,120
-1488,Pizzería Vegetariana,['Pizza'],75%,16
-1489,Pizza & Pizza,"['Italian', 'Pizza']",67%,10
-1490,Set Especies,['Arabic'],92%,19
-1491,The Milanesa' King,['Mediterranean'],62%,29
-1492,Shawarma Kebab,['Arabic'],69%,25
-1493,Taquería El Rey De México,"['International', 'Mexican']",72%,10
-1494,Ch Naeem,['Pizza'],68%,26
-1495,Bar Los Hermanos,['Mediterranean'],56%,10
-1496,Taquería El Charro Mexicano,"['International', 'Mexican']",64%,12
-1497,Pizza Diavola,['Pizza'],63%,75
-1498,"""Nico's Snacks""",['Mediterranean'],87%,25
-1499,Pizzeria Express,['Pizza'],64%,48
-1500,Curry Time,['Indian'],71%,21
-1501,I Love Sushi,"['Asian', 'Japanese']",65%,28
-1502,Usmania Kebab,"['Arabic', 'Mediterranean']",57%,10
-1503,Dune Tapería & Resort,"['Mediterranean', 'Paella']",45%,10
-1504,Pizzas 2x1,['Pizza'],56%,15
-1505,Durum & Kebab,"['Arabic', 'Chicken']",62%,20
-1506,Tapas Y Kebab,"['Arabic', 'Mediterranean']",45%,10
-1507,Restobar La Cusqueña,['Latin American'],42%,10
-1508,Sushi Palace,"['International', 'Japanese']",51%,43
-1509,El Rey De La Milanesa,"['International', 'Italian']",47%,10
-1510,Pulled Burger,['Burgers'],56%,30
-1511,Pasta Sicily,"['Burgers', 'Italian']",44%,19
-1512,Sushi Style,"['Japanese', 'Sushi']",54%,49
-1513,Green Sushi,"['Asian', 'Japanese']",41%,16
-1514,Pulled Burger,"['American', 'Burgers']",28%,16
-1515,SUSHI STAR,"['Asian', 'Sushi']",21%,33
+8,Café & Desayuno,['Breakfast'],97%,500+
+9,Cuyaco,['International'],91%,500+
+10,Poke House,"['Healthy', 'Poke']",96%,149
+11,Fish & Chips,"['International', 'Mediterranean']",87%,500+
+12,La Gran Familia Mediterránea by Dani García,"['Burgers', 'Mediterranean']",95%,500+
+13,Palacio de China,['Asian'],94%,54
+14,Frankfurt Balmes,['American'],91%,168
+15,NAP,['Pizza'],94%,500+
+16,Chalito,"['Latin American', 'Milanese']",95%,500+
+17,Out of China,['Asian'],80%,500+
+18,Crep Nova,"['Italian', 'Pizza']",95%,500+
+19,Goiko,"['American', 'Burgers']",92%,500+
+20,Parking Pizza,['Pizza'],96%,500+
+21,Can Pizza,"['Italian', 'Pizza']",95%,500+
+22,Five Guys,"['American', 'Burgers']",97%,500+
+23,Honest Greens,['Healthy'],95%,500+
+24,Messié Sin Gluten,"['Gluten free', 'Italian']",92%,500+
+25,Macchina Pasta Bar,['Italian'],94%,500+
+26,Santamasa,['Mediterranean'],93%,500+
+27,Yoüme Sushi,"['Asian', 'Japanese']",91%,500+
+28,Anauco,['Burgers'],91%,500+
+29,Pizerría Da Nanni,['Pizza'],96%,500+
+30,Takumi Ramen & Yakisoba,['Japanese'],96%,500+
+31,PIZZAMARKET,['Pizza'],96%,181
+32,Pizza Circus,['Pizza'],96%,500+
+33,La Real Hamburguesería,"['American', 'Burgers']",96%,500+
+34,Eatmosfera,"['Italian', 'Pizza']",93%,289
+35,La Informal,['Burgers'],94%,406
+36,Grosso Napoletano,"['Italian', 'Pizza']",95%,456
+37,Poke Sí,"['Poke', 'Vegan']",97%,500+
+38,Deleito,['Burgers'],94%,500+
+39,Sushi Way,"['Japanese', 'Sushi']",99%,48
+40,Alain Pizza,['Pizza'],96%,191
+41,El Libanés Express,"['Arabic', 'International']",94%,500+
+42,UDON,['Japanese'],90%,500+
+43,Ichiban Ramen & Street Food,['International'],92%,500+
+44,Armando,"['Gourmet', 'Milanese']",96%,500+
+45,UDON,['Japanese'],94%,500+
+46,Buen Bocado,"['Kebab', 'Mediterranean']",New,500+
+47,Lady Dumpling,"['Asian', 'Japanese']",94%,213
+48,Costillas De Cordero,['Mediterranean'],New,391
+49,Meridian Pollo A L'Ast,"['Chicken', 'Mediterranean']",New,500+
+50,Frankfurt Del Centre,"['American', 'Burgers']",97%,500+
+51,Libanés Vegano,"['International', 'Vegan']",New,500+
+52,Frankfurt & Beer EME,['Burgers'],93%,123
+53,Hijoopo,['Asian'],New,500+
+54,Papa John's,['Pizza'],93%,408
+55,Bacoa,['Burgers'],90%,500+
+56,TGB - The Good Burger,"['American', 'Burgers']",94%,456
+57,La Tagliatella,['Italian'],90%,432
+58,Mantequerías Pirenaicas,"['Gourmet', 'Mediterranean']",97%,500+
+59,Mezzé,['Burgers'],99%,449
+60,Del Poble Pizzeria,['Pizza'],96%,225
+61,Kasa Ramen,['Asian'],94%,500+
+62,Suki Ramen,"['Asian', 'Japanese']",94%,470
+63,Grosso Napoletano Senza Glutine,"['Gluten free', 'Pizza']",95%,500+
+64,Il Commendatore,"['Italian', 'Mediterranean']",97%,500+
+65,Sabor Mexicano,['Mexican'],97%,205
+66,Can Pizza,['Pizza'],97%,500+
+67,Grande Pollo A L'Ast,"['Chicken', 'International']",New,500+
+68,Crispy Burger,"['Burgers', 'Mediterranean']",New,252
+69,MadRadio Eixample,['Burgers'],New,463
+70,Big Boom Burger,"['American', 'Burgers']",94%,500+
+71,Shan Hai City,['Asian'],94%,500+
+72,Folks Burgers,"['American', 'Burgers']",95%,500+
+73,XXL Pita House,"['Arabic', 'Chicken']",New,500+
+74,Helados Dellaostia - Artigiani del Gelato,['Ice cream'],98%,500+
+75,Pai Mei,['Asian'],97%,500+
+76,Machaka,"['American', 'Burgers']",92%,229
+77,Bardo Lomiteria,"['Mediterranean', 'Sandwich']",98%,500+
+78,Reketepizza,['Pizza'],96%,500+
+79,Da Emanuele,"['Italian', 'Pizza']",96%,186
+80,Arepish,['Latin American'],93%,277
+81,Hey Milanesas,['Latin American'],97%,500+
+82,Folks Burgers,"['American', 'Burgers']",95%,500+
+83,Piel De Gallina,"['American', 'Chicken']",96%,421
+84,Mayura,"['Asian', 'Indian']",95%,500+
+85,Miku Sushi,"['Japanese', 'Poke']",97%,500+
+86,Frankfurt El Perro de Cine,"['American', 'Gluten free']",92%,500+
+87,Gandhi,"['Asian', 'Indian']",96%,500+
+88,Asian Noodles & Sushi,"['Asian', 'Japanese']",97%,500+
+89,Kibuka,"['Asian', 'Japanese']",96%,500+
+90,Bar Delirium Tapas Y Bocadillos,"['Local food', 'Mediterranean']",98%,500+
+91,Brutal58,"['Burgers', 'Latin American']",96%,500+
+92,4 Pokes,['Poke'],95%,500+
+93,Wok Verdi,['Japanese'],96%,500+
+94,Mako,"['Asian', 'Japanese']",94%,430
+95,Sushiyaki,"['Asian', 'Japanese']",97%,500+
+96,Sushi Day,"['Japanese', 'Sushi']",95%,500+
+97,BarcelonaMilano,['Mediterranean'],98%,500+
+98,4 Makis,['Japanese'],97%,500+
+99,Tlaxcal,['Mexican'],96%,326
+100,TEIKIT Sushi,"['Asian', 'Japanese']",96%,500+
+101,Un Chingo De Sabor,['Mexican'],97%,494
+102,MAS QUE SUSHI SANT GERVASI,"['Asian', 'Japanese']",98%,500+
+103,Enlagloria Salad House,"['Healthy', 'Vegetarian']",95%,500+
+104,Kebabish,"['Arabic', 'International']",96%,500+
+105,Arepish,['Latin American'],93%,500+
+106,Restaurante Chino Futu,['Asian'],97%,403
+107,Anita Gelato,['Ice cream'],96%,500+
+108,Mon Viet,['Asian'],95%,500+
+109,Ramen-Ya Senba Zuru,['Mediterranean'],96%,500+
+110,XXL KEBAB,"['Arabic', 'Kebab']",97%,450
+111,La Central Burger,"['American', 'Burgers']",94%,407
+112,Wok Asia Amb Gracia,['Japanese'],93%,500+
+113,Central Café,['Healthy'],97%,500+
+114,Fu Lin,"['Asian', 'Japanese']",91%,500+
+115,Palacio Mandarín,"['Japanese', 'Sushi']",97%,500+
+116,"Good Shit, Vegan Kebabs.","['Arabic', 'Sandwich']",98%,500+
+117,Inka Burg,"['American', 'Burgers']",95%,500+
+118,Sannin,['Arabic'],95%,500+
+119,Hula Poke,"['Healthy', 'Poke']",96%,342
+120,Restaurant Malaysia,['Asian'],99%,500+
+121,Squadra Pizza Lab,['Pizza'],95%,500+
+122,Gringa,['Burgers'],91%,163
+123,Wok Home,"['Asian', 'Japanese']",96%,264
+124,Café Menssana,"['Healthy', 'International']",97%,500+
+125,Kakigori,"['Japanese', 'Sweets']",92%,60
+126,My Fucking Poke,"['Healthy', 'Poke']",94%,480
+127,Suguru,['Japanese'],97%,298
+128,Trafalgar Pizza Club,['Pizza'],97%,66
+129,Secrets By Farga,"['Healthy', 'Mediterranean']",95%,500+
+130,Frankfurt de Verdi,['Burgers'],96%,500+
+131,M2 Gluten Free - Sin Gluten,"['Gluten free', 'Healthy']",94%,476
+132,L'Olla de Sichuan,"['Asian', 'Homemade food']",95%,415
+133,Dürüm Kebab Gracia,"['Arabic', 'Kebab']",95%,500+
+134,Sports Bar Italian Food,"['Italian', 'Pizza']",94%,500+
+135,Restaurante Chino Gran Lujo,['Asian'],95%,500+
+136,Más Que Sushi,"['Japanese', 'Sushi']",97%,244
+137,La Pachuca,['Mexican'],97%,500+
+138,Pizzería And Pastas,['Pizza'],New,500+
+139,Oakberry Açaí Bowls,"['Breakfast', 'Healthy']",97%,500+
+140,Poke Show,"['Poke', 'Sushi']",95%,246
+141,Thai Barcelona,['Thai'],97%,169
+142,Takiyo Sushi,"['Asian', 'Japanese']",95%,264
+143,Rebecca Diabola,"['Italian', 'Pizza']",97%,475
+144,Bellillo,"['Italian', 'Pizza']",96%,118
+145,Restaurante Japonés Umai,['Japanese'],98%,434
+146,El Pachuco,['Mexican'],94%,500+
+147,Sandwich Club Barcelona,['Sandwich'],96%,361
+148,Restaurante Edo,['Japanese'],97%,500+
+149,Tino | esto no es una pizza,"['Italian', 'Pizza']",98%,500+
+150,Bendita Trumfa,"['Burgers', 'Sandwich']",94%,195
+151,La Burguesa,['Burgers'],93%,500+
+152,Pollos Rikos,"['Chicken', 'Peruvian']",94%,500+
+153,Ramen Shifu,"['Asian', 'International']",92%,241
+154,Cada Día Pizza,['Pizza'],New,433
+155,La Malandrina,['Latin American'],93%,151
+156,Lalola,['Pizza'],94%,258
+157,Machete Burritos,['Mexican'],94%,246
+158,La Royale,['Burgers'],94%,439
+159,Tomasso New York Pizza,['Pizza'],96%,288
+160,El Raco de Maladeta,"['Asian', 'Japanese']",93%,83
+161,Bobo Doner Kebab,"['Arabic', 'Kebab']",94%,275
+162,Casa Masala,['Indian'],93%,129
+163,Capitol de Vietnam,"['Asian', 'International']",97%,428
+164,Bendito Tako,['Mexican'],91%,341
+165,Flash-Flash,"['Homemade food', 'Gourmet']",95%,199
+166,Frankie Gallo Cha Cha Cha,"['Italian', 'Pizza']",93%,404
+167,Gallo Nero,['Italian'],92%,229
+168,Thai Cafe,['Thai'],94%,500+
+169,Vitali Pizza,['Pizza'],95%,500+
+170,Gozo,"['Burgers', 'Healthy']",95%,242
+171,Umēshu Sushi,"['Asian', 'Japanese']",95%,483
+172,Roti - Indian Vegetarian Kitchen,"['Vegan', 'Vegetarian']",94%,500+
+173,L'Antica Pizzeria Da Michele,['Pizza'],95%,350
+174,Cuina Chen,['Asian'],99%,386
+175,La Bendecida,"['Latin American', 'Venezolana']",96%,453
+176,Restaurante Avocado BCN,['Mediterranean'],94%,64
+177,Deleit Sushi,"['Asian', 'Japanese']",97%,259
+178,That's Amore,['Pizza'],95%,230
+179,Papadam Indian Authentic Restaurant,['Indian'],94%,228
+180,Bangkok Café,['International'],94%,288
+181,Estambul Kebab,['Arabic'],92%,177
+182,Kebab Inn,"['International', 'Kebab']",91%,272
+183,Bonaburger,['Burgers'],93%,383
+184,Little India,['Indian'],92%,487
+185,My Gyros Pita & Pizza - Greek House,['Pizza'],93%,292
+186,Subway,"['American', 'Sandwich']",94%,500+
+187,El Dorado Chicken,"['Chicken', 'Latin American']",93%,469
+188,Telepizza,['Pizza'],95%,319
+189,Fu Xing,"['Asian', 'Chinese']",94%,500+
+190,Yummy Fried Chicken,"['American', 'Chicken']",98%,187
+191,Kasarap Filipino Kitchen,['Asian'],98%,198
+192,Oishii Ramen Street,['Asian'],97%,260
+193,Taco Bell,['Mexican'],83%,500+
+194,La Carioca,"['Burgers', 'Latin American']",95%,254
+195,Sabor De India,['Indian'],98%,279
+196,Boa Bao,"['Asian', 'Thai']",90%,500+
+197,Port Bay,"['Breakfast', 'Snacks']",100%,30
+198,Costa Pacífico,['Mexican'],97%,243
+199,Bar Restaurante Ámsterdam,['Burgers'],94%,57
+200,TexMex & Co,['Mexican'],95%,198
+201,Sweet Gocho,"['Breakfast', 'Ice cream']",94%,167
+202,La Taquería,['Mexican'],96%,500+
+203,Bona Sort Sushi,"['Japanese', 'Poke']",98%,292
+204,Pizza París,"['Italian', 'Pizza']",94%,393
+205,Pizza Stop,"['Italian', 'Pizza']",88%,289
+206,Dionisos,"['Greek', 'International']",92%,283
+207,Thai Gracia,"['Healthy', 'Thai']",92%,96
+208,Totoro,"['Asian', 'Japanese']",95%,447
+209,Europa Café,['Breakfast'],97%,210
+210,Malditos los Tacos,['Mexican'],93%,236
+211,Flax & Kale Gluten Free,"['Gluten free', 'Healthy']",93%,500+
+212,Rojo by Tragaluz,"['Japanese', 'Pizza']",93%,500+
+213,Il Mulino Pizza Bakery,['Pizza'],95%,354
+214,Tamae,"['Asian', 'Japanese']",95%,362
+215,Nomomoto,"['Asian', 'Japanese']",96%,500+
+216,Creperia George's,['Sweets'],89%,85
+217,Piazze D'Italia,"['Italian', 'Pizza']",94%,180
+218,Asian Ways,['Asian'],96%,402
+219,Madame Ramen,['Japanese'],97%,35
+220,Ramen House,['Asian'],95%,196
+221,Vapiano,"['Italian', 'Pizza']",94%,386
+222,Chickoa,['Chicken'],92%,319
+223,Tiago La Pizza,"['Italian', 'Pizza']",97%,379
+224,Smash House,['Burgers'],97%,500+
+225,La Pita Bonita,"['Arabic', 'International']",93%,184
+226,Empanadas Malvón,"['International', 'Latin American']",93%,404
+227,Jardín De Chen,['Asian'],95%,164
+228,Alo Beirut,"['Arabic', 'Healthy']",92%,466
+229,La Adelita Botanero,['Mexican'],94%,21
+230,Frankfurt’s Original “C.C. Frankfutrs Splau”,"['American', 'Burgers']",95%,276
+231,Hungry Eyes,['Indian'],95%,185
+232,Isabella's,['Italian'],96%,500+
+233,Empanada Club Gracia,"['Latin American', 'Pizza']",98%,195
+234,Criollo Empanadas Argentinas,['Latin American'],96%,218
+235,Delhi Sweets And India Restaurant,['Indian'],92%,136
+236,Blu Bar 100% Vegan,"['Pizza', 'Vegan']",99%,211
+237,Musiú,"['Italian', 'Pizza']",98%,110
+238,Casa Moritz Barcelona,['Mediterranean'],98%,75
+239,Pizzería San Marino,['Pizza'],96%,111
+240,Frankfurt’s Sant Andreu,"['American', 'Burgers']",96%,500+
+241,Ikibana,['Japanese'],92%,193
+242,Pizzería Maurizio 2.0,"['Italian', 'Pizza']",94%,229
+243,Sushi Shop,"['Japanese', 'Poke']",93%,500+
+244,Frankfurt’s Industria,['Sandwich'],94%,229
+245,Doner Kebab El Maño,['Arabic'],89%,500+
+246,Pappa e Pizza,"['Italian', 'Pizza']",96%,120
+247,Aladdin,"['Arabic', 'International']",93%,500+
+248,Mustafa’s Döner & Grill,['Arabic'],93%,500+
+249,Leccabaffi,['Italian'],95%,114
+250,Melosa Hamburguesería,['Burgers'],93%,184
+251,Empanadas Las Muns,"['Latin American', 'Vegetarian']",97%,87
+252,New York Burger,['Burgers'],89%,500+
+253,Charro Premium Burgers,"['American', 'Burgers']",98%,201
+254,Grill Restaurant,['Mediterranean'],97%,135
+255,India Go,['Indian'],93%,126
+256,Restaurante Sinla,"['Asian', 'International']",98%,86
+257,Desoriente / Asian Vegan Sushi,"['Asian', 'Sushi']",94%,131
+258,Santo Porcello,['Italian'],96%,120
+259,Milanesas Rodríguez,"['Latin American', 'Milanese']",94%,215
+260,Yakumanka,['Latin American'],87%,62
+261,Empanadish,"['Latin American', 'Venezolana']",96%,500+
+262,Rasoi Ghar,['Mediterranean'],97%,77
+263,Tío Bigotes,['Latin American'],98%,163
+264,El Bola,['Burgers'],100%,58
+265,Kebab Nepolis Pizza,"['Italian', 'Pizza']",93%,283
+266,Lateral,['Mediterranean'],89%,139
+267,Parking Pita,"['Arabic', 'Sandwich']",93%,500+
+268,Rasoi,['Indian'],96%,209
+269,La Capital,"['American', 'Burgers']",90%,219
+270,Restaurante Iguazú,['Latin American'],91%,72
+271,Antalya Kebab y Pizza,"['Arabic', 'Kebab']",95%,234
+272,Antalya Kebab y Pizza,"['Arabic', 'Kebab']",95%,234
+273,La Güerita Mexicana,['Mexican'],94%,250
+274,Maiki Poke,"['Healthy', 'Poke']",93%,166
+275,Maruko,['Japanese'],97%,421
+276,Thai Bistro 57,"['Asian', 'Thai']",93%,424
+277,Nagomi,"['Asian', 'Japanese']",97%,230
+278,Pokawa,"['Poke', 'Vegan']",90%,198
+279,Restaurante Bar Las 4 Estaciones,"['Latin American', 'Peruvian']",93%,85
+280,Pizza Mítica,['Pizza'],98%,409
+281,Keik,['Burgers'],97%,332
+282,Chivuo's,['Burgers'],90%,440
+283,Green Spot,['Healthy'],97%,149
+284,Teresa Carles,['Healthy'],98%,500+
+285,Lara Grill,['Burgers'],96%,235
+286,Sushi Bar Mirage,"['Japanese', 'Sushi']",97%,273
+287,Forno d'Oro,['Pizza'],99%,45
+288,Rekons Empanadas,"['Mediterranean', 'Vegan']",98%,276
+289,A33 Pizzería,"['Italian', 'Pizza']",94%,138
+290,Pizza Rico,['Pizza'],98%,39
+291,Bar Ri,['Mediterranean'],99%,26
+292,Pura Brasa,"['Chicken', 'Grill']",94%,131
+293,A Vocados Free,['Healthy'],95%,21
+294,Darco's Café,['Burgers'],97%,200
+295,Poke Market,['Poke'],96%,154
+296,The Dirty Vegans,"['Vegan', 'Vegetarian']",98%,188
+297,GoXO,['International'],92%,500+
+298,Dulzura Mía,"['Breakfast', 'Sweets']",96%,300
+299,Pizzería Don Vito,"['Italian', 'Pizza']",98%,57
+300,La piazzetta gran via,['Pizza'],94%,160
+301,Le Capere,"['Italian', 'Pizza']",97%,124
+302,Indian Diputació,['Indian'],90%,138
+303,Bonrollo,['Healthy'],97%,329
+304,Pizzería La Stazione,['Pizza'],96%,38
+305,Restaurante Kapadokya,['Arabic'],89%,71
+306,Hai Tian,['Asian'],94%,352
+307,Franckfurt Baetulo,['Burgers'],92%,308
+308,Koku Kitchen Ramen & Gyoza Bar,['Japanese'],97%,323
+309,"Frankfurt’s Original “C.C. Finestrelles""","['American', 'Burgers']",88%,316
+310,Baby Jalebi,"['Asian', 'Indian']",97%,242
+311,Restaurante vinyar,"['Asian', 'Homemade food']",96%,500+
+312,Fratelli la Búfala,['Italian'],94%,83
+313,Pizza Zona Franca,['Pizza'],99%,63
+314,Tapas 24,"['Brunch', 'Mediterranean']",97%,210
+315,OH BO,['Healthy'],98%,102
+316,Taco Alto,['Mexican'],92%,330
+317,Little Caesars Pizza,['Pizza'],93%,335
+318,Wok Street,['Asian'],93%,324
+319,Cachapish,['Latin American'],89%,490
+320,Grasshopper Ramen Bar,['Asian'],83%,321
+321,Fast Kibuka,"['Asian', 'Japanese']",96%,433
+322,Panchito Amigó,['Mexican'],91%,327
+323,A L'Ast Pollo Asado,"['American', 'Chicken']",93%,253
+324,Gandhi Indien Food,"['Indian', 'International']",97%,340
+325,Miko Poke & Sushi,"['Japanese', 'Poke']",94%,122
+326,Japon Market,"['Healthy', 'Japanese']",96%,160
+327,El Japonés by Tragaluz,"['Asian', 'Japanese']",94%,239
+328,Viblioteca,['Mediterranean'],97%,182
+329,Al Karma,['Arabic'],95%,83
+330,Chebu,['Asian'],94%,142
+331,Wok Show,"['Asian', 'Japanese']",89%,415
+332,Asian Freak,['Asian'],95%,372
+333,Vegan Junk Food Bar,"['Burgers', 'Vegan']",97%,203
+334,D'Street Pokes,['Poke'],96%,36
+335,Yamada Ya BCN,['Japanese'],96%,182
+336,Surya,['Indian'],98%,246
+337,Prim99,['Indian'],96%,161
+338,Buena Morena,"['Mexican', 'Vegan']",97%,53
+339,216 Grammi Poblenou,['Italian'],92%,167
+340,Pots & Cakes,"['Snacks', 'Sweets']",99%,128
+341,Barra Brava,"['Latin American', 'Peruvian']",91%,49
+342,Restaurante Loto,['Asian'],92%,80
+343,La Capricciosa,"['Italian', 'Pizza']",91%,271
+344,Ugarit,['International'],93%,213
+345,La Vietnamita,"['Asian', 'Healthy']",93%,279
+346,Bella Venezia,['Pizza'],98%,207
+347,Toyako,"['Asian', 'Healthy']",97%,195
+348,Restaurante Shanghai,['Asian'],91%,264
+349,Telemaki,"['Asian', 'Japanese']",94%,208
+350,Bar Granja 2018,['Asian'],97%,163
+351,Moshio sushi,"['Japanese', 'Sushi']",94%,145
+352,Timesburg,['Burgers'],90%,500+
+353,Machete,['Mexican'],95%,78
+354,Doctor Pizza,"['Pizza', 'Vegetarian']",100%,259
+355,Mulan Take Away,['Asian'],96%,215
+356,Restaurante Dhaba,"['Indian', 'International']",98%,74
+357,Cantinho Brasileiro,"['Latin American', 'Mediterranean']",93%,201
+358,ROYAL INDIAN by Taj,"['Indian', 'International']",95%,241
+359,Bene Assai,"['Italian', 'Pizza']",97%,308
+360,La Mama Acasa,['International'],97%,143
+361,Empanada Club Hostafrancs,['Latin American'],93%,218
+362,Urban Poke,"['Healthy', 'Poke']",94%,273
+363,King de Horta,"['Arabic', 'Pizza']",96%,179
+364,Ganga Curry & Tandoori,['Indian'],95%,430
+365,Radikal L'Hospitalet,"['Mediterranean', 'Sandwich']",97%,71
+366,Mezcal Taco Bar,['Mexican'],98%,45
+367,SALSA: Tacos & Burritos,"['Latin American', 'Mexican']",94%,500+
+368,El Tianguis,['Mexican'],99%,44
+369,Arabia Café,"['Arabic', 'Mediterranean']",98%,314
+370,La Güerita Mexicana,['Mexican'],95%,241
+371,The Greek Street,['Greek'],87%,500+
+372,Flax & Kale @Home,['Healthy'],94%,500+
+373,DC Burguer,['Burgers'],93%,127
+374,Restaurante Corea Qing Wa Tai,['Asian'],95%,225
+375,Fenicia,['Mediterranean'],97%,260
+376,Zaatar & Co.,"['Arabic', 'International']",95%,500+
+377,Taller De Tapas Rambla,['Mediterranean'],94%,57
+378,Casa Fong,['Asian'],92%,500+
+379,Wok To Walk,['Asian'],93%,387
+380,Bisma Kebabish,['Arabic'],93%,47
+381,Restaurante Donde Siempre,"['Burgers', 'Latin American']",92%,93
+382,Fukuoka,"['Asian', 'Japanese']",97%,131
+383,Istambul Kebab,"['Arabic', 'Kebab']",93%,51
+384,Curry Masala,"['Indian', 'International']",98%,48
+385,La tropa,['Burgers'],99%,58
+386,Sushi Nori,"['Japanese', 'Sushi']",95%,500+
+387,Frankfurt Chumi,"['Burgers', 'Mediterranean']",97%,290
+388,Umamy Noodles,['Asian'],92%,336
+389,La Viena Blanca,['Mediterranean'],99%,49
+390,Cataluña Döner Kebab Sant Josep,"['Arabic', 'Homemade food']",94%,194
+391,Handburg Pedralbes,['Burgers'],95%,96
+392,Kokomi Restaurante Japonés,['Japanese'],95%,38
+393,Restaurante Casa Pepe,"['Mediterranean', 'Seafood']",96%,319
+394,Frankfurt Sants,['Mediterranean'],95%,329
+395,Ceviche 103,"['Latin American', 'Peruvian']",97%,442
+396,Pans & Company,['Mediterranean'],95%,298
+397,Acqua & Farina,"['Italian', 'Pizza']",95%,150
+398,La Piadina Porchetta Burger,['Italian'],90%,54
+399,Chiku Yo Tei,['Japanese'],90%,56
+400,El Canalla,['Mediterranean'],98%,57
+401,Aori Ramen,['Asian'],96%,237
+402,Baba Kebab,"['Arabic', 'Kebab']",95%,198
+403,Frankfurt's Santa Coloma,['Sandwich'],92%,302
+404,Tentación Criolla Barcelona,['International'],97%,111
+405,Estrella Kebab Y Pizzería,"['Arabic', 'Kebab']",89%,107
+406,The Burger Maker Halal,"['Breakfast', 'Burgers']",92%,65
+407,El Modernista,['Mediterranean'],91%,62
+408,Burritos,['Mexican'],92%,341
+409,Restaurante Pizzería Kebab Tchey,['Arabic'],94%,168
+410,Pizzería Les Dues Sicílies,"['Italian', 'Pizza']",93%,308
+411,Luigi Ristorante,"['Italian', 'Pizza']",94%,310
+412,Dolce Pizza y Los Veganos,"['Gluten free', 'Italian']",98%,113
+413,Dan’s Hot Dog,['American'],92%,38
+414,Mian,['Asian'],98%,154
+415,Empanar Empanadas,"['Gourmet', 'Latin American']",96%,372
+416,Pita House,"['Arabic', 'Pizza']",92%,119
+417,Vegan Amarre 69,"['Burgers', 'Snacks']",95%,68
+418,Lys,"['Asian', 'International']",94%,113
+419,Gandhi Executive Food,"['Chicken', 'Indian']",96%,301
+420,La Brasa Roja,['Chicken'],94%,150
+421,Ishumo,['Japanese'],98%,111
+422,Monster Sushi,"['Asian', 'Japanese']",96%,500+
+423,Sushifresh,"['Asian', 'Japanese']",93%,197
+424,Grill Istanbul,"['Arabic', 'Pizza']",97%,115
+425,Empanada Club Clot,"['Mediterranean', 'Pizza']",98%,120
+426,Kibuka Poblenou,"['Japanese', 'Sushi']",95%,500+
+427,Doner Kebab Show,['Arabic'],94%,451
+428,Doner Festival Pizzería,['Arabic'],92%,159
+429,Kioto,"['Asian', 'Japanese']",95%,406
+430,Pizza Local,"['Italian', 'Pizza']",98%,389
+431,Hanaikada Sushi,"['Japanese', 'Sushi']",98%,96
+432,Oi'Ma,"['Italian', 'Sandwich']",96%,277
+433,Istanbul,['Arabic'],88%,63
+434,Baozi Bar,['Japanese'],94%,74
+435,North India & South India,['Indian'],90%,31
+436,Ben Tips,['Burgers'],96%,126
+437,Fet A Ma Pa I Pizza,['Pizza'],92%,423
+438,Frankfurt Montgat,['Sandwich'],95%,39
+439,Pasta Gaudí,['Italian'],99%,39
+440,Vivanapoli,['Pizza'],99%,87
+441,Mosquito,['Asian'],94%,91
+442,Konkai Sushi,"['Japanese', 'Poke']",96%,62
+443,La Forchetta,"['Italian', 'Pizza']",98%,134
+444,Kebab House,"['Arabic', 'Chicken']",94%,121
+445,Chilango's,['Mexican'],93%,149
+446,FRANKFURT’S IBERIC,"['American', 'Burgers']",98%,373
+447,Usmaniagrill,['Indian'],89%,50
+448,Pizza Margarita,"['International', 'Italian']",92%,89
+449,Bopiz,"['Italian', 'Pizza']",93%,500+
+450,Pizzeria La Gavina,['Pizza'],96%,219
+451,PM Sushi & Gyozas,"['Japanese', 'Sushi']",99%,65
+452,Ming Sushi,"['Japanese', 'Sushi']",98%,145
+453,Kope Poké,"['Breakfast', 'Healthy']",96%,172
+454,The Fresh Poke,"['Healthy', 'Poke']",91%,274
+455,Sushi Show,"['Healthy', 'Sushi']",90%,90
+456,Burgertime Gourmet,['Burgers'],98%,98
+457,Restaurante Ola,['Japanese'],95%,37
+458,Donkey Burrito,['Mexican'],91%,194
+459,Roots & Rolls 100% Vegan,"['Healthy', 'Vegan']",90%,63
+460,Restaurante La Penela,"['Gourmet', 'Mediterranean']",95%,212
+461,The Dog is Hot,['American'],92%,230
+462,Bowy,"['Healthy', 'Vegetarian']",98%,209
+463,Il Mago Restaurante Pizzeria Italiana,"['Italian', 'Pizza']",97%,240
+464,Only Sushi,"['Asian', 'Japanese']",97%,204
+465,Pizza To Rico,['Pizza'],94%,75
+466,Indian Bordeta,['Indian'],95%,144
+467,Xix Kebab,['Arabic'],93%,32
+468,A Bocados,['Burgers'],94%,121
+469,Restaurante Taberna del Cura,['Mediterranean'],95%,500+
+470,Made in Italy,"['Italian', 'Pizza']",95%,400
+471,Youku Sushi,"['Japanese', 'Sushi']",93%,470
+472,Tandoori Nights,['Indian'],98%,128
+473,Da Me,['Pizza'],98%,171
+474,Restaurante Dolsotbap,['Asian'],97%,359
+475,Lebanese Parade,"['Arabic', 'Vegetarian']",87%,119
+476,Chocolat Box Gelato - Helado,['Ice cream'],90%,103
+477,Frankfurt’s Fabra I Puig,"['American', 'Burgers']",97%,388
+478,Livingstone,"['American', 'Burgers']",96%,384
+479,Pim Pam Burger,['American'],99%,144
+480,2254 Tapas,['Italian'],85%,176
+481,Olivetto,"['Italian', 'Pizza']",98%,154
+482,CASA MASANA,['Mediterranean'],96%,65
+483,Taquerías Tamarindo,['Mexican'],94%,215
+484,Dumplings,['Japanese'],96%,327
+485,Yusushi,"['Asian', 'Japanese']",98%,55
+486,Xe Wu,['Asian'],97%,55
+487,Freshperts,"['Asian', 'Japanese']",92%,164
+488,HOSOmaki,['Asian'],92%,88
+489,Miss Sushi,"['Japanese', 'Sushi']",90%,309
+490,Las Tortillas De Gabino,['Mediterranean'],94%,342
+491,El Rey Del kebab,['Arabic'],91%,162
+492,Pizza Orgánika,['Pizza'],90%,107
+493,Atavalats Vegan Burgers,"['Burgers', 'Vegan']",95%,119
+494,La Rústika,"['International', 'Italian']",95%,145
+495,Sr Ceviche,['Latin American'],95%,51
+496,A L'ast,['Chicken'],97%,145
+497,Restaurante El Nilo Barcelona,['Arabic'],96%,28
+498,Chicago Pizza,['Pizza'],90%,34
+499,Restaurante Vegetalia,['Healthy'],98%,39
+500,Bar Ven-Fi,['Mediterranean'],97%,89
+501,La Trocadero,"['Burgers', 'Vegan']",97%,262
+502,Empanadas Unidas,['Latin American'],77%,33
+503,Sushilab,"['Japanese', 'Sushi']",97%,281
+504,Motomaki & Sushi,"['Japanese', 'Sushi']",94%,500+
+505,Mimmar,"['Mediterranean', 'Vegetarian']",98%,139
+506,Champanillo,"['Burgers', 'Mediterranean']",88%,245
+507,Muten town,"['Asian', 'Japanese']",95%,95
+508,Kebab Y Pizza,"['Arabic', 'Pizza']",99%,37
+509,Single Fin Poke Joint,"['Healthy', 'Poke']",93%,433
+510,RedPizza Cornella,['Pizza'],94%,59
+511,La Porció,"['Pizza', 'Vegan']",99%,28
+512,La Porció,"['Pizza', 'Vegan']",99%,28
+513,Sushito,"['Japanese', 'Sushi']",92%,486
+514,Cervecería SSS,['Mediterranean'],92%,51
+515,Green&Burger By Biocenter,"['Burgers', 'Vegetarian']",96%,168
+516,Kuyi,['Asian'],91%,82
+517,Pizzería Maragall,"['International', 'Italian']",97%,150
+518,Restaurante Japones Shokudo,"['Japanese', 'Sushi']",94%,214
+519,A Vocados,['Pizza'],86%,190
+520,Maur Muntaner,"['Mediterranean', 'Pizza']",94%,73
+521,La Gloria Vegana,"['Vegan', 'Vegetarian']",96%,32
+522,Sottovoce,['Italian'],92%,150
+523,Fenicia Vegetariana,['Healthy'],96%,41
+524,Pizza Capri,['Pizza'],90%,384
+525,Tapa de China,['Asian'],86%,132
+526,Belyaburguer,['Burgers'],87%,89
+527,"Pokaï , Your tasty POKE BOWL",['Poke'],96%,48
+528,BRO Room,"['Burgers', 'Vegetarian']",93%,209
+529,Amanecer,['Asian'],95%,129
+530,Pizzería Fluvia,['Pizza'],91%,197
+531,Healthy Burrito,"['Healthy', 'Mexican']",92%,425
+532,Ribs,['American'],91%,183
+533,VIPS,"['American', 'Burgers']",92%,388
+534,Restaurante can manel,['Mediterranean'],97%,62
+535,Taj Mahal,"['Arabic', 'Indian']",92%,165
+536,Kiniro Sushi,"['Japanese', 'Sushi']",95%,179
+537,Honkaku II,['Japanese'],100%,13
+538,Wok Dao,['Japanese'],98%,61
+539,Zaika India Restaurant,['Indian'],92%,81
+540,Shawarmax,"['Arabic', 'Pizza']",94%,49
+541,Indian Curry House,['Indian'],94%,352
+542,SUSHITIENDA,"['Japanese', 'Sushi']",95%,68
+543,Gandhi Express,['Indian'],97%,300
+544,Turco Real,['Arabic'],97%,64
+545,Bitte! Wurst,['Mediterranean'],94%,121
+546,Sultan Kebabish,['Arabic'],94%,205
+547,Robin Foodie Comida Saludable,"['Healthy', 'Vegetarian']",95%,307
+548,Taverna Italiana,['Pizza'],96%,48
+549,Pizza Divina,['Pizza'],97%,218
+550,New Himali,"['Asian', 'Indian']",83%,32
+551,Casa Fernández,"['Burgers', 'Pizza']",99%,96
+552,La Esquineta,"['Italian', 'Pizza']",89%,74
+553,VRUTAL - Vegan Burgers & Bowls,"['Burgers', 'Healthy']",99%,346
+554,Fetiche,"['Japanese', 'Sushi']",95%,431
+555,Rey Doner Kebab,"['Arabic', 'Pizza']",91%,154
+556,Poke Fish and Greens,"['Healthy', 'Poke']",81%,39
+557,Restaurant La Boquería,"['Mediterranean', 'Paella']",89%,101
+558,Sopa De Ramen,['Japanese'],88%,141
+559,La Picnic,['Asian'],97%,17
+560,Pokes Pro,['Poke'],98%,14
+561,Pita Inn 1,['Arabic'],99%,31
+562,Bar DM,['Asian'],96%,166
+563,Rostissería Los Pollos,"['Chicken', 'Homemade food']",92%,500+
+564,Pizza Roger De Flor,['Pizza'],94%,169
+565,Criollo - Empanadas Argentinas Caseras,"['Homemade food', 'Mediterranean']",94%,125
+566,101 Dim Sum,['Asian'],New,186
+567,Gusto Pizzeria,"['Italian', 'Pizza']",98%,112
+568,Creperie Bretonne,"['Breakfast', 'Sweets']",96%,185
+569,Murivecchi,"['Italian', 'Pizza']",94%,39
+570,Indian Top Curry 2,['Japanese'],91%,36
+571,Euro Doner Pizzeria Alcudia,['Arabic'],100%,105
+572,Pizzerica,['Pizza'],95%,20
+573,Elche Restaurant,['Mediterranean'],91%,203
+574,Pak Tandoori Restaurante,['Indian'],96%,206
+575,Grill Doner,['Arabic'],93%,198
+576,Chila,['Asian'],99%,25
+577,Folk Empanadas,"['Latin American', 'Mediterranean']",96%,94
+578,Ninja Wings,"['American', 'Chicken']",97%,112
+579,Craft Pizza,['Pizza'],94%,191
+580,La Burrata,"['Italian', 'Pizza']",93%,31
+581,Pizza Italiano,"['Italian', 'Pizza']",95%,209
+582,Kebab Alcalde,"['Burgers', 'Kebab']",94%,81
+583,EC Brunch,"['Breakfast', 'Brunch']",96%,154
+584,Vegesana,"['Healthy', 'Vegetarian']",97%,25
+585,Sushi H83,"['Asian', 'Japanese']",88%,365
+586,Hachiko Sushi,"['Japanese', 'Sushi']",94%,78
+587,Pizzería Sants,['Pizza'],95%,172
+588,Viet Kitchen,['Asian'],97%,14
+589,Veggie & More,"['Healthy', 'Vegetarian']",100%,98
+590,Gandhi Veg India,"['International', 'Vegetarian']",95%,70
+591,TakoTako,['Mexican'],90%,68
+592,Frankfurt La Farga,['Mediterranean'],94%,38
+593,Restaurante Xewu II,['Asian'],97%,163
+594,Frankfurt Rita,['International'],95%,143
+595,D. Fénix Sushi,"['Japanese', 'Sushi']",92%,159
+596,Kois  Restaurante Japonés,['Asian'],92%,127
+597,Boko Thai,['Thai'],86%,81
+598,Healthy Pleasure,"['Healthy', 'Vegetarian']",95%,283
+599,Tango Grill,['Latin American'],94%,86
+600,Pita Corner,"['Arabic', 'Pizza']",89%,90
+601,Pizza Esplugues,['Pizza'],95%,128
+602,Mr Tanaka Asian Burger,['Burgers'],95%,19
+603,Dionisos Green,"['Greek', 'Mediterranean']",99%,264
+604,Bam Bam Doner Kebab,"['Arabic', 'Chicken']",94%,377
+605,Fat Barbies,['Burgers'],88%,227
+606,Kebab Inn,['Arabic'],90%,219
+607,Carabela Café,['Mexican'],94%,111
+608,Brutal Hotdogs,"['American', 'Burgers']",90%,34
+609,URAMAKERS Sushi Fusion,"['Poke', 'Sushi']",91%,186
+610,Red Ant Noodle Bar,"['Asian', 'Japanese']",77%,101
+611,Dirty Burgers,"['American', 'Burgers']",92%,120
+612,Bang Bang Burritos,['Mexican'],88%,353
+613,Yaadgaar Doner Kebab Pizzería,"['Arabic', 'Pizza']",95%,38
+614,Saporito,"['Italian', 'Pizza']",88%,19
+615,Popeyes,['Chicken'],86%,500+
+616,Allinone Pastas,['Italian'],87%,304
+617,Pitta Hot Döner,['Arabic'],95%,89
+618,Rey De Ali Baba Kebab,"['Arabic', 'International']",89%,122
+619,EL JAPONÉS escondido,"['Asian', 'Japanese']",100%,19
+620,La Turka Kebab,"['Arabic', 'Pizza']",97%,265
+621,La Fermata,['Pizza'],97%,214
+622,Nikkei 103,"['Asian', 'Japanese']",94%,71
+623,Sudoki Sushi & Fusión,"['Asian', 'Japanese']",94%,51
+624,El Racó Pizzería Mediterránea,['Mediterranean'],94%,158
+625,Saona,['Mediterranean'],89%,24
+626,Restaurante Chino Palacio Hermoso 2,['Asian'],95%,143
+627,Village Restaurant I Doner Kebab,['Arabic'],94%,234
+628,Chulapio crepes & cocktails,"['International', 'Mediterranean']",88%,25
+629,Restaurant Tamara,['Mediterranean'],96%,74
+630,Mulan Takeaway Esplugues,['Asian'],96%,201
+631,Super Picnic,['American'],96%,114
+632,Retruco,['Latin American'],97%,55
+633,Marina Bay,"['Mediterranean', 'Paella']",89%,27
+634,Garito24,"['Burgers', 'Sandwich']",96%,266
+635,New Merka Pizza,['Italian'],94%,26
+636,La Mundana,['Mediterranean'],97%,75
+637,Solo Pizza,"['Italian', 'Pizza']",96%,181
+638,Zeeshan Kebabish Halal Restaurant,"['Indian', 'Kebab']",91%,180
+639,Sapri Pizza Sant Andreu,"['Pizza', 'Vegan']",91%,123
+640,OMG,"['Healthy', 'Mediterranean']",96%,500+
+641,Antonia's Burger,"['American', 'Burgers']",93%,132
+642,Aloha Poké,"['Healthy', 'Poke']",91%,500+
+643,Hi Wok,['Japanese'],91%,492
+644,Raconet,"['International', 'Sandwich']",92%,45
+645,Taco Rico,['Mexican'],98%,120
+646,Flying Burrito,"['Latin American', 'Mexican']",84%,75
+647,The Lobster Roll Barcelona,['American'],91%,95
+648,El Rincón,['Mediterranean'],92%,112
+649,El Racó,['Italian'],86%,102
+650,Healthy Nation,"['Healthy', 'Mediterranean']",93%,350
+651,El Sabor Pizzería,['Pizza'],98%,44
+652,Taco Munch,['Mexican'],79%,29
+653,Bristol Café,['Mediterranean'],96%,141
+654,Fiser Sushi,"['Japanese', 'Sushi']",95%,78
+655,KIKIRIKI,"['Chicken', 'Mediterranean']",95%,126
+656,Tulsi Vegan Restaurante,"['Gourmet', 'Vegan']",97%,121
+657,Vegano - Vegetariano Perejil,"['Healthy', 'Vegan']",100%,34
+658,Jikan Sushi,"['Asian', 'Sushi']",95%,153
+659,La Perla de Oriente,['Asian'],93%,500+
+660,Tío Papelón,['Latin American'],90%,398
+661,Thai & Green,['Asian'],92%,309
+662,My Sushi,"['Asian', 'Japanese']",92%,237
+663,Sabor Remei Kebabish,['Arabic'],95%,29
+664,Pizzeria Creu,"['Indian', 'Italian']",96%,86
+665,Euro Doner Pizzería,['Arabic'],96%,91
+666,Mr. Sushi,"['Asian', 'Japanese']",97%,97
+667,El Pollo Latino,"['Chicken', 'Latin American']",85%,100
+668,Bungr,"['American', 'Burgers']",93%,500+
+669,Vintena,"['Gourmet', 'Mediterranean']",100%,13
+670,Restaurante Pizzería Via Napoli,"['Italian', 'Pizza']",97%,56
+671,La Tremenda,"['American', 'Burgers']",90%,343
+672,Jian-Zhe Asiático,['Asian'],90%,91
+673,Oassis Lovely Pizza,['Pizza'],90%,55
+674,Atomic Chicken,"['American', 'Chicken']",88%,20
+675,Iqra Doner Kebab,"['Arabic', 'Burgers']",91%,65
+676,Bar Restaurante La Familia,['Mediterranean'],86%,75
+677,Frankfurt Parera,"['Burgers', 'International']",98%,100
+678,Ciudad Flor,['Asian'],94%,227
+679,Florida Grill,"['Burgers', 'Mediterranean']",100%,15
+680,Petit Ciurana,['Mediterranean'],93%,46
+681,Street Burger,"['American', 'Burgers']",92%,261
+682,Aquí Va El Kebab,['Arabic'],99%,59
+683,Pit Stop Pizza,['Pizza'],95%,279
+684,Búfala Doner Kebab,['Arabic'],93%,45
+685,Dip Dumpling,['Asian'],96%,89
+686,Zentral Bikinería,['Sandwich'],89%,94
+687,Shalimar braseria,['International'],94%,37
+688,Restaurante Barnabier,"['Burgers', 'Mediterranean']",94%,30
+689,Grill Corner Gran Via 2,['Mediterranean'],88%,54
+690,Isami,['Japanese'],95%,79
+691,Bar Paco,"['Mediterranean', 'Pizza']",93%,31
+692,Poke Sushi,"['Asian', 'Japanese']",99%,20
+693,Empanada Club Badal,"['Latin American', 'Pizza']",94%,93
+694,Frankfurt Paralelo,['Sandwich'],86%,95
+695,Pasta Santaló,['Italian'],84%,64
+696,Ferri Bottu,['Pizza'],97%,57
+697,Koh i Noor India,['Mediterranean'],94%,41
+698,Sushi Time Take Away Ronda del General Mitre,"['Asian', 'Japanese']",89%,63
+699,Thai Munch,"['Asian', 'Thai']",92%,97
+700,Granja Petitbo,"['Burgers', 'Sweets']",97%,352
+701,Pecata,"['American', 'Burgers']",95%,162
+702,Yiduo,['Japanese'],97%,13
+703,Kings Doner Kebab Pizzería,"['Arabic', 'International']",96%,143
+704,Barbaro Costillas Y Alitas,"['American', 'International']",87%,178
+705,Kawamura,['Japanese'],96%,49
+706,Derika Sushi Bar,"['Asian', 'Sushi']",98%,129
+707,Veg World India,"['Healthy', 'Indian']",97%,45
+708,Panino Silvestre,['Pizza'],97%,181
+709,Singh done kebab,['International'],91%,69
+710,Asa Sushibar,"['Asian', 'Japanese']",97%,38
+711,Durum Istanbul,['Arabic'],87%,77
+712,SHN Doner Turco,['Arabic'],99%,53
+713,Estrella de Istanbul,['Arabic'],92%,96
+714,Sushi Time Take Away,"['Asian', 'Japanese']",95%,455
+715,Gonzalez & Co Veggie & Vegan,"['American', 'Mexican']",95%,155
+716,Jef Coffee & Pizza,['Pizza'],92%,73
+717,Can Cuxart,['Mediterranean'],91%,166
+718,Panchito,['Mexican'],84%,128
+719,Patapollo,['Chicken'],90%,100
+720,Doner Kebab Fresh Food,['Arabic'],93%,48
+721,Bellako,['Arabic'],96%,453
+722,Pollo Rico,['Chicken'],91%,100
+723,Restaurante Ciurana,['Mediterranean'],92%,27
+724,Rico Kebab,['Arabic'],--,31
+725,Pizzería Micaela,['Pizza'],--,74
+726,BCN Pita House,"['Greek', 'International']",97%,185
+727,Hao Sushi,"['Asian', 'Japanese']",97%,87
+728,Ruixian Sushi,"['Healthy', 'Japanese']",98%,99
+729,Little Viet,"['Asian', 'Vegan']",92%,48
+730,La Bella Napoli,"['Italian', 'Pizza']",96%,98
+731,Sushi Time,"['Japanese', 'Sushi']",84%,85
+732,Pizza Mad,"['Italian', 'Pizza']",85%,21
+733,La Pequenia Pizzería,['Pizza'],90%,119
+734,Rostisseria Piopio Pizza Kebab,"['Arabic', 'Chicken']",97%,102
+735,Negro by Tragaluz,['Mediterranean'],96%,21
+736,Salad Bowl Bcn,"['Healthy', 'International']",93%,142
+737,Jara Sushi,"['Japanese', 'Sushi']",96%,94
+738,"El Capricho Kebab, Pizza Y Pollo A L'Ast","['American', 'Arabic']",91%,316
+739,Scandal Burgers,"['American', 'Burgers']",85%,33
+740,Canton Food,"['Asian', 'Chinese']",89%,163
+741,Gyoza Restaurante,['Asian'],97%,216
+742,Pekin Ciudad,['Asian'],91%,44
+743,Putxinel·lis,"['Pizza', 'Vegan']",97%,193
+744,Saray Restaurante Barcelona,"['Arabic', 'Indian']",94%,201
+745,Jalapeños,['Mexican'],97%,114
+746,Fasfú,"['American', 'Burgers']",94%,55
+747,PÖTSTOT-Vegano sin gluten,"['Gluten free', 'Gourmet']",85%,75
+748,El Rincón De Eric,['Asian'],97%,31
+749,Kanin Ko Rice In A Box,['Asian'],91%,31
+750,La Tartufata,"['Italian', 'Pizza']",89%,106
+751,Raisu La Maquinista,['Asian'],97%,500+
+752,Cacho-Po,['Mediterranean'],90%,32
+753,Elements Healthy Food,"['Healthy', 'Vegetarian']",90%,83
+754,Xiringuito Escribà,['Mediterranean'],94%,76
+755,Temaki Ya Sushi,"['Japanese', 'Sushi']",92%,23
+756,Central Brunch,"['Brunch', 'Sandwich']",97%,39
+757,Rey Del Bocata Sant Joan Despí,['Sandwich'],98%,110
+758,Ceviches La Peruana,"['Latin American', 'Peruvian']",95%,140
+759,Pinoy Chao Fan,['Asian'],89%,45
+760,BARCILO,"['Italian', 'Pizza']",85%,35
+761,The Chicken & Chips Co,['Chicken'],97%,135
+762,Pura Brasa,"['Grill', 'International']",97%,239
+763,Poke Munch,"['Healthy', 'Poke']",96%,121
+764,K' Delicia,['Latin American'],96%,500+
+765,Pizza Marina,['Pizza'],96%,14
+766,Frankfurt Titos,"['American', 'Mexican']",97%,45
+767,Pizzería Notris,"['Italian', 'Pizza']",96%,32
+768,The Chicago Pizza Pie,['Pizza'],95%,68
+769,Tequeñish,['Latin American'],94%,126
+770,Mr. Lei Sushi,"['Japanese', 'Sushi']",95%,148
+771,MadreLievito Street Food,['Pizza'],91%,56
+772,Atabalats Gastrobar,['Burgers'],99%,73
+773,Restaurante Gran Mundo,['Asian'],90%,220
+774,Creppy,['Pizza'],88%,300
+775,La Piazzenza,"['Italian', 'Pizza']",95%,430
+776,Sushi & Wok,"['Japanese', 'Sushi']",93%,32
+777,Italian Off Street,['Italian'],92%,93
+778,Brisa Sin Prisa,['Mediterranean'],97%,148
+779,Babol Burger,['Burgers'],92%,40
+780,Rincon De Honduras,['Latin American'],93%,169
+781,Pollo Bonitos,"['Arabic', 'Chicken']",94%,26
+782,Hanna Sushi,"['Asian', 'Japanese']",97%,500+
+783,Italian Pizza,['Pizza'],96%,38
+784,Pizza Puig,['Pizza'],92%,78
+785,Veganashi - Sushi Vegano,"['Healthy', 'Sushi']",93%,58
+786,Pizzería Carlos,['Pizza'],92%,264
+787,Duram House,['Arabic'],100%,10
+788,Wok Station,"['Asian', 'Thai']",95%,435
+789,Tiflis Restaurant,['International'],89%,64
+790,Yuki,"['Japanese', 'Local food']",94%,148
+791,Kangnam,['Asian'],97%,83
+792,Collblanc Kebab,"['Arabic', 'Pizza']",99%,25
+793,Pizza Bigben,"['Italian', 'Pizza']",94%,141
+794,The Real Kebab,"['American', 'Arabic']",91%,285
+795,Ristorante Margherita,['Italian'],96%,111
+796,TuCachapa.com,"['Bakery', 'Latin American']",91%,317
+797,La Clote,['Pizza'],97%,213
+798,Sushi Hana,"['Asian', 'Sushi']",96%,117
+799,Sartoria Panatieri Eixample,"['Italian', 'Pizza']",91%,283
+800,Grill Corner Sarrià,['Mediterranean'],88%,46
+801,Rey De Ali Baba,"['Arabic', 'Pizza']",98%,49
+802,Pollo Leña & Can Eusebio,['Chicken'],93%,401
+803,Liukoushui Hotpot Fideo,"['Asian', 'International']",94%,66
+804,Tapas Verdi,['Burgers'],89%,150
+805,Realfooding To Go,"['Healthy', 'Mediterranean']",90%,347
+806,Paisano Bistró,['Italian'],94%,252
+807,Sushi King,"['Asian', 'Sushi']",96%,89
+808,Foodies Nation,"['American', 'Chicken']",97%,75
+809,Milanesa Barcelona,['International'],97%,175
+810,El Turco Bar Doner Kebab Pizzería,"['Arabic', 'Burgers']",90%,130
+811,Burrito Wey,['Mexican'],88%,75
+812,Taquería Los Güeros,"['International', 'Mexican']",92%,52
+813,Naru Sushi,"['Asian', 'Japanese']",96%,23
+814,Orimaki Sushi,"['Japanese', 'Sushi']",94%,500+
+815,Berto's Milanesa,"['International', 'Latin American']",76%,72
+816,Big Burgers,['Burgers'],90%,46
+817,Bar El Velódromo,['Mediterranean'],99%,118
+818,Spaitalia,['Italian'],84%,23
+819,Rostissería La Española,['Mediterranean'],80%,55
+820,The Arabic Roll Sandwiches Healthy,"['Arabic', 'Sandwich']",82%,37
+821,GR Burgers,['Burgers'],97%,436
+822,The Real Food Co.,"['American', 'International']",85%,349
+823,Cheriff Restaurant,['Mediterranean'],87%,14
+824,Veggie Cravings,"['Healthy', 'Vegetarian']",78%,56
+825,Asian Ways Gracia,['Asian'],94%,219
+826,Sushi N°1,"['Japanese', 'Sushi']",98%,221
+827,Teng Sushi,"['Asian', 'Japanese']",93%,27
+828,Mercado 100 Montaditos y La Sureña,['Sandwich'],88%,94
+829,Askadinya,['International'],92%,21
+830,Arrossería,"['Mediterranean', 'Paella']",86%,136
+831,Adil Tandoori,"['Chicken', 'Indian']",82%,34
+832,Memorias de China,['Asian'],93%,170
+833,Not Only Wine,['Mediterranean'],95%,53
+834,Soc La Pizza,['Pizza'],91%,68
+835,Castell,"['Asian', 'Mediterranean']",97%,56
+836,Bushido Sushi,"['Japanese', 'Sushi']",96%,459
+837,La Golosa Vegan Vurger - Sant Antoni,"['Burgers', 'Vegan']",94%,42
+838,Bilbao Berria,['Mediterranean'],83%,32
+839,La Buena Pizza,['Pizza'],90%,163
+840,Juicy Avenue,"['American', 'Brunch']",93%,500+
+841,My Burgers,['Burgers'],97%,152
+842,Sushi Bar Bofan,"['Japanese', 'Seafood']",95%,112
+843,Pizzería Pulcinella,['Pizza'],83%,49
+844,Contratapa,['Mediterranean'],100%,52
+845,Contratapa,['Mediterranean'],100%,52
+846,Bubble Bar,"['Latin American', 'Mediterranean']",87%,36
+847,The Real Burrito,"['American', 'Mexican']",91%,425
+848,Asuka,['Asian'],90%,109
+849,100 Montaditos,"['Mediterranean', 'Sandwich']",93%,187
+850,Rosteria Pollo,"['Arabic', 'Chicken']",97%,40
+851,Tapas San Miguel,"['Asian', 'Burgers']",99%,13
+852,DePizza Artesana,['Pizza'],93%,76
+853,Pizzería Carlos,"['Italian', 'Pizza']",94%,256
+854,Yoshitake,['Japanese'],94%,226
+855,Doner & Durum,['Arabic'],90%,58
+856,Hu Nan,"['Asian', 'Japanese']",96%,222
+857,Trattoria Pasta e Pizza,"['Italian', 'Pizza']",83%,35
+858,Ice Cream Shop,['Ice cream'],100%,12
+859,The One Pizza,['Pizza'],99%,89
+860,My Burg,['Burgers'],96%,139
+861,Hamburguesería rústica Tío Joe,['Burgers'],98%,111
+862,Cataluña Döner Kebab,['Arabic'],87%,163
+863,Frankfurt Boka Tapa,"['Burgers', 'Mediterranean']",91%,256
+864,Hong Kong,['Asian'],91%,320
+865,Pizza Bona,"['Italian', 'Pizza']",92%,299
+866,Master Chef Sant Adrià de Besós,"['Asian', 'International']",92%,147
+867,KUENKO Poke & Ramen,"['Asian', 'Japanese']",96%,40
+868,Dirty Joe's empowered by Heura,"['Burgers', 'Vegetarian']",97%,381
+869,Tasty Wings,"['American', 'Chicken']",89%,78
+870,Nice Spice,"['Asian', 'Indian']",92%,155
+871,Indian Ocean,['Indian'],85%,53
+872,Pasta Stop,['Italian'],80%,85
+873,Pizza Shop,['Pizza'],94%,214
+874,Restaurante Japonés Yiduo2,['Japanese'],90%,20
+875,Al Karma 2,"['Arabic', 'Vegetarian']",86%,89
+876,Mac n Cheese Factory,"['Italian', 'Mediterranean']",89%,116
+877,Late Night Pizza & Pastas,['Pizza'],86%,48
+878,Pim Pam Kebab y Pizzería,"['Arabic', 'Pizza']",86%,253
+879,Milanesa House,"['Mediterranean', 'Milanese']",87%,167
+880,Pollo Campero,['Chicken'],89%,144
+881,Tantarantana,['Mediterranean'],71%,35
+882,Express Pizza Kebab,['Pizza'],98%,67
+883,Flex2Go,"['Poke', 'Vegetarian']",98%,109
+884,Kebab Fusión,['Arabic'],88%,142
+885,Out Of India,['Indian'],93%,165
+886,Okinawa Japanese,"['Asian', 'Japanese']",93%,242
+887,La Gárgola de Notre Dame,['American'],97%,21
+888,Moon Kebab,"['Arabic', 'Kebab']",95%,46
+889,Tacos Tacos,['Mexican'],89%,22
+890,Tambayan Asian Street Food,['Asian'],93%,56
+891,Smoky Ribs,"['American', 'Grill']",87%,67
+892,Baden Baden,"['Burgers', 'Sandwich']",95%,119
+893,Inayat Grill,['Arabic'],93%,92
+894,XXL Doner Kebab,"['Arabic', 'Pizza']",91%,323
+895,Montesquiu,['Mediterranean'],98%,107
+896,Birrieria Dos Coyotes,['Mexican'],83%,124
+897,Diávolo Rosso Pizzería Brasería,"['Italian', 'Pizza']",95%,41
+898,Tapa Tapa,['Mediterranean'],93%,22
+899,Zabú,['Asian'],96%,77
+900,Quiero más,['Mediterranean'],92%,10
+901,Empanada Simpática,"['Latin American', 'Snacks']",96%,12
+902,Redpokes and Bowls,['Healthy'],85%,149
+903,Yamada Ya BCN,['Japanese'],95%,81
+904,Pizza Bella,"['Italian', 'Pizza']",100%,174
+905,Indian Veg Masala,['Indian'],98%,74
+906,Alcalde Doner Kebab Pizzeria,"['Arabic', 'Pizza']",97%,60
+907,Restaurante Green's Aribau,['Mediterranean'],89%,67
+908,Pizzería Alfarras,['Pizza'],99%,47
+909,Komai Sushi Bar & Restaurant,"['Asian', 'Japanese']",95%,41
+910,Picarn,"['American', 'Arabic']",86%,39
+911,Burrikos,['Mexican'],88%,115
+912,Boston Pizza Numancia,['Pizza'],98%,75
+913,Pizza Virona,"['Italian', 'Pizza']",82%,124
+914,Dulce Adriana,"['Breakfast', 'Ice cream']",92%,77
+915,Pizzeria La Mia Mamma,['Pizza'],90%,33
+916,Company Sushi,"['Asian', 'Japanese']",91%,58
+917,Vegan Burger - Green Food,"['Breakfast', 'Sandwich']",100%,12
+918,Charlotte's Grill,['Burgers'],89%,37
+919,Auto Rosellon,['Mediterranean'],91%,29
+920,Milanesa Club,"['Chicken', 'International']",New,161
+921,Intrigo Pizzería,['Pizza'],94%,88
+922,Oassis Natural Cooking,"['Burgers', 'Pizza']",85%,30
+923,Fujimaya,['Japanese'],94%,63
+924,Pizzería Modomio,['Pizza'],91%,60
+925,EAT Curry,"['Indian', 'International']",74%,62
+926,Natsu Sushi,"['Japanese', 'Sushi']",88%,228
+927,Pappa e Pizza,"['Italian', 'Pizza']",92%,131
+928,Bella Istanbul,['Mediterranean'],83%,87
+929,Meme Burger,['Burgers'],88%,109
+930,La Piadina,"['Italian', 'Vegan']",90%,383
+931,Deep Detroit Style Pizza,['Pizza'],95%,71
+932,Milán Pizzería & Restaurant,['Pizza'],96%,224
+933,Star India,['Indian'],90%,71
+934,deWeggie's,"['Burgers', 'Pizza']",95%,10
+935,Yoshinoya 8,['Japanese'],89%,204
+936,Rainbowls,['Japanese'],92%,147
+937,Van Van Chicken Bar,['Chicken'],94%,100
+938,Nomomoto Ramen,['Japanese'],96%,17
+939,Durum De Barcelona,"['Arabic', 'Kebab']",91%,114
+940,Bar Miramar,"['Mediterranean', 'Paella']",95%,114
+941,Sartoria Panatieri Gràcia,['Pizza'],92%,492
+942,Man O Salva Restaurante,"['Arabic', 'Pizza']",98%,31
+943,Yoüme Poke,"['Healthy', 'Poke']",87%,84
+944,Mighty Kebabs,['Arabic'],94%,100
+945,Bar Taxi,['Mediterranean'],96%,81
+946,Rooster & Bubbles,['Chicken'],96%,210
+947,Ciutat Nova,['Asian'],85%,69
+948,Bon Sushi,"['Japanese', 'Sushi']",95%,173
+949,65 Slow Cooking,"['American', 'Healthy']",88%,91
+950,Dera restaurante,['Indian'],97%,39
+951,Boca Burger,['Burgers'],92%,37
+952,Pizza Italia,['Pizza'],93%,105
+953,Bar Restaurante Hitokoto,['Japanese'],94%,149
+954,Red Pizza,['Pizza'],92%,67
+955,Poke Bowls By Sushito,"['Poke', 'Sushi']",93%,74
+956,Indian Top Curry,['Indian'],80%,53
+957,Pizzería Río Janeiro,['Pizza'],97%,27
+958,Amorino,['Ice cream'],91%,98
+959,Restaurant Ruta 66,"['Burgers', 'Mexican']",88%,150
+960,Cachaca,['Italian'],95%,23
+961,Indian Barcelona,['Indian'],84%,11
+962,Milanesos,['Latin American'],91%,154
+963,La Muscleria,['Mediterranean'],93%,38
+964,Ivaan 9 Tapas & Pizza,"['Mediterranean', 'Pizza']",92%,29
+965,AA Pizzería Artesana,['Pizza'],92%,32
+966,Indian & Tandoori,['Indian'],86%,17
+967,Toscana,['Italian'],92%,21
+968,Gotham,"['Burgers', 'Mexican']",89%,57
+969,Mamá Alicia Pollo A L'ast,['Chicken'],81%,102
+970,Healthy Pleasure,"['Healthy', 'Mediterranean']",97%,312
+971,Damasquina,['Arabic'],87%,105
+972,Restaurante Nami,['Asian'],88%,78
+973,Pizza Italiano,['Pizza'],95%,38
+974,Catalana Kebab,['International'],95%,12
+975,Bitte! Wurst,['Burgers'],95%,62
+976,Domino's Pizza,['Pizza'],92%,173
+977,Lekker Café,['International'],78%,21
+978,Miss Poke,"['Healthy', 'Poke']",92%,111
+979,La Pizza Del Sakura - Halal,['Pizza'],88%,16
+980,Jungle Pizza,['Pizza'],97%,12
+981,Indian Herbs,['Indian'],95%,237
+982,Awais Grill,['Indian'],100%,11
+983,A Fuego! Costillas Y Alitas,"['American', 'Grill']",87%,93
+984,Fritto Pollo Crispy,"['American', 'Chicken']",74%,33
+985,Nana Pizzería Napoletana,['Pizza'],96%,394
+986,Bismillah Burguer,"['Arabic', 'Burgers']",85%,23
+987,Navas Doner Pizza,"['Arabic', 'International']",94%,44
+988,100 Montaditos Tapas,"['Mediterranean', 'Sandwich']",93%,161
+989,Adana Grill House,['Pizza'],89%,22
+990,Boston Pizza - Alfons XII,['Pizza'],95%,73
+991,Trattoria Di Guzman,"['International', 'Italian']",86%,126
+992,Bao's,['Japanese'],92%,84
+993,LomoAlto & LomoBajo,['Burgers'],93%,241
+994,The Real Milanesa,['American'],91%,284
+995,La Piadina del Sol,"['Burgers', 'Italian']",89%,76
+996,Maragall Doner Kebab,['Pizza'],93%,55
+997,La Turuleca,"['Latin American', 'Peruvian']",91%,499
+998,Sushi Ouchi,"['Asian', 'Sushi']",85%,18
+999,Meraki Sushi,"['Asian', 'Japanese']",92%,29
+1000,Efsane Istanbul Paralelo,['International'],85%,64
+1001,Cervecería Conde Drácula,['Mediterranean'],87%,95
+1002,Poke Vita,"['Healthy', 'Poke']",94%,92
+1003,Machado Doner Kebab & Pizzeria,"['Arabic', 'Pizza']",99%,124
+1004,Sushiemon,"['Japanese', 'Sushi']",94%,19
+1005,Pizza Gozo,"['Italian', 'Pizza']",90%,141
+1006,Burger World BCN Halal,['Burgers'],97%,105
+1007,Sichuan 3,"['Healthy', 'Japanese']",97%,130
+1008,Caradura Mitre,['Burgers'],93%,19
+1009,Garage Pizzas,['Pizza'],99%,24
+1010,Veggy Hot,"['Burgers', 'Vegetarian']",94%,67
+1011,The Fresh Rolls Lebanese,['Mediterranean'],87%,12
+1012,Autentiks,['American'],92%,121
+1013,Can Pollo Leña Especialistas,['Chicken'],90%,138
+1014,Frankfurt's Barceloneta,['Burgers'],94%,73
+1015,My Lebanon,['Arabic'],97%,27
+1016,Sushiko,"['Asian', 'Sushi']",87%,106
+1017,Sumac & Mambo,['Mediterranean'],89%,18
+1018,Pollo Al'Ast Halal,['Chicken'],98%,25
+1019,King Catalunya Kebab Pizzería Pollatra,"['Arabic', 'International']",95%,115
+1020,Real Duram,"['Arabic', 'International']",100%,19
+1021,Birria Burrito,['Mexican'],94%,121
+1022,Pizza Italiana,"['Italian', 'Pizza']",92%,60
+1023,Tacos 16,['Mexican'],83%,60
+1024,Istanbul Parrilla,['Arabic'],95%,77
+1025,Ami Shawarma,"['Arabic', 'Pizza']",72%,16
+1026,Tequeshop,['Latin American'],82%,45
+1027,Doner Pizza’s Kebabs,['Arabic'],96%,62
+1028,Oishii Sushi,"['Asian', 'Sushi']",94%,70
+1029,Gujrat Grill,"['Arabic', 'Burgers']",90%,44
+1030,India Gate,['Indian'],84%,131
+1031,Pizzería Valencia,['Pizza'],94%,111
+1032,La Tapadera Pizza,['Pizza'],91%,43
+1033,Pomodoro,['Italian'],94%,185
+1034,Bellasushi,"['Asian', 'Sushi']",92%,58
+1035,"Sushibox, La Sushitería","['Japanese', 'Sushi']",97%,72
+1036,"Sushibox, La Sushitería","['Japanese', 'Sushi']",97%,72
+1037,El Club de La Pasta,['Pizza'],91%,31
+1038,Funky Bakers,"['International', 'Pizza']",100%,57
+1039,Bella & Buona,"['Italian', 'Pizza']",90%,204
+1040,Data Restaurante,['Arabic'],93%,158
+1041,Pizza Maria Claret,"['Arabic', 'Indian']",93%,182
+1042,New York Cafe,"['Burgers', 'Pizza']",95%,67
+1043,SB Pizzería Kebab,"['Kebab', 'Pizza']",81%,25
+1044,Hop Viet,"['Asian', 'Vegan']",86%,108
+1045,La Vespa,['Burgers'],81%,35
+1046,El Gordito Del Sabor,"['Burgers', 'Mediterranean']",85%,46
+1047,Rey De Ali Baba Cornella,['Arabic'],82%,45
+1048,The Real Burger,"['American', 'Burgers']",88%,312
+1049,Soco,"['Burgers', 'Pizza']",99%,64
+1050,Bar Aitor,['American'],95%,87
+1051,Halal Burger,['Burgers'],92%,36
+1052,Pizza World,['Pizza'],92%,45
+1053,Burger Time,['Burgers'],98%,14
+1054,Premium Pizza,"['International', 'Italian']",77%,42
+1055,Asian Restaurant,['Indian'],69%,35
+1056,Delivery Nation,"['American', 'Healthy']",92%,89
+1057,Líder Kebab Istanbul,"['Arabic', 'Pizza']",94%,79
+1058,Confi Kebab - Kebab De Confianza,['Chicken'],95%,43
+1059,Gomorra La Pizza,['Pizza'],95%,75
+1060,Kurai Restaurante Japonés,"['Asian', 'Japanese']",88%,34
+1061,American Bite,"['American', 'Chicken']",93%,27
+1062,A L'AST! Pollo Asado,"['American', 'Chicken']",83%,68
+1063,Pastas 197,"['International', 'Italian']",86%,260
+1064,Sub Urban Street Food,"['Burgers', 'Mediterranean']",94%,23
+1065,Komeridiana,"['Latin American', 'Peruvian']",90%,90
+1066,Ninja Wings,"['American', 'Chicken']",89%,65
+1067,La Lolita,['Mediterranean'],93%,51
+1068,Boba Labo,['Breakfast'],78%,162
+1069,Starbucks,"['Snacks', 'Sweets']",69%,178
+1070,Granja Ca La Tere,['Asian'],92%,48
+1071,Restaurante El Cairo Tut,['Arabic'],85%,46
+1072,El Rey Del Pollo Leña Alast,['Chicken'],93%,147
+1073,Kebab De La Rambla,"['Arabic', 'Pizza']",91%,66
+1074,Parisien Retaurante,"['Burgers', 'Pizza']",84%,45
+1075,La República,"['Grill', 'Mediterranean']",81%,101
+1076,Catalunya Pita House Carrer De Amadeu Vives,"['Arabic', 'Pizza']",99%,38
+1077,La milanesa bcn,"['Chicken', 'Italian']",96%,281
+1078,Empanadas Macanudas,['Latin American'],98%,87
+1079,Pizzeria Virona Bordeta,"['Italian', 'Kebab']",92%,57
+1080,Taco Alto Vegan,"['Mexican', 'Vegan']",92%,32
+1081,Pupuseria Pica Pica,"['International', 'Latin American']",96%,104
+1082,Restaurante Indio Chilli,['Indian'],79%,28
+1083,Bam Bun,"['Healthy', 'Vegetarian']",83%,24
+1084,Restaurant Casa Bao,['Asian'],89%,22
+1085,Umi Sushi,"['Asian', 'Japanese']",95%,36
+1086,Mini Pizzas De Barcelona,['Pizza'],87%,51
+1087,Ovante,"['American', 'Burgers']",95%,172
+1088,Poke Sushi Time Take Away,"['Asian', 'Sushi']",100%,35
+1089,Koreans Do It Better,['Asian'],97%,166
+1090,MadreLievito Pizzerie,"['Italian', 'Pizza']",86%,169
+1091,Lunch and Catering,"['Arabic', 'Pizza']",98%,18
+1092,Bar Cafetería Meila,['Sandwich'],79%,34
+1093,Magic napoli,['Pizza'],91%,50
+1094,Catalunya Pita House,['Chicken'],95%,26
+1095,Rey De Istanbul Sagrada Familia,"['Arabic', 'International']",84%,90
+1096,Sushi Salón,"['Japanese', 'Sushi']",92%,220
+1097,La Mexicana De Tacos,['Mexican'],93%,52
+1098,Pasta Style,['Italian'],88%,85
+1099,Roma's Pizza,['Pizza'],94%,78
+1100,Sushi Bar Ding,"['Japanese', 'Sushi']",92%,132
+1101,Dirty Burgers,['Burgers'],92%,90
+1102,Pizzería Mil y Una,['Pizza'],92%,66
+1103,Metropolitan Gourmet Burgers,['Burgers'],86%,175
+1104,Sunrise Doner Kebab,"['Arabic', 'Kebab']",86%,77
+1105,Cadi Kebab Restaurant,"['Arabic', 'Pizza']",90%,34
+1106,Kurz & Gut,['Mediterranean'],91%,62
+1107,Aruku,['Asian'],98%,141
+1108,Pizzería Cornellà,['Pizza'],91%,27
+1109,Tapas Bona Sort,['Mediterranean'],74%,11
+1110,A Tu Bola,['International'],99%,65
+1111,Duram Rico,"['Arabic', 'Burgers']",95%,49
+1112,Dim Sum Munch,['Asian'],97%,10
+1113,Pizzería La Bella Toscana,"['Italian', 'Pizza']",98%,52
+1114,Raja Doner Kebab Pizzería,['Arabic'],95%,15
+1115,I Want Burritos,['Mexican'],77%,112
+1116,Konkai Wok & Sushi,"['Japanese', 'Sushi']",90%,38
+1117,Garage Poblenou,['Pizza'],99%,69
+1118,Ciao Bella,"['Italian', 'Pizza']",85%,83
+1119,El Parc Bar Restaurant,"['Mediterranean', 'Paella']",79%,31
+1120,Happy Burger,['Burgers'],89%,97
+1121,Smith,"['Mediterranean', 'Sandwich']",96%,147
+1122,Saith Kebab Pizzeria,['Arabic'],95%,49
+1123,The Real Greek Pitas,"['American', 'Greek']",94%,314
+1124,Tapes Barcelona,['Mediterranean'],78%,10
+1125,Pizza En Leña,['Pizza'],83%,117
+1126,Seoul Restaurant Corea,['Asian'],100%,60
+1127,El Racó Maremagnum,['Mediterranean'],93%,41
+1128,Sapor d'Italia,"['Italian', 'Pizza']",90%,154
+1129,Pollo Al'Ast,"['Arabic', 'Chicken']",95%,48
+1130,SARUBOBO Street Food,"['Asian', 'International']",92%,150
+1131,Riad Sakura arabe - Halal,"['Arabic', 'Pizza']",93%,35
+1132,Riad Sakura arabe - Halal,"['Arabic', 'Pizza']",93%,35
+1133,Cinesa,['Snacks'],83%,64
+1134,Pizza Town,['Pizza'],78%,326
+1135,Pasta Market Express,"['Italian', 'Pizza']",86%,34
+1136,De Healthy Vegan,"['Healthy', 'Vegan']",92%,68
+1137,Orimaki Bowl,['Asian'],98%,243
+1138,La Pala Pizza Bar,['Pizza'],91%,92
+1139,Big Al's,['Burgers'],91%,148
+1140,Il Posto,['Mediterranean'],88%,28
+1141,Bar Restaurante Carlos III,['Asian'],79%,62
+1142,Momo Avinyó,['Mediterranean'],99%,20
+1143,Punto y Coma,['Burgers'],88%,176
+1144,El Sazón de Lili,"['American', 'Burgers']",97%,140
+1145,Restaurante Libán,"['Arabic', 'Burgers']",95%,98
+1146,Savta Sándwich Shop,['Sandwich'],99%,303
+1147,Gelati Dino,['Ice cream'],97%,44
+1148,La Empanada Nacional,['Latin American'],95%,27
+1149,Istanbul Grill,"['Arabic', 'International']",72%,23
+1150,Kebab de Badalona,"['Arabic', 'Pizza']",81%,26
+1151,India & India,['Indian'],76%,12
+1152,Daler Doner Kebab,"['Arabic', 'Kebab']",83%,308
+1153,Mera Sushi,"['Asian', 'Sushi']",98%,33
+1154,Healthy Sandwich,"['Brunch', 'Sandwich']",92%,266
+1155,La Villa Sants,"['Italian', 'Pizza']",94%,108
+1156,King Doner Kebab Restaurant,"['Arabic', 'Pizza']",84%,83
+1157,Pizza Vespa,"['Italian', 'Pizza']",77%,76
+1158,Suma Manq'a,['Latin American'],93%,135
+1159,Vitali Pollo,['Pizza'],88%,17
+1160,Pollo House Avinguda De Rio De Janeiro,['Chicken'],86%,65
+1161,Milanesa Haus,"['Latin American', 'Milanese']",76%,46
+1162,Arepa Market,"['Latin American', 'Venezolana']",85%,28
+1163,Bowl Munch,['Healthy'],80%,56
+1164,House Of Ramen By Sushito,['Asian'],66%,55
+1165,Esglesia Major Pizzería Döner Kebab,"['Arabic', 'Pizza']",100%,21
+1166,Ándele,['Mexican'],91%,172
+1167,Foster's Hollywood,"['American', 'Burgers']",92%,277
+1168,Pasta X Pasta,['Italian'],80%,83
+1169,Pappa E Burger,['Burgers'],94%,22
+1170,Pasta Italian,"['International', 'Italian']",60%,47
+1171,Zakhang Wok & Pad Thai,['Asian'],82%,31
+1172,Amigo Kebab Pizzería,['Arabic'],89%,93
+1173,Grandys Empanadas,"['Latin American', 'Pizza']",96%,44
+1174,Señor Burrito,['Mexican'],80%,65
+1175,Mongolian Grill Genghis,"['Asian', 'Grill']",98%,38
+1176,Un Bocado,['Japanese'],95%,315
+1177,Pizzería Auténtica Italiana,['Pizza'],85%,66
+1178,Pizza World,"['Arabic', 'Pizza']",94%,19
+1179,Tortitas & Cakes,"['Snacks', 'Sweets']",98%,143
+1180,Sushi 197,"['Asian', 'Sushi']",92%,32
+1181,Carpi Pizza,['Pizza'],92%,18
+1182,Roman Pizza,"['Italian', 'Pizza']",97%,123
+1183,Fenix Bar Tapas,['Mediterranean'],92%,16
+1184,La Sagrada,"['Burgers', 'Mediterranean']",97%,50
+1185,XXL Durum Kebab,['Arabic'],93%,152
+1186,La Porca,['Burgers'],90%,301
+1187,Asador del Mar,"['marisco', 'Mediterranean']",88%,130
+1188,Enjoy A L'Ast,"['American', 'Chicken']",81%,24
+1189,Ándele,['Mediterranean'],94%,17
+1190,Changqing Sushi,"['Asian', 'Japanese']",96%,55
+1191,Pollo A L'ast & Kebab,"['Burgers', 'Chicken']",98%,28
+1192,Brasería Les Panolles,['Mediterranean'],96%,326
+1193,Il mercante di Venezia,"['Italian', 'Pizza']",95%,95
+1194,The Real Hot Dog,"['American', 'Burgers']",88%,187
+1195,La Chelinda,['Mexican'],72%,23
+1196,Pita Inn,"['Arabic', 'International']",88%,21
+1197,Sagradas Tapas,['Mediterranean'],95%,312
+1198,Pizzeria Segle XX,"['International', 'Italian']",84%,28
+1199,Narciso,"['Italian', 'Sandwich']",95%,41
+1200,Mancora,['International'],88%,29
+1201,International Burger,['Burgers'],93%,28
+1202,Padthaiwok,['Asian'],89%,132
+1203,Pizza Vila Italiana,['Pizza'],90%,159
+1204,Matsuri Sushi Bar,"['Japanese', 'Sushi']",87%,54
+1205,Córdoba Restaurante,['Indian'],81%,10
+1206,Allinone Pizzas,"['Mediterranean', 'Pizza']",84%,34
+1207,El Bombón,['Latin American'],96%,35
+1208,Golra,"['Arabic', 'Paella']",84%,29
+1209,Catalunya Pita House Carrer De Les Camèlies,['Arabic'],90%,69
+1210,Empanadas La Panada,['Latin American'],89%,25
+1211,For Sushi Lovers,"['Japanese', 'Sushi']",94%,70
+1212,Wok Palace,['Asian'],70%,38
+1213,Restaurante Blanquita,['Latin American'],92%,262
+1214,Bar Los Gallegos,['Mediterranean'],98%,73
+1215,Restaurante Chihuahua,"['Homemade food', 'Mexican']",85%,38
+1216,Kebab Johnny,"['Kebab', 'Mediterranean']",87%,39
+1217,Happy Pizza,"['International', 'Pizza']",85%,15
+1218,Yoshikawa,"['Asian', 'Japanese']",90%,23
+1219,Shanghai Stories,['Asian'],94%,112
+1220,Gusto Económico,['Asian'],80%,69
+1221,Pizza Torre,['Pizza'],84%,70
+1222,Albiceleste Bar,['Latin American'],74%,50
+1223,Hotdoks,"['American', 'Burgers']",96%,110
+1224,Rostisseria,['Chicken'],90%,63
+1225,Mix Fast Food,"['Burgers', 'Pizza']",87%,27
+1226,Sweet Teo,"['Bakery', 'Sweets']",93%,81
+1227,Los Panas,['Burgers'],99%,141
+1228,Feliz Pollo Last,"['Chicken', 'Kebab']",85%,198
+1229,Greek Aribau,['Mediterranean'],81%,78
+1230,Duram Y Pizza,"['Arabic', 'International']",82%,10
+1231,Bar Restaurante La Dehesa,['Mediterranean'],89%,107
+1232,Tasty Oasis,['Pizza'],92%,23
+1233,Restaurante Nawab,"['Asian', 'Indian']",86%,138
+1234,Sushi Munch,"['Asian', 'Japanese']",98%,24
+1235,Goichi Ramen House Barcelona,['Chicken'],78%,89
+1236,The Real Peri Peri Chicken,['Chicken'],89%,184
+1237,Kebab Rico Tío Chema,"['Arabic', 'Pizza']",93%,116
+1238,Kebab De Doner,"['Arabic', 'Pizza']",83%,20
+1239,Sushi Sun,"['Asian', 'Sushi']",96%,31
+1240,Super Rico Kebab Pizzeria,['Arabic'],77%,10
+1241,Gluck Barcelona,"['Burgers', 'Pizza']",98%,11
+1242,La Choza,"['Brunch', 'Burgers']",94%,92
+1243,Margherita La Pizza Di Alessio,['Pizza'],93%,83
+1244,Pita House Catalunya,['Arabic'],80%,25
+1245,Sabor 5 Doner Kebab y Pizzería,"['Arabic', 'Pizza']",88%,43
+1246,La Brasa Del Diablo,"['Burgers', 'Grill']",92%,13
+1247,Hard Rock Cafe,['Burgers'],95%,241
+1248,Santos Poke,"['Asian', 'Poke']",New,28
+1249,Burritos Chula Vista,"['American', 'Mexican']",89%,81
+1250,Pizzas 197,"['International', 'Italian']",95%,31
+1251,Durum XXL Kebab,['Arabic'],88%,34
+1252,Cuckoo Pollo Crispy,"['American', 'Chicken']",80%,99
+1253,Oasis Gastrobar,"['Burgers', 'Mediterranean']",91%,99
+1254,Ovvio Pizzeria,['Pizza'],95%,39
+1255,Pita Inn 2,['Arabic'],93%,21
+1256,La Burger Vegetal,['Burgers'],100%,55
+1257,Yuku,['Japanese'],96%,34
+1258,Chengdu,['Asian'],99%,21
+1259,Mr Steamer,['Japanese'],91%,57
+1260,El Tío Pío,['Chicken'],95%,151
+1261,Fish & Xips - Döner & Kebab Sants,['Arabic'],97%,25
+1262,Gusto Sano,"['Italian', 'Pizza']",97%,51
+1263,"RESTAURANTE ""LIMA LIMON""",['American'],92%,31
+1264,Chicken Lovers,"['American', 'Chicken']",78%,18
+1265,La Rotisserie Camarasa,['Chicken'],91%,48
+1266,Pizzería Roston,"['International', 'Italian']",New,19
+1267,Pizza Hot,['Pizza'],83%,83
+1268,Restaurante Reiskorn Barcelona,"['Asian', 'International']",93%,82
+1269,Pokes World,['Asian'],96%,164
+1270,Rostisseria Eli,['Mediterranean'],83%,269
+1271,Arashi,"['Asian', 'International']",98%,172
+1272,Frankfurt’s Original “Diagonal Mar”,"['American', 'Burgers']",95%,124
+1273,Cafe Pans by Pans&Company,['Mediterranean'],95%,84
+1274,Catalana grill,['Arabic'],85%,41
+1275,Royal Nepal,"['Asian', 'Indian']",95%,145
+1276,Sushi Som,"['Asian', 'Sushi']",95%,256
+1277,INDIAN PALACE,['Indian'],88%,138
+1278,Siamoqua,"['Italian', 'Pizza']",96%,83
+1279,Milano Pizza & Pasta Passeig De Maragall,['Pizza'],87%,61
+1280,Wino,['Asian'],97%,216
+1281,Frankfurt Y Bocatas,['Sandwich'],70%,39
+1282,La Petite Artiste,['Mediterranean'],93%,11
+1283,Internacional Restaurante Bar,"['Latin American', 'Mexican']",94%,113
+1284,Hey Mexico,"['American', 'Mexican']",84%,74
+1285,Fattoush,['International'],84%,57
+1286,Just Kebab & Drinks Sants,['Mediterranean'],81%,15
+1287,Green Room,['Burgers'],98%,118
+1288,Pizzería Arrabbiata,"['Italian', 'Pizza']",95%,108
+1289,Porta La Pasta,"['Italian', 'Mediterranean']",95%,321
+1290,Ramen Kumamon,['Japanese'],94%,171
+1291,Casa Carmen,['Mediterranean'],96%,134
+1292,Pizza Levante,"['Italian', 'Pizza']",75%,18
+1293,Bella's,"['Italian', 'Pizza']",94%,121
+1294,La Milanesísima,"['American', 'Latin American']",88%,100
+1295,Pak Pita Kebab,"['Arabic', 'Chicken']",96%,109
+1296,Pizzería Napoli Centrale,"['Italian', 'Pizza']",95%,333
+1297,Kenji Sushi Pro,"['Japanese', 'Sushi']",85%,43
+1298,Sushi Solar,"['Japanese', 'Sushi']",93%,106
+1299,Kansas Fried Chicken,"['American', 'Chicken']",76%,38
+1300,Rostisseria Marisol,['Chicken'],81%,33
+1301,Simple Bowls,"['Healthy', 'Vegetarian']",89%,76
+1302,Carl's Jr,"['American', 'Burgers']",87%,242
+1303,La Barbacoa De Gracia,['Mediterranean'],89%,26
+1304,La Piccola Roma,"['International', 'Pizza']",96%,79
+1305,Pizzería Girona Bar Y Kebab,['Arabic'],97%,69
+1306,Katxopos,['Mediterranean'],94%,121
+1307,Out Fry - Korean Fried Chicken By Taster,"['Asian', 'Chicken']",96%,208
+1308,Rajah,"['Asian', 'Indian']",86%,53
+1309,Palace Pizza,"['American', 'Pizza']",88%,62
+1310,Lush Food,"['Asian', 'Japanese']",88%,37
+1311,La Golosa Vegan Vurger - Gràcia,"['Burgers', 'Vegan']",89%,110
+1312,La Bodegueta,['Mediterranean'],90%,75
+1313,Rey De La India,['Indian'],87%,93
+1314,Cartagena Doner Kebab,"['International', 'Kebab']",98%,18
+1315,Sushi Idea,['Asian'],74%,10
+1316,Wok Chow Mein,['Asian'],91%,58
+1317,Laregustosa - Casa de empanadas,['Latin American'],92%,34
+1318,Kebab Turc,"['Arabic', 'Pizza']",92%,112
+1319,Infusiónfood,"['Burgers', 'International']",86%,14
+1320,Fresh Food,"['Arabic', 'Pizza']",96%,35
+1321,Oh Gandhi,"['Indian', 'International']",77%,22
+1322,Flexkito Bowls,"['Healthy', 'Poke']",89%,145
+1323,Hot Pollo,['Chicken'],80%,145
+1324,Patacón Pizao,['Latin American'],39%,10
+1325,Brunch Arepa,"['Latin American', 'Venezolana']",94%,61
+1326,Mango & Caoba Cocina Vegana,"['Healthy', 'Vegan']",92%,93
+1327,Kure Sushi,"['Asian', 'Japanese']",78%,109
+1328,Burritomanía,['Mexican'],90%,26
+1329,La Vega Grill,"['American', 'Burgers']",93%,128
+1330,Bar Restaurant 606,['Japanese'],95%,12
+1331,India Veg House,['Mediterranean'],91%,48
+1332,Fish & Chips Club Sants,['Burgers'],--,38
+1333,Sushi Tayu,"['Asian', 'Sushi']",--,214
+1334,"Carnosos, Tacos y Burritos","['American', 'Mexican']",93%,34
+1335,Ramen Dou,"['Asian', 'Japanese']",93%,16
+1336,Tandoori Estacio,['Indian'],84%,19
+1337,Señor Chutney,"['Healthy', 'Vegan']",New,40
+1338,Happy Kebab,"['Arabic', 'Pizza']",83%,51
+1339,Simple Empanadas,['Latin American'],--,179
+1340,Catalunya Pita House,['Arabic'],84%,140
+1341,Hm El Carmel Doner Kebarb Y Pizzería,"['Burgers', 'International']",83%,243
+1342,Carpi Italiano,"['International', 'Pizza']",--,77
+1343,Bambú Sushi Bar,"['Asian', 'Japanese']",95%,170
+1344,HFC Halal Fried Chicken,['Chicken'],87%,127
+1345,Shanghai Mama,"['Asian', 'Chinese']",92%,41
+1346,Bella Pizza,"['Italian', 'Mediterranean']",New,110
+1347,Pizza Mamamia,['Pizza'],94%,10
+1348,Taste of India,['Indian'],90%,34
+1349,Roost Chicken,['Chicken'],84%,49
+1350,Roots Vegan Food,"['Healthy', 'Vegan']",87%,101
+1351,Bella Pasta,['Italian'],77%,123
+1352,Juan Doner Kebab,"['Arabic', 'Kebab']",89%,38
+1353,Citrus|Sushi,"['Japanese', 'Sushi']",89%,56
+1354,La Teke,"['Latin American', 'Venezolana']",85%,18
+1355,Royal Rey,"['Asian', 'Indian']",--,20
+1356,Pasa Palo Express,"['Latin American', 'Venezolana']",85%,42
+1357,Think Healthy,"['Healthy', 'Mediterranean']",90%,177
+1358,Indian Town,['Indian'],90%,204
+1359,Kebab Hostafrancs,"['Arabic', 'Pizza']",68%,141
+1360,Pizza Halal,['Pizza'],86%,125
+1361,Bar Restaurante Morenita,"['American', 'Latin American']",90%,125
+1362,Las Empanadas De Diego,"['Latin American', 'Mediterranean']",92%,43
+1363,Pizzería 7 Bello,"['Italian', 'Pizza']",79%,42
+1364,Hamburguesería Calabria,['Burgers'],--,20
+1365,Maxi Duram,['Arabic'],--,36
+1366,Kebab & Pizza,"['Arabic', 'Pizza']",79%,58
+1367,La Clote Burger,['Burgers'],83%,147
+1368,Lloreda,"['Arabic', 'Pizza']",91%,14
+1369,Gate Way Pizzería,['Pizza'],84%,87
+1370,Fritto Pollo Crispy,"['American', 'Chicken']",73%,57
+1371,Milanga Burger,"['Burgers', 'Latin American']",90%,78
+1372,Gust Doner,"['Indian', 'Pizza']",95%,10
+1373,Sushi Passion,"['Asian', 'Sushi']",86%,17
+1374,Taquería Encanto,"['International', 'Mexican']",57%,110
+1375,Japan Home,['Japanese'],94%,49
+1376,Oasis Doner Kebab,['Arabic'],90%,49
+1377,Rico Doner Kebab Pizzeria,['Arabic'],77%,12
+1378,Frankyfurt,"['American', 'Burgers']",91%,10
+1379,Happy Rock,"['Burgers', 'Mediterranean']",86%,22
+1380,Drinks And Chips,['International'],--,13
+1381,Pizzería Roma,"['Italian', 'Pizza']",70%,69
+1382,Pipe's Pizzería & Crepería,['Pizza'],88%,33
+1383,Indian Kitchen,['Indian'],74%,61
+1384,La Granja De Gracia,"['Mediterranean', 'Sandwich']",87%,38
+1385,Al Noor Doner Kebab Pizzería,"['Arabic', 'International']",77%,24
+1386,Sushi Ikko,"['Asian', 'Japanese']",79%,37
+1387,Ben & Jerry's y Magnum,['Ice cream'],89%,52
+1388,Punta Cana Higüey Bar,['Mediterranean'],90%,12
+1389,El Rey Del Wok,['Japanese'],81%,22
+1390,Sushi Selección,['Japanese'],77%,57
+1391,Bar Jordi Cafetería Restaurante,"['Breakfast', 'Pizza']",--,10
+1392,La Vendetta Badalona,"['Burgers', 'Italian']",80%,18
+1393,Croq & Roll,['Mediterranean'],90%,18
+1394,Sandwich & Salad,"['Burgers', 'Sandwich']",93%,78
+1395,Kebab Bbq,"['Arabic', 'International']",83%,44
+1396,Pizza al Box,"['Italian', 'Pizza']",70%,23
+1397,Punta,"['Italian', 'Pizza']",86%,43
+1398,Comida Hindú,['Indian'],81%,94
+1399,Brookling Wings,['American'],70%,93
+1400,Let's Walk For The Wok,['Asian'],90%,152
+1401,Little Italia,['Pizza'],73%,51
+1402,Nosh Grill,['Mediterranean'],--,44
+1403,Casa Del Pollo A L'Ast,['Chicken'],70%,88
+1404,Rico Kebab 2,"['Arabic', 'Pizza']",89%,57
+1405,Love Tacos,['Mexican'],53%,46
+1406,Vegan Food,"['Healthy', 'Vegan']",--,33
+1407,Heladería París,['American'],88%,61
+1408,Wok Sano,['Asian'],67%,33
+1409,Classic Indian,['Indian'],81%,99
+1410,Tandoori Barcelona,['Indian'],86%,166
+1411,Rey Kebab Pizzería Esplugues,"['Arabic', 'International']",89%,13
+1412,California Rolls & Sushi,"['Asian', 'Sushi']",76%,17
+1413,Rápido Doner,"['Arabic', 'Pizza']",--,39
+1414,Super Spicy XXL Kebab,['Kebab'],New,10
+1415,Best Pizza Shop,['International'],--,60
+1416,Al Rahmat Restaurant,"['Arabic', 'Indian']",60%,119
+1417,Pizzería Piccolo,"['Italian', 'Pizza']",85%,157
+1418,Pizza Station,['Pizza'],89%,13
+1419,Sumo Glories,"['Japanese', 'Poke']",86%,105
+1420,South Indian,['Indian'],--,134
+1421,Ruar Street Food,"['American', 'Burgers']",89%,33
+1422,Braseria La Amistad,['International'],--,63
+1423,Sher -E- Punjab,['Indian'],--,19
+1424,Sushi 2x1 Barcelona,"['Asian', 'Sushi']",--,45
+1425,Armoniia,"['Burgers', 'Gourmet']",96%,11
+1426,Rock & Boom,"['Breakfast', 'Burgers']",New,27
+1427,Espak2 Mecdonner,['Arabic'],78%,10
+1428,Mazah,"['Arabic', 'International']",89%,15
+1429,Anormal,"['Latin American', 'Seafood']",84%,25
+1430,Off Street Pizzería Burger,['Burgers'],84%,10
+1431,Istanbul Kebap,['Mediterranean'],88%,17
+1432,Verona Pizza,['Pizza'],87%,46
+1433,King Kebab 6 Pizzería Brasería,['Arabic'],--,26
+1434,Bologna Pizza 2X1,['Pizza'],70%,107
+1435,Dream Café,"['Asian', 'International']",--,136
+1436,El Maracucho Grill House,"['Burgers', 'Grill']",84%,93
+1437,Italian Pizza Mine,['Pizza'],--,25
+1438,Crazy Starters,['Mediterranean'],72%,19
+1439,Snack Picnic,['Burgers'],78%,97
+1440,Bar Salvadoreño 503,['Mediterranean'],95%,50
+1441,LABARRA Westside,['Mediterranean'],97%,256
+1442,Toro Burger Lounge,"['American', 'Burgers']",82%,37
+1443,Villa Caprice,"['Mediterranean', 'Pizza']",99%,10
+1444,Bar Restaurante Cachut,['Mediterranean'],60%,12
+1445,California Grill,['International'],--,27
+1446,Granja Bar Extremeño,['Mediterranean'],77%,89
+1447,La Casa De La Milanesa,['Milanese'],--,71
+1448,Merry Restaurante,['Arabic'],66%,10
+1449,Casa Hamburguesa,['Burgers'],96%,13
+1450,Mogollon's,['Pizza'],100%,44
+1451,Pikeos 111,['Latin American'],82%,14
+1452,Master Burger House,['Burgers'],67%,12
+1453,Yaffa,['Arabic'],90%,43
+1454,Santa Mila'S,['Latin American'],New,143
+1455,Spicy Burger,['Burgers'],--,155
+1456,Durum De Kebab,['Arabic'],80%,13
+1457,Pizzería  Off Street,"['Burgers', 'Pizza']",97%,49
+1458,Burger Café,"['Burgers', 'Mediterranean']",--,49
+1459,Vía Julia,['Arabic'],--,118
+1460,Ariba Doner Kebab&Restaurant,"['Indian', 'International']",82%,50
+1461,Restaurante 4Vents,['Mediterranean'],New,10
+1462,¡Ándale Burrito!,['Mexican'],94%,20
+1463,Burger Shop,['Burgers'],91%,124
+1464,Pizzería Artesana,['Pizza'],--,36
+1465,Nachos & Co,['Mexican'],83%,10
+1466,Tumi,"['International', 'Latin American']",79%,16
+1467,Blukla Bar,"['Burgers', 'Snacks']",--,86
+1468,Born Canelón,['Mediterranean'],87%,55
+1469,VICIO ALTA DEMANDA,['Burgers'],--,11
+1470,La Hamburguesa Burger Niu,"['American', 'Burgers']",74%,10
+1471,Stop Burger,['Burgers'],--,25
+1472,Tapas Off Street,['Mediterranean'],96%,10
+1473,Burger Vespa,"['Burgers', 'Italian']",92%,45
+1474,Indian Continental,['International'],--,16
+1475,Restaurante Divan,"['International', 'Pizza']",--,62
+1476,Euro Top Doner Kebab,"['Arabic', 'Pizza']",66%,84
+1477,Indian Vegeterian,['Vegetarian'],94%,86
+1478,Ukai Manuel Girona,"['Asian', 'Japanese']",94%,24
+1479,Meal&1 Healthy Food,"['Healthy', 'Mediterranean']",97%,10
+1480,Super Lebanon Sandwiches,"['Asian', 'Mediterranean']",84%,10
+1481,Corner Foods,"['Arabic', 'International']",93%,36
+1482,Super Rico 2 Doner Kebab Pizzería,['Pizza'],83%,70
+1483,Gochos,"['Burgers', 'Sandwich']",78%,129
+1484,AnaLaBrasa By Casa Carmen,['Mediterranean'],70%,10
+1485,Toichi Sushi Bar,"['Asian', 'Sushi']",76%,11
+1486,Herber 's,"['Burgers', 'Pizza']",93%,58
+1487,Durum 2x1 Barcelona,['Arabic'],73%,61
+1488,Taste Of Pakistán Authentic Homemade Curry,['Indian'],--,25
+1489,Simple Fried Pollo,['Chicken'],91%,61
+1490,Pizza Les Dues Sicilies Carders,"['Gourmet', 'Italian']",94%,68
+1491,Ravi Chargha House,"['Indian', 'Pizza']",93%,24
+1492,Tapas Intercontinental,['International'],--,35
+1493,Grill Corner Splau,['Mediterranean'],--,74
+1494,Cada Día Pollo A L'AST,['Chicken'],New,39
+1495,Rajasthan The Traditional Taste Of India,['Arabic'],87%,10
+1496,The Vegan Indian Curry,"['Indian', 'Vegan']",--,137
+1497,Shani Kabab Bar Pica Tapa Pizzería,"['Arabic', 'Pizza']",--,186
+1498,Pizzas Saludables,"['Healthy', 'Pizza']",--,70
+1499,Roasted Kebab,['Arabic'],64%,102
+1500,Joni Pizzería,['Pizza'],--,87
+1501,Ready Pollo a l´ast,"['Mediterranean', 'Sandwich']",78%,15
+1502,Ciao Ciao,"['Italian', 'Pizza']",64%,11
+1503,Roma Doner & Pizzería,"['Arabic', 'Pizza']",--,42
+1504,Croqueta Passion,['International'],New,107
+1505,Indian Masala Point,['Indian'],--,67
+1506,XXL Doner House,"['Arabic', 'Chicken']",New,121
+1507,Verdelivery By Rodrigo De La Calle,"['Healthy', 'Mediterranean']",--,17
+1508,Pizza Trozo Y Panadería,['Pizza'],75%,178
+1509,La Salchi,['Latin American'],62%,76
+1510,Brasayleña,"['Grill', 'Latin American']",92%,10
+1511,Un Poco De Pasta,['Italian'],85%,24
+1512,Fratè Ristorante Pizzería,"['Italian', 'Pizza']",93%,40
+1513,Apni Haveli,['Indian'],New,10
+1514,Aroma Di Sicilia,"['Italian', 'Pizza']",63%,156
+1515,Market Pizza,['Pizza'],New,21
+1516,Sushi & Rolls,"['Japanese', 'Sushi']",91%,142
+1517,La Casera Restaurante Pizzería Y Kebab,"['Arabic', 'Mediterranean']",--,10
+1518,Aromatic India,"['Indian', 'International']",79%,11
+1519,Beatrice,['Italian'],--,64
+1520,Restaurante Santilari,"['Mediterranean', 'Sandwich']",42%,50
+1521,Calzone Pizza,"['International', 'Italian']",--,101
+1522,El Paisa Kebabish 6,['Pizza'],77%,18
+1523,New Pelda,"['Arabic', 'Pizza']",--,10
+1524,Pollo Al’Ast Brato,"['International', 'Italian']",--,15
+1525,Tacos & Tragos Hijos De Escobar,['Mexican'],63%,104
+1526,Ali Pizzería y Hamburguesería,['Pizza'],77%,123
+1527,Tasty Poke Bar,"['Healthy', 'Poke']",89%,63
+1528,The Real Lobster Bun,"['American', 'Burgers']",--,10
+1529,Pollos Royal,['Chicken'],83%,10
+1530,Crispy Chicken,"['American', 'Burgers']",86%,78
+1531,Las Milongas,['Sandwich'],92%,11
+1532,PinkBuda Burger,"['Burgers', 'Mediterranean']",New,43
+1533,Super Halal Hotdog's,"['American', 'Snacks']",--,29
+1534,Port De Gorg Kebabish Restaurant,"['Arabic', 'Pizza']",86%,11
+1535,Lovely Doner,"['Arabic', 'Italian']",--,45
+1536,Rey De Ali Baba,['Arabic'],95%,21
+1537,Sand-Cent,"['Mediterranean', 'Sandwich']",--,86
+1538,Tapes Jardi Gastrobar,['Burgers'],--,127
+1539,Momenti di Pizza,"['Italian', 'Pizza']",--,43
+1540,Asador De Aranda,['Mediterranean'],84%,241
+1541,Mr. Hummus,['Arabic'],92%,10
+1542,Tete Doner,"['Arabic', 'Burgers']",--,11
+1543,JUNK,"['American', 'Burgers']",New,94
+1544,La Paradita,['Sandwich'],92%,10
+1545,La Cukita (Pan Y Pizza),['International'],--,88
+1546,TakeAway Kebab,"['Arabic', 'Pizza']",--,87
+1547,Turquía Döner Kebab,"['Arabic', 'Pizza']",90%,22
+1548,Restaurante Kinza,['International'],95%,37
+1549,Kebab Sant Andreu,"['Arabic', 'Pizza']",--,46
+1550,Restaurante Green's,"['International', 'Mediterranean']",93%,16
+1551,Hangzhou,['Asian'],94%,95
+1552,Smart Pokes,['Poke'],--,41
+1553,La Fábrica del Taco,['Mexican'],88%,115
+1554,Pizzería De La Rambla,['Pizza'],--,25
+1555,Durum Barceloneta,['Arabic'],--,61
+1556,Gaijin Sushi,"['Asian', 'Japanese']",--,11
+1557,Estrilla Kebab,"['Arabic', 'Pizza']",--,28
+1558,We Love Pizza,['Pizza'],96%,39
+1559,Best Chef Pollo A L'ast,['Chicken'],66%,11
+1560,L'Olivera,"['Mediterranean', 'Sandwich']",63%,59
+1561,Jungle Burger,['Burgers'],--,21
+1562,Entre Tapes Meridiana,"['Chicken', 'Mediterranean']",82%,18
+1563,Kebab Roll Barcelona,['Arabic'],67%,13
+1564,Sushi Cor,"['Asian', 'Sushi']",--,10
+1565,Asador La Cocinita,"['Burgers', 'Mediterranean']",100%,70
+1566,Almita,['Mediterranean'],98%,17
+1567,Pizzaland,['Pizza'],46%,26
+1568,La Heladería,['Ice cream'],91%,10
+1569,Taparazzi,['Mediterranean'],--,171
+1570,Happy Pasta,['Italian'],66%,284
+1571,Veggie Urban Food,"['Burgers', 'Vegetarian']",89%,40
+1572,Pasta Town,['Italian'],59%,82
+1573,Sushi Life,"['Asian', 'Japanese']",51%,63
+1574,Sushi Queen,"['Asian', 'Sushi']",--,141
+1575,Drinks & Tapas Mania,['Mediterranean'],--,14
+1576,A Burgers Dirty Vegan Burgers By Taster,"['Burgers', 'Vegan']",--,10
+1577,Giuliani's,['Pizza'],New,29
+1578,Roma Pasta,"['Italian', 'Mediterranean']",80%,36
+1579,La Pala Boqueria,['Pizza'],98%,147
+1580,Ginos,"['Italian', 'Pizza']",84%,16
+1581,Obama English Pub,"['American', 'Burgers']",--,18
+1582,Rasturant Dues Portes,['Mediterranean'],74%,18
+1583,Muy Riko Pollo,['Chicken'],62%,61
+1584,La Jarta,"['Arabic', 'International']",--,12
+1585,Sexy Crab Sushi & Rolls,"['Asian', 'Sushi']",--,28
+1586,Pizzas Cataluña,['Pizza'],80%,42
+1587,Sweet Dreams,"['Ice cream', 'Sweets']",94%,84
+1588,Sabor Latino Yolanda,"['Chicken', 'Mexican']",--,57
+1589,Ikko Pizza,['Asian'],--,18
+1590,Mediterráneo Ristorante,['Pizza'],96%,15
+1591,Pasta Time,['Italian'],85%,87
+1592,Kiss Burger,['Burgers'],66%,40
+1593,Pizzería Catalunya,"['Chicken', 'Pizza']",--,37
+1594,The Burger House And Tapas,"['Burgers', 'International']",75%,33
+1595,Trieste Horta Doner Kebab y Pizzeria,['Pizza'],61%,10
+1596,Prieto Empanadas BCN,['Latin American'],84%,36
+1597,Wok & More,['Asian'],83%,60
+1598,Tapas 2022,['American'],78%,61
+1599,Pollo Criollo,"['Chicken', 'Latin American']",68%,10
+1600,Furawa,['Japanese'],80%,37
+1601,Best Kebab Pollo Burger Pizza,"['Burgers', 'Chicken']",64%,35
+1602,Pizzería Manso,"['Burgers', 'International']",89%,10
+1603,Margarita's,['Pizza'],--,51
+1604,Pita House Progreso,['Pizza'],--,22
+1605,Kebab & Pizza,"['Arabic', 'Pizza']",--,23
+1606,Golden Big Burger,['Burgers'],57%,53
+1607,Bar Sporting,"['Mediterranean', 'Sandwich']",New,41
+1608,Maki & Maki,['Asian'],--,14
+1609,Love Mojitos Fresh,['Snacks'],81%,13
+1610,Ruta 6,['Burgers'],97%,10
+1611,Guacamole Tex Mex By Ronda Fusion,"['Latin American', 'Mexican']",85%,10
+1612,Sandwitch Nourddin,['Sandwich'],95%,12
+1613,Habib´s Village,"['Arabic', 'Indian']",84%,11
+1614,Bar Teatre,"['American', 'Mediterranean']",New,122
+1615,Pizzeria Número 1,['Pizza'],94%,34
+1616,Santa Larica,"['American', 'International']",99%,32
+1617,El Tango Brasa,"['Mediterranean', 'Pizza']",--,68
+1618,North India Restaurante,"['Indian', 'International']",--,11
+1619,Aloha Vegan Poké,"['Poke', 'Vegan']",99%,117
+1620,Arabic Kebab,"['Arabic', 'International']",--,28
+1621,I Love Pizza & Pasta,"['Italian', 'Pizza']",75%,49
+1622,Moica Burguer,['Burgers'],71%,10
+1623,Bagels & Bagels,['Breakfast'],98%,12
+1624,Pizzeria,['Pizza'],--,10
+1625,King Pizza & Burgers & Pastas,"['Burgers', 'Italian']",70%,18
+1626,Trattoria 229,"['Arabic', 'Burgers']",--,158
+1627,Antojos,['Sweets'],93%,49
+1628,Hanaki,['Japanese'],--,11
+1629,Dawat Restaurante,"['Arabic', 'Mediterranean']",82%,58
+1630,Tommy Mel´s By LGFM,"['Burgers', 'Mediterranean']",--,36
+1631,Pizzeria Don Vitto,['Pizza'],53%,11
+1632,La Raza Taquería,['Mexican'],71%,32
+1633,National Burger,['American'],94%,12
+1634,Italiano Pizza,['Pizza'],--,13
+1635,El Sabor De Kebab,"['Arabic', 'Pizza']",--,17
+1636,Dixy Kebab,"['Arabic', 'Burgers']",--,69
+1637,Delhi Gate,['Indian'],--,12
+1638,PizzAmore,['Pizza'],88%,43
+1639,Fresh Pollo,"['American', 'Mediterranean']",73%,91
+1640,Scandal Burgers,['Burgers'],72%,19
+1641,Lahori Tandoori,['Indian'],74%,10
+1642,Kebab La Dona,['Arabic'],54%,12
+1643,Italina Pizza,"['Chicken', 'Pizza']",--,19
+1644,Pizza Di Mare,"['Italian', 'Pizza']",--,10
+1645,Turkis Kebab,"['Arabic', 'Burgers']",88%,40
+1646,Ksara,['Arabic'],100%,10
+1647,Frankfurt,"['Burgers', 'Sandwich']",New,28
+1648,Bocadillos Express,['Arabic'],--,16
+1649,Pizza can sera,['Pizza'],--,19
+1650,American BBQ,"['American', 'Chicken']",88%,74
+1651,Pizzeria Ilodi,"['Italian', 'Pizza']",--,58
+1652,Valldaura Grill & Restaurant,"['Arabic', 'International']",--,10
+1653,Enriqueta,['Mediterranean'],92%,59
+1654,Pizzaland,['Pizza'],85%,21
+1655,Alquimia,"['American', 'Mediterranean']",--,14
+1656,El Duende Fast Food,"['Burgers', 'International']",--,25
+1657,Sushi Yakisoba,"['Asian', 'Sushi']",48%,10
+1658,MEGA GAME,['Sweets'],--,102
+1659,Cangre Smash Burger,['Burgers'],New,24
+1660,Burger Point BCN,['Burgers'],76%,27
+1661,Sushi Occidental,"['Asian', 'Sushi']",--,67
+1662,Prezzemolo,['Pizza'],96%,40
+1663,Kenko,['Latin American'],94%,12
+1664,"El Rey De Pollastres , El Rey De pizzería, El Rey De Kebab","['Chicken', 'Pizza']",--,11
+1665,Pizzería Lucà,['Pizza'],--,107
+1666,Pita House 2,['Pizza'],92%,10
+1667,Taste Of Bombay,['Thai'],--,11
+1668,Platos Cominados,"['Arabic', 'International']",--,35
+1669,Turk Pizza,['Pizza'],--,20
+1670,Sushi Late Night,"['Asian', 'Japanese']",45%,10
+1671,D’Snacks Halal Restaurant,['Burgers'],84%,13
+1672,Laiba Italiano,['International'],--,23
+1673,Jaipur India,"['Indian', 'International']",--,34
+1674,Colmena,"['Burgers', 'Mediterranean']",82%,34
+1675,Bar Flor De Café,"['Burgers', 'Sandwich']",--,10
+1676,The Urban Kebab,"['Arabic', 'Kebab']",--,26
+1677,II Gufo Coi Baffi,['Pizza'],--,15
+1678,Brisket Grill,['Mediterranean'],94%,10
+1679,Curry Style,['Indian'],52%,56
+1680,Durum De Badalona,['Arabic'],75%,10
+1681,Tasty Pizza,['Pizza'],78%,63
+1682,Ota Sushi,"['International', 'Japanese']",--,16
+1683,Bar Taperia Paula's,['Burgers'],--,39
+1684,Calzone Especial,"['International', 'Italian']",--,74
+1685,Hola Sushi,"['International', 'Sushi']",92%,19
+1686,Milanesa Veggy,['American'],74%,28
+1687,Frankfurt Donee,"['Arabic', 'Pizza']",--,25
+1688,La Tere Gastrobar,['Mediterranean'],80%,43
+1689,El Kebanza,['Arabic'],--,10
+1690,Munkies Burger,['Burgers'],--,22
+1691,Pizza's Frescas,['Pizza'],--,38
+1692,La Bendita,['Mediterranean'],100%,21
+1693,Marhaba Doner Kebab,['Arabic'],44%,18
+1694,Pizzeria Bar Basilico,['Pizza'],--,53
+1695,La Pizza del Born,['Pizza'],95%,500+
+1696,Pink Buda Burger,['Burgers'],95%,107
+1697,Buon Appetito,"['Italian', 'Pizza']",98%,29
+1698,La Norteñita,"['International', 'Latin American']",96%,328
+1699,Banna Thai,"['Asian', 'Thai']",94%,26
+1700,Quetzal,['Mexican'],93%,60
+1701,Arepa Munch,"['International', 'Latin American']",81%,27
+1702,"Yanda, Arroces Y Paellas","['Local food', 'Mediterranean']",95%,162
+1703,Pizza Natura Saludable Sin Gluten,"['Gluten free', 'Pizza']",94%,17
+1704,Donde Siempre BCN,"['International', 'Venezolana']",--,29
+1705,Pizzalab,['Pizza'],94%,35
+1706,Bar Bar - The Indian Gastronomia,['Indian'],96%,10
+1707,Entre Tapes Volga,"['Mediterranean', 'Sandwich']",98%,20
+1708,Bon Pizza,['Pizza'],94%,47
+1709,Casa Bangla,['Indian'],88%,65
+1710,Milanesa Parmigiana Bcn,"['Mediterranean', 'Milanese']",91%,25
+1711,Old Bastard Beer & Food,['Burgers'],91%,16
+1712,Mehman Khana,['Indian'],87%,27
+1713,Taima,['Burgers'],94%,25
+1714,Supra Barcelona,"['International', 'Pizza']",90%,182
+1715,La Modena,['Pizza'],98%,32
+1716,Mochica,"['Latin American', 'Peruvian']",92%,36
+1717,Sr. Baked Potato,['American'],97%,27
+1718,Karamba,"['Burgers', 'Pizza']",96%,14
+1719,Pizzería Pinsa Romana,['Pizza'],85%,60
+1720,Wok Fusion,['Japanese'],84%,15
+1721,La Picoteka,['Mediterranean'],97%,17
+1722,Pizza Raval,['Pizza'],88%,31
+1723,Mayelo Restaurante Peruano,"['Latin American', 'Peruvian']",90%,36
+1724,Restaurante Milagros,['Mediterranean'],87%,29
+1725,Milanesa la Ronda,"['Latin American', 'Mediterranean']",79%,14
+1726,Restaurante Bollywood,"['Arabic', 'Indian']",75%,68
+1727,Gilda by Belgious,['International'],90%,26
+1728,Chifa Calle Capon,['Asian'],91%,20
+1729,Señor Piña,"['Healthy', 'Poke']",90%,17
+1730,Redburger,['Burgers'],100%,39
+1731,Pizzería La Vila,"['Italian', 'Pizza']",70%,44
+1732,Eat Caribbean,"['American', 'Latin American']",93%,139
+1733,Miu Japonés,"['Healthy', 'Japanese']",89%,120
+1734,El Filete Ruso,"['Burgers', 'Healthy']",90%,134
+1735,Pizza & Pizza,"['Italian', 'Pizza']",67%,10
+1736,Pizza Davi,['Pizza'],73%,15
+1737,Quebap & Kebabish,['Arabic'],97%,13
+1738,Pizzería Barcelona,['Pizza'],90%,36
+1739,Kebab Express,['Arabic'],77%,23
+1740,Chino Fusión,"['Chinese', 'Japanese']",80%,24
+1741,Vegetal Veg,"['Vegan', 'Vegetarian']",97%,14
+1742,Milanesa Napolitana,"['Mediterranean', 'Milanese']",81%,67
+1743,Lajarta,"['Arabic', 'Indian']",71%,10
+1744,Fast Food Progreso,"['Burgers', 'Chicken']",69%,10
+1745,Los Sicilianos,['Pizza'],90%,11
+1746,Burger Point,['Burgers'],90%,59
+1747,Wok & Sushi,"['Asian', 'Japanese']",78%,65
+1748,The Cheezy Chips,"['Chicken', 'International']",85%,15
+1749,Wok y Poke,"['Asian', 'Japanese']",86%,38
+1750,Pizza Diavola,['Pizza'],63%,75
+1751,La Casa Kebab Turco,['Arabic'],81%,20
+1752,Sushi Asiática,"['Asian', 'Sushi']",67%,41
+1753,Curry Box,['Indian'],81%,20
+1754,Restaurante La Luna,"['International', 'Pizza']",83%,13
+1755,Shawarma Kebab,['Arabic'],69%,19
+1756,Pizza Two Go,['Pizza'],72%,29
+1757,The Butlers,"['Burgers', 'Gourmet']",87%,37
+1758,Drinks,"['Burgers', 'International']",86%,25
+1759,Sushi & Sushi,['Asian'],62%,126
+1760,Pizzería Vegetariana,['Pizza'],75%,27
+1761,Sabor De Istanbul,['Arabic'],70%,25
+1762,Sushi Fusion,"['Asian', 'Sushi']",68%,39
+1763,Set Especies,['Arabic'],92%,16
+1764,Curry Time,['Indian'],71%,21
+1765,"""Nico's Snacks""",['Mediterranean'],87%,25
+1766,Veggie Pizzeria,"['Italian', 'Pizza']",76%,11
+1767,Pizzeria Express,['Pizza'],64%,48
+1768,Pizzas 2x1,['Pizza'],56%,15
+1769,Durum & Kebab,"['Arabic', 'Chicken']",62%,20
+1770,Ch Naeem,['Pizza'],68%,26
+1771,The Milanesa' King,['Mediterranean'],62%,10
+1772,I Love Sushi,"['Asian', 'Japanese']",65%,28
+1773,Dune Tapería & Resort,"['Mediterranean', 'Paella']",45%,10
+1774,Usmania Kebab,"['Arabic', 'Mediterranean']",57%,10
+1775,Tapas Y Kebab,"['Arabic', 'Mediterranean']",45%,10
+1776,Restobar La Cusqueña,['Latin American'],42%,10
+1777,Sushi Palace,"['International', 'Japanese']",51%,43
+1778,Pulled Burger,['Burgers'],56%,30
+1779,Sushi Style,"['Japanese', 'Sushi']",54%,49
+1780,Pasta Sicily,"['Burgers', 'Italian']",44%,19
+1781,Green Sushi,"['Asian', 'Japanese']",41%,16
+1782,Pulled Burger,"['American', 'Burgers']",28%,16
+1783,SUSHI STAR,"['Asian', 'Sushi']",21%,33
