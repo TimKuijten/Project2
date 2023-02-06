@@ -45,5 +45,5 @@ At the end we can conclude that:
 - Most restaurants that deliver food deliver Pizza or Burgers, while when it comes to going out for dinner most restaurants serve Medeterranian dishes. Sushi however, is very popular for both. 
 - With getting breakfast or brunch delivered you can't go wrong; those two categories have the highest rating of all on Glovo.
 - When going out for Dinner in Barcelona you should go to a Southern-Italian or Polish restaurant; both have an average score of 100% on TripAdvisor.
-- Avoid Turkish restaurants to visit or order from, this is the only cuisine that is in the list of worst scoring cuisines in both lists.
+- Avoid Turkish restaurants to go to or order from, this is the only cuisine that is in the list of worst scoring cuisines in both lists.
 - 
