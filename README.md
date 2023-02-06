@@ -1,4 +1,4 @@
-### Ordering in (Glovo) or eating out (TripAdvisor)
+### What to eat? Ordering in (Glovo) or eating out (TripAdvisor)
 
 ![image](https://user-images.githubusercontent.com/121023453/216971838-8f1c6669-f68d-4f91-95a3-8d3295ca4836.png)
 
