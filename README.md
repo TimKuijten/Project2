@@ -34,3 +34,8 @@ In the boxplots above we see that the rating of restaurants in Glovo is higher t
 
 When merging both dataframes to one, with only showing restaurants that are on both platforms we have a dataframe of 355 restaurants. The avarage score of those restaurants is 10% higher on Glovo than on TripAdvisor
 
+
+![image](https://user-images.githubusercontent.com/121023453/217000878-f2262cfb-aa61-4ceb-ba2a-292b19a7ad9a.png)
+
+
+To check if there is a relation between ratings from Glovo, TripAdvisor and the Cuisine type we made this scatterplot but it seems that there is no relation.
