@@ -26,3 +26,6 @@ An overview of the categories with the highest ratings on Glovo and TripAdvisor.
 ![image](https://user-images.githubusercontent.com/121023453/216974285-4532cfc5-186a-4d73-aeb2-4a4c907d33ed.png)
 
 And the lowest rated cuisines
+
+![image](https://user-images.githubusercontent.com/121023453/216980456-f09786b0-629a-48d2-b3a8-e10847b32078.png)
+In the boxplots above we see that the rating of restaurants in Glovo is higher than in TripAdvisor. Which might also be affected by the way Glovo asks for a thumbs up/thumbs down once you open the app again after ordering. 
