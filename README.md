@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/121023453/216971838-8f1c6669-f68d-4f91-95a3-8d3295ca4836.png)
 
-We want to find out to what kind of restaurant we should go or order from. 
+We want to find out to what kind of restaurant we should go to or order from. 
 
 We found a TripAdvisor dataset on Kaggle with data of 125000 restaurants in Europe (https://www.kaggle.com/datasets/damienbeneschi/krakow-ta-restaurans-data-raw), first we cleaned the data by removing restaurants in all cities other than Barcelona, removing columns we don't need and we ended up with a dataframe of 8425 restaurants in Barcelona with name, cuisine style, the rating and amount of reviews. 
 
@@ -30,6 +30,19 @@ And the lowest rated cuisines
 ![image](https://user-images.githubusercontent.com/121023453/216980456-f09786b0-629a-48d2-b3a8-e10847b32078.png)
 In the boxplots above we see that the rating of restaurants in Glovo is higher than in TripAdvisor. Which might also be affected by the way Glovo asks for a thumbs up/thumbs down once you open the app again after ordering. 
 
+![image](https://user-images.githubusercontent.com/121023453/217066802-22780862-444e-468a-b840-7705e1dde5c7.png)
+
+In the bubble plot above we see the cuisines by average rating and the size of the bubble indicates the amount of reviews it has
+
+
+![image](https://user-images.githubusercontent.com/121023453/217068261-7bb52752-a4b7-4a6e-b7a7-d50fcd062d33.png)
+
+TripAdvisor has a lot more different types of Cuisines, so we devided it in 2 charts 
+
+
+![image](https://user-images.githubusercontent.com/121023453/217068390-d9cdacd1-e5e1-4577-81ee-d3e3d4dbc8ed.png)
+A chart of cuisines of all nationalities in class (Pub = English)
+
 ![image](https://user-images.githubusercontent.com/121023453/216987376-4fba2e1a-36aa-42f1-b4fb-dbfdcc703036.png)
 
 When merging both dataframes to one, with only showing restaurants that are on both platforms we have a dataframe of 355 restaurants. The avarage score of those restaurants is 10% higher on Glovo than on TripAdvisor
@@ -39,11 +52,12 @@ When merging both dataframes to one, with only showing restaurants that are on b
 
 To check if there is a relation between ratings from Glovo, TripAdvisor and the Cuisine type we made this scatterplot but apart from that restaurants score higher in general on Glovo, there is no relation with the cuisine type.
 
-##Conclusion
+### Conclusion
 
 At the end we can conclude that: 
 - People that leave a review on Glovo are about 10% more positive than people on TripAdvisor; even when it is about the same restaurant. This might have to do with the way the Glovo app is asking for a review (thumb up/thumb down) when you open the app once you received your food. While for TripAdvisor you have to actively leave a review.
-- Most restaurants that deliver food deliver Pizza or Burgers, while when it comes to going out for dinner most restaurants serve Medeterranian dishes. Sushi however, is very popular for both. 
+- The more reviews the more difficult it is to have a high average score 
+- Most restaurants that deliver food deliver Pizza or Burgers, while when it comes to going out for dinner most restaurants serve Medeterranian dishes. Sushi/Japanese however, is very popular for both. 
 - With getting breakfast or brunch delivered you can't go wrong; those two categories have the highest rating of all on Glovo.
-- When going out for Dinner in Barcelona you should go to a Southern-Italian or Polish restaurant; both have an average score of 100% on TripAdvisor.
-- Avoid Turkish restaurants to go to or order from, this is the only cuisine that is in the list of worst scoring cuisines in both lists.
+- When going out for Dinner in Barcelona you should go to Polish restaurant it has an average of 100% on TripAdvisor (based on low amount of reviews).
+- Avoid Kebab/Turkish restaurants to go to or order from, this is the only cuisine that is in the list of worst scoring cuisines in both lists.
