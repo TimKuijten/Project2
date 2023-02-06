@@ -40,6 +40,7 @@ When merging both dataframes to one, with only showing restaurants that are on b
 To check if there is a relation between ratings from Glovo, TripAdvisor and the Cuisine type we made this scatterplot but apart from that restaurants score higher in general on Glovo, there is no relation with the cuisine type.
 
 ##Conclusion
+
 At the end we can conclude that: 
 - People that leave a review on Glovo are about 10% more positive than people on TripAdvisor; even when it is about the same restaurant. This might have to do with the way the Glovo app is asking for a review (thumb up/thumb down) when you open the app once you received your food. While for TripAdvisor you have to actively leave a review.
 - Most restaurants that deliver food deliver Pizza or Burgers, while when it comes to going out for dinner most restaurants serve Medeterranian dishes. Sushi however, is very popular for both. 
