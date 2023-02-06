@@ -11,4 +11,5 @@ To get similar data from Glovo, we used data scraping. By using data scraping we
 When merging those columns by name we only had about 110 exact matches, then I went back to the dataset and figured that the dataset was uploaded over 5 years ago. For that reason we decided to also use webscraping for TripAdvisor instead of using this dataset. By doing that we got the same information from 9700 restaurants in Barcelona.
 
 
-
+![image](https://user-images.githubusercontent.com/121023453/216970219-6847f626-acf2-4167-bc11-03396cff1917.png)
+Here we see the most common types of food offered on both platforms, we can see that for odering food people prefer fast food as Pizza and burgers, while for eating out Mediterranean and Japanese are the most common. 
