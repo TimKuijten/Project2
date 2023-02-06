@@ -1,8 +1,8 @@
-### Difference between ordering in (Glovo) and eating out (TripAdvisor)
+### Ordering in (Glovo) or eating out (TripAdvisor)
 
 ![image](https://user-images.githubusercontent.com/121023453/216971838-8f1c6669-f68d-4f91-95a3-8d3295ca4836.png)
 
-We want to find out more about the differences which types of food are popular, the rating and *****
+We want to find out to what kind of restaurant we should go or order from. 
 
 We found a TripAdvisor dataset on Kaggle with data of 125000 restaurants in Europe (https://www.kaggle.com/datasets/damienbeneschi/krakow-ta-restaurans-data-raw), first we cleaned the data by removing restaurants in all cities other than Barcelona, removing columns we don't need and we ended up with a dataframe of 8425 restaurants in Barcelona with name, cuisine style, the rating and amount of reviews. 
 
@@ -47,4 +47,3 @@ At the end we can conclude that:
 - With getting breakfast or brunch delivered you can't go wrong; those two categories have the highest rating of all on Glovo.
 - When going out for Dinner in Barcelona you should go to a Southern-Italian or Polish restaurant; both have an average score of 100% on TripAdvisor.
 - Avoid Turkish restaurants to go to or order from, this is the only cuisine that is in the list of worst scoring cuisines in both lists.
-- 
