@@ -1,6 +1,6 @@
-### Difference between eating out (TripAdvisor) and ordering in (Glovo)
+### Difference between ordering in (Glovo) and eating out (TripAdvisor)
 
-![image](https://user-images.githubusercontent.com/121023453/216969510-caddf3c4-d1f0-4afd-978f-846fb01d9587.png)
+![image](https://user-images.githubusercontent.com/121023453/216971838-8f1c6669-f68d-4f91-95a3-8d3295ca4836.png)
 
 We want to find out more about the differences which types of food are popular, the rating and *****
 
