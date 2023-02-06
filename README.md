@@ -48,11 +48,6 @@ A chart of cuisines of all nationalities in class (Pub = English)
 
 When merging both dataframes to one, with only showing restaurants that are on both platforms we have a dataframe of 355 restaurants. The avarage score of those restaurants is 10% higher on Glovo than on TripAdvisor
 
-
-![image](https://user-images.githubusercontent.com/121023453/217000878-f2262cfb-aa61-4ceb-ba2a-292b19a7ad9a.png)
-
-To check if there is a relation between ratings from Glovo, TripAdvisor and the Cuisine type we made this scatterplot but apart from that restaurants score higher in general on Glovo, there is no relation with the cuisine type.
-
 ### Conclusion
 
 At the end we can conclude that: 
@@ -60,5 +55,5 @@ At the end we can conclude that:
 - The more reviews the more difficult it is to have a high average score 
 - Most restaurants that deliver food deliver Pizza or Burgers, while when it comes to going out for dinner most restaurants serve Medeterranian dishes. Sushi/Japanese however, is very popular for both. 
 - With getting breakfast or brunch delivered you can't go wrong; those two categories have the highest rating of all on Glovo.
-- When going out for Dinner in Barcelona you should go to Polish restaurant it has an average of 100% on TripAdvisor (based on low amount of reviews).
+- When going out for Dinner in Barcelona you should go to Polish restaurant it has an average of 100% on TripAdvisor (based on low amount of reviews). When looking at cuisines with more reviews Japanese is the highest rated. 
 - Avoid Kebab/Turkish restaurants to go to or order from, this is the only cuisine that is in the list of worst scoring cuisines in both lists.
