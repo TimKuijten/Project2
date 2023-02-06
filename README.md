@@ -37,5 +37,4 @@ When merging both dataframes to one, with only showing restaurants that are on b
 
 ![image](https://user-images.githubusercontent.com/121023453/217000878-f2262cfb-aa61-4ceb-ba2a-292b19a7ad9a.png)
 
-
 To check if there is a relation between ratings from Glovo, TripAdvisor and the Cuisine type we made this scatterplot but it seems that there is no relation.
