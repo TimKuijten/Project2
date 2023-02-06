@@ -29,3 +29,8 @@ And the lowest rated cuisines
 
 ![image](https://user-images.githubusercontent.com/121023453/216980456-f09786b0-629a-48d2-b3a8-e10847b32078.png)
 In the boxplots above we see that the rating of restaurants in Glovo is higher than in TripAdvisor. Which might also be affected by the way Glovo asks for a thumbs up/thumbs down once you open the app again after ordering. 
+
+![image](https://user-images.githubusercontent.com/121023453/216987376-4fba2e1a-36aa-42f1-b4fb-dbfdcc703036.png)
+
+When merging both dataframes to one, with only showing restaurants that are on both platforms we have a dataframe of 355 restaurants. The avarage score of those restaurants is 10% higher on Glovo than on TripAdvisor
+
