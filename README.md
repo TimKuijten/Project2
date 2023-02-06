@@ -13,12 +13,15 @@ When merging those columns by name we only had about 110 exact matches, then I w
 
 ![image](https://user-images.githubusercontent.com/121023453/216971245-16de2863-253f-4a7a-bc55-8b3d9c4fda98.png)
 
+
 Here we see the most common types of food offered on both platforms, we can see that for odering food people prefer fast food as Pizza and burgers, while for eating out Mediterranean and Japanese are the most common. 
 
 
 ![image](https://user-images.githubusercontent.com/121023453/216972268-fe337714-e638-41d1-bfb5-b30b0888f020.png)
 
+
 An overview of the categories with the highest ratings on Glovo and TripAdvisor. There is a big difference between the cuisines in both charts, probably because in Glovo after every order you get a pop-up screen asking for a thumbs up/thumbs down for every order and people are easily satisfied with a breakfast, brunch, bakery items etc. While in TripAdvisor people have to be proactive to leave a review after their visit. 
+
 
 ![image](https://user-images.githubusercontent.com/121023453/216974285-4532cfc5-186a-4d73-aeb2-4a4c907d33ed.png)
 
