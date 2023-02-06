@@ -41,6 +41,7 @@ TripAdvisor has a lot more different types of Cuisines, so we devided it in 2 ch
 
 
 ![image](https://user-images.githubusercontent.com/121023453/217068390-d9cdacd1-e5e1-4577-81ee-d3e3d4dbc8ed.png)
+
 A chart of cuisines of all nationalities in class (Pub = English)
 
 ![image](https://user-images.githubusercontent.com/121023453/216987376-4fba2e1a-36aa-42f1-b4fb-dbfdcc703036.png)
