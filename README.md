@@ -40,7 +40,8 @@ In the bubble plot above we see the cuisines by average rating and the size of t
 TripAdvisor has a lot more different types of Cuisines, so we devided it in 2 charts 
 
 
-![image](https://user-images.githubusercontent.com/121023453/217068390-d9cdacd1-e5e1-4577-81ee-d3e3d4dbc8ed.png)
+![image](https://user-images.githubusercontent.com/121023453/217073148-e6f6175b-015e-43ac-ae17-0acf6d2fb025.png)
+
 
 A chart of cuisines of all nationalities in class (Pub = English)
 
